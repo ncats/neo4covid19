@@ -7,7 +7,7 @@ Preprint DOI:
 DOI:
 
 
-*LICENSE REMARKS*
+#LICENSE REMARKS
 
 
 This repository contains source code, and data and results files which are organized into various subdirectories.
@@ -22,18 +22,18 @@ Data and results subdirectory:
 data/
 
 
-# Source Code License of `neo4covid19` Repository
+*Source Code License of `neo4covid19` Repository*
 
 The applicable license to source code can be found in the root of the repository under filename: `LICENSE.txt` . This license is applicable to all files recursively in the Source code subdirectories as defined above. The file `NOTES.txt` in the root of the repository lists source code modules that were utilized and their respective licenses. These modules have their own licenses which might be different from the Source Code License of this repository, and they need to be respected accordingly.
 
-# Data License of `neo4covid19` Repository
+*Data License of `neo4covid19` Repository*
 
 The applicable license to data and results can be found under filename: `data/LICENSE.txt` . This license is applicable to all files recursively in the Data and results subdirectory  as defined above. The file `data/NOTES.txt` lists input files and resources utilized to compile the Neo4COVID19 and results files that can be considered as derivative work of those resources. These input files and resources have they own licenses which might be different from the Data License of this repository, and they need to be respected accordingly. In the same file we also list which results files can be considered as derivative works, and we also list the the respective ascendent data source(s).
 
 
 
 
-*Reproducing the Neo4COVID19 workflow and database*
+#Reproducing the Neo4COVID19 workflow and database
 
 
 
