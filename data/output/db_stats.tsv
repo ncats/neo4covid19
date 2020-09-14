@@ -1,0 +1,10 @@
+Dataset	Host Targets	Viral Targets	Compounds	HPIs	HHIs	DTIs
+Proteomics Study	60	-	-	-	-	-
+CRISPR	105	-	-	-	-	-
+Meta Path AI/ML	185	-	-	-	-	-
+STRING	768	-	-	-	74572	-
+SmartGraph / HATs	108	-	-	-	237	-
+Interactome Study	332	27	-	332	-	-
+P-HIPSter	38	28	-	155	-	-
+Predicted DTIs	53	-	33	-	-	95
+DrugCentral	127	-	635	-	-	1258

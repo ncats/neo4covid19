@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+__*
+__*.*
+._*
+._*.*
+.DS_Store
+.DS*
+.DS*.*
+cfg
+cfg*
+cfg*.*
+cfg/
+cfg/*
+cfg/*.*
+db.cfg

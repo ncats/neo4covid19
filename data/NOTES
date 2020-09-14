@@ -1,0 +1,34 @@
+*Input Data Sources*
+					
+Dataset	Origin				
+input/chembl_version_27_18052020_uniprot_mapping.tsv	ChEMBL v27	Creative Commons Attribution-ShareAlike 3.0 Unported	[ ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/latest/LICENSE ]	[ https://creativecommons.org/licenses/by-sa/3.0/ ]	
+input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx	from Collaborator				
+input/FIsInGene_020720_with_annotations.txt	Reactome	Creative Commons Attribution 4.0 International (CC BY 4.0) License	[ https://creativecommons.org/licenses/by/4.0/ ]		
+input/gene2uniprot.tab	UniProt				
+input/HATs.tsv	from Collaborator				
+input/Merged.xlsx	Collaborator / Publication, STRING	Krogan et al., [ https://www.biorxiv.org/content/10.1101/2020.03.22.002386v1 ]	[ https://string-db.org/cgi/access.pl?footer_active_subpage=licensing ]	Creative Commons Attribution 4.0 International (CC BY 4.0) License	[ https://creativecommons.org/licenses/by/4.0/ ]
+input/nat_drugtargets.tsv	Publication	D. Bojkova et al., Nature, vol. 583, no. 7816, pp. 469–472, Jul. 2020, doi: 10.1038/s41586-020-2332-7.			
+input/PHIPSTER_SARS_COV2.xlsx	P-HIPSTer	[ http://phipster.org/ ] , Gorka Lasso et al., Cell. 2019 Sep 5;178(6):1526-1541.e16. doi: 10.1016/j.cell.2019.08.005. Epub 2019 Aug 29.
+input/SARS-CoV-2-CRISPR-paper_mod.xlsx	publication	Wei et al., [ https://www.biorxiv.org/content/10.1101/2020.06.16.155101v1.full ]			
+input/SARS-CoV2.tsv	Krogan et al. preprint	Krogan et al., [ https://www.biorxiv.org/content/10.1101/2020.03.22.002386v1 ]			
+input/SG_HATs_dist_3_conf_0.00.json	SmartGraph (ChEMBL, SIGNOR 2.0)	[ https://smartgraph.ncats.io/ ] , 	SIGNOR db 2.0 [ https://signor.uniroma2.it/user_guide.php ]: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) [ https://creativecommons.org/licenses/by-sa/4.0/ ]	ChEMBL DB version 24 [ https://chembl.gitbook.io/chembl-interface-documentation/about ]: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) [ https://creativecommons.org/licenses/by-sa/3.0/ ]	
+input/SG_HATs_reverse_dist_3_conf_0.00.json	SmartGraph (ChEMBL, SIGNOR 2.0)	[ https://smartgraph.ncats.io/ ] , 	SIGNOR db 2.0 [ https://signor.uniroma2.it/user_guide.php ]: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) [ https://creativecommons.org/licenses/by-sa/4.0/ ]	ChEMBL DB version 24 [ https://chembl.gitbook.io/chembl-interface-documentation/about ]: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) [ https://creativecommons.org/licenses/by-sa/3.0/ ]	
+input/TDL_UniProt_TCRD6_rev.xlsx	Collaborator / Pharos	TCRD [ http://juniper.health.unm.edu/tcrd/download/ ]	[ http://juniper.health.unm.edu/tcrd/download/README ]		
+input/uniprot2gene.tab	UniProt	UniProt [ https://www.uniprot.org/help/license ]	Attribution 4.0 International (CC BY 4.0)	[ https://creativecommons.org/licenses/by/4.0/ ]	
+DrugCentral (on-the-fly download at compilation)	http://drugcentral.org/	[ http://drugcentral.org/privacy ]	Creative Commons Attribution-ShareAlike 4.0 International	 [ https://creativecommons.org/licenses/by-sa/4.0/legalcode ]	
+STRING (STRING API, stringAPP API, on-the-fly at compilation)	[ https://string-db.org/ ]	Creative Commons Attribution 4.0 International (CC BY 4.0)	[ https://string-db.org/cgi/access.pl ]	[ https://creativecommons.org/licenses/by/4.0/ ]	
+
+
+
+*Derivative Works*
+					
+Dataset	Derivative of				
+output/edges_dtis.tab	input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx from Collaborator, DrugCentral	DrugCentral			
+output/edges_ppi.tab	STRING, SmartGraph				
+output/nodes_drugs.tab	DrugCentral, input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx from Collaborator				
+output/nodes_proteins.tab	all data sources above				
+output/unique_host_proteins_prestring.txt	all data sources above, except SmartGraph, STRING, P-HIPSTer				
+output/db_stats.tsv	all data sources above				
+output/db_stats2.tsv	all data sources above				
+
+
