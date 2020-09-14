@@ -7,19 +7,20 @@ Preprint DOI:
 DOI:
 
 
-#LICENSE REMARKS
+#LICENSE REMARKS#
 
 
 This repository contains source code, and data and results files which are organized into various subdirectories.
 
 Source code subdirectories:
 
-code/
-ci/
+`code/`
+<BR>
+`ci/`
 
 Data and results subdirectory:
 
-data/
+`data/`
 
 
 *Source Code License of `neo4covid19` Repository*
@@ -33,7 +34,7 @@ The applicable license to data and results can be found under filename: `data/LI
 
 
 
-#Reproducing the Neo4COVID19 workflow and database
+#Reproducing the Neo4COVID19 workflow and database#
 
 
 
