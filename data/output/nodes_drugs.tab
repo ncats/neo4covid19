@@ -1,10 +1,8 @@
 struct_id	drug_name	SMILES	InChI	InChIKey	ID	CAS_RN	is_in_drugcentral	is_in_jdti	is_in_hcq	is_in_nhc	is_in_cam	is_in_drugs	node_type	metadata
--12	binodenoson						False	True	False	True	False	False	Compound	
--11	tecadenoson						False	True	False	True	False	False	Compound	
 -10	tubercidin						False	True	False	True	False	False	Compound	
--9	toyocamycin						False	True	False	True	False	False	Compound	
--8	guanosine						False	True	False	True	False	False	Compound	
--7	inosine						False	True	False	True	False	False	Compound	
+-9	tecadenoson						False	True	False	True	False	False	Compound	
+-8	toyocamycin						False	True	False	True	False	False	Compound	
+-7	binodenoson						False	True	False	True	False	False	Compound	
 -6	fludarabine						False	True	False	True	False	False	Compound	
 -5	troxacitabine						False	True	False	True	False	False	Compound	
 -4	N6-hydroxyadenosine						False	True	False	True	False	False	Compound	

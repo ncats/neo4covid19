@@ -96,7 +96,6 @@ CD300LG	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.
 CD4	False	True	False	False	False	True	False	True	False	target	human	Tchem	2.0	P01730	metadata
 CD8A	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P01732	metadata
 CDA	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	P32320	metadata
-CDC5L	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q99459	metadata
 CDK1	False	True	True	False	False	False	False	True	False	target	human	Tchem	2.0	P06493	metadata
 CDK4	False	True	True	False	True	False	False	True	False	target	human	Tclin	1.0	P11802	metadata
 CDK5RAP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96SN8	metadata
@@ -130,7 +129,6 @@ COLGALT1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.
 COMT	False	True	True	False	False	False	True	True	False	target	human	Tclin	1.0	P21964	metadata
 COPS5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92905	metadata
 COQ8B	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q96D53	metadata
-CPK1	False	False	False	True	False	False	False	False	False	target	human	unk	6.0		metadata
 CPSF6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q16630	metadata
 CREB1	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	P16220	metadata
 CREBBP	True	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q92793	metadata;role_crispr:resistance_pro_viral
@@ -171,7 +169,6 @@ DNAJC11	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.
 DNAJC19	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96DA6	metadata
 DNMT1	False	True	False	True	False	False	True	True	False	target	human	Tclin	1.0	P26358	metadata
 DOLK	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UPQ8	metadata;role_crispr:sensitization_anti-viral
-DOOH	False	False	False	True	False	False	False	False	False	target	human	unk	6.0		metadata
 DPF2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92785	metadata;role_crispr:resistance_pro_viral
 DPH5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H2P9	metadata
 DPP4	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P27487	metadata
@@ -241,7 +238,6 @@ FKBP15	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	
 FKBP7	False	False	False	False	False	False	True	False	False	target	human	Tbio	3.0	Q9Y680	metadata
 FLT1	False	True	True	False	False	True	False	True	False	target	human	Tclin	1.0	P17948	metadata
 FLT3	False	True	True	True	False	False	False	True	False	target	human	Tclin	1.0	P36888	metadata
-FN1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P02751	metadata
 FN3KRP	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HA64	metadata
 FOXRED2	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8IWF2	metadata
 FYCO1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BQS8	metadata
@@ -379,7 +375,6 @@ LILRA5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0
 LILRA6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6PI73	metadata
 LILRB2	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q8N423	metadata
 LMAN2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q12907	metadata
-LMP1	False	False	False	True	False	False	False	False	False	target	human	unk	6.0		metadata
 LOX	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P28300	metadata
 LRIT3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q3SXY7	metadata
 LUC7L	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NQ29	metadata
@@ -494,10 +489,8 @@ PCPB2	True	False	False	False	False	False	False	False	False	target	human	unk	6.0	
 PCSK6	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	P29122	metadata
 PCSK9	False	True	False	False	True	False	False	True	False	target	human	Tclin	1.0	Q8NBP7	metadata
 PDE4DIP	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5VU43	metadata
-PDLIM7	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9NR12	metadata
 PDZD11	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5EBL8	metadata
 PELO	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9BRX2	metadata
-PFHRP-II	False	False	False	True	False	False	False	False	False	target	human	unk	6.0		metadata
 PGK1	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P00558	metadata
 PGP	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A6NDG6	metadata
 PHF6	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8IWS0	metadata;role_crispr:resistance_pro_viral
@@ -565,7 +558,6 @@ PSME3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	
 PTBP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UKA9	metadata
 PTEN	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P60484	metadata
 PTGES2	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9H7Z7	metadata
-PTH	False	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	P01270	metadata
 PTPA	False	False	True	False	True	False	False	True	False	target	human	Tchem	2.0	Q15257	metadata
 PTPN1	False	True	True	False	True	False	False	True	False	target	human	Tchem	2.0	P18031	metadata
 PTPRA	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P18433	metadata
@@ -601,7 +593,7 @@ RDX	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P3
 REEP3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6NUK4	metadata
 REEP5	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q00765	metadata
 REEP6	False	False	False	False	False	False	True	False	True	target	human	Tbio	3.0	Q96HR9	metadata
-RELA	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	Q04206	metadata
+RELA	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q04206	metadata
 RET	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P07949	metadata
 RETREG3	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q86VR2	metadata
 RFC4	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P35249	metadata
@@ -617,11 +609,13 @@ RPL15	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0
 RPL18	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q07020	metadata
 RPL22	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P35268	metadata
 RPL23	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62829	metadata
+RPL23A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62750	metadata
 RPL26	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61254	metadata
 RPL27	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61353	metadata
 RPL29	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P47914	metadata
 RPL30	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62888	metadata
 RPL31	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62899	metadata
+RPL34	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P49207	metadata
 RPL35A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P18077	metadata
 RPL36	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y3U8	metadata
 RPL37A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61513	metadata
@@ -629,9 +623,11 @@ RPL38	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0
 RPL4	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P36578	metadata
 RPL5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46777	metadata
 RPL6	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q02878	metadata
+RPL7	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P18124	metadata
 RPLP0	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P05388	metadata
 RPS10	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46783	metadata
 RPS11	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62280	metadata
+RPS13	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62277	metadata
 RPS16	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62249	metadata
 RPS18	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62269	metadata
 RPS19	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P39019	metadata
@@ -677,7 +673,6 @@ SEPSECS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.
 SERPINB13	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UIV8	metadata;role_crispr:resistance_pro_viral
 SERTAD4	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q9NUC0	metadata;role_crispr:resistance_pro_viral
 SETD4	False	False	False	False	True	False	False	True	False	target	human	Tdark	4.0	Q9NVD3	metadata
-SH3RF1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q7Z6J0	metadata
 SH3YL1	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q96HL8	metadata;role_crispr:resistance_pro_viral
 SHC1	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	P29353	metadata
 SIAH1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8IUQ4	metadata;role_crispr:resistance_pro_viral
@@ -813,7 +808,6 @@ UBB	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P0C
 UBC	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P0CG48	metadata
 UBD	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	O15205	metadata
 UBE2I	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63279	metadata
-UBE2N	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61088	metadata
 UBQLN2	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q9UHD9	metadata
 UBTD1	False	False	False	False	False	True	False	True	False	target	human	Tdark	4.0	Q9HAC8	metadata
 UBXN7	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O94888	metadata;role_crispr:resistance_pro_viral
@@ -853,60 +847,58 @@ ZNF318	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0
 ZNF503	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96F45	metadata
 ZPR1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O75312	metadata;role_crispr:sensitization_anti-viral
 ZYG11B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9C0D3	metadata
-gag-pol	False	False	False	True	False	False	False	False	False	target	human	unk	6.0		metadata
-tmpC	False	False	False	True	False	False	False	False	False	target	human	unk	6.0		metadata
-SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 orf8			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp5			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 orf9b			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nucleocapsid protein (gene: N)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 leader protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp11			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 N			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 small envelope E protein			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp2			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 E			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp9			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp7			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 M			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 full_polyprotein 1..4382			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 envelope protein			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 hypothetical protein sars9b			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 spike glycoprotein precursor			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp15			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 orf3b			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 hypothetical protein orf7b			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 orf3a			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 3-to-5 exonuclease (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp13			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 Spike			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp4			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 orf7a			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp8			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 spike glycoprotein			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp12			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 Orf8			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp14			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 replicase 1AB			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 orf6			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp1			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp6			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 orf10			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp10			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 hypothetical protein sars7a			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 endoRNAse (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 Orf9			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 E2 glycoprotein precursor (gene: S)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp5_C145A			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 Orf13			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
 SARS-CoV2 nucleocapsid protein			False	False		True	False	False	False	target	virus	virus			metadata
 SARS-CoV2 orf9c			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp9			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp8			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 spike glycoprotein precursor			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp1			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 Orf8			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 small envelope E protein			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 spike glycoprotein			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 hypothetical protein sars7a			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp15			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 E2 glycoprotein precursor (gene: S)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 Spike			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 hypothetical protein sars9b			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 Orf9			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 orf3b			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp11			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 full_polyprotein 1..4382			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 hypothetical protein orf7b			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp7			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp4			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp5_C145A			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp12			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 replicase 1AB			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 orf3a			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 endoRNAse (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp10			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp6			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 M			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 E			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 orf10			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 3-to-5 exonuclease (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 N			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp2			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 orf8			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 orf6			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 orf9b			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 Orf13			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 leader protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp5			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nucleocapsid protein (gene: N)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 envelope protein			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp14			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 nsp13			False	False		False	True	False	False	target	virus	virus			metadata
+SARS-CoV2 orf7a			False	False		False	True	False	False	target	virus	virus			metadata

@@ -1,10 +1,8 @@
 source_node	target_node	p_chembl	action_type	is_activity_known	source	data_origin	priority	relationship	edge_label	is_in_drugcentral	is_in_jdti	comment	pmids	metadata	struct_id	drug_name
--12	ADORA1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-12_ADORA1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-12	binodenoson
--11	ADORA1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-11_ADORA1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-11	tecadenoson
 -10	ADK	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-10_ADK	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-10	tubercidin
--9	ADK	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-9_ADK	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-9	toyocamycin
--8	tmpC	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-8_tmpC	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-8	guanosine
--7	tmpC	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-7_tmpC	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-7	inosine
+-9	ADORA1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-9_ADORA1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-9	tecadenoson
+-8	ADK	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-8_ADK	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-8	toyocamycin
+-7	ADORA1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-7_ADORA1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-7	binodenoson
 -6	POLA	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-6_POLA	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-6	fludarabine
 -5	POLA	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-5_POLA	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-5	troxacitabine
 -4	TDP1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	-4_TDP1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	-4	N6-hydroxyadenosine
@@ -23,7 +21,6 @@ source_node	target_node	p_chembl	action_type	is_activity_known	source	data_origi
 24	HDAC2	4.19	unknown	True	DrugCentral	Web download	0	DTI	24_HDAC2	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	24	phenylbutanoic acid
 25	ADORA1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	25_ADORA1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	25	azacitidine
 25	DNMT1	3.0	inhibitor	False	DrugCentral	Web download	0	DTI	25_DNMT1	True	True			;orig_direction_drugcentral:manually_assigned_drug_to_target;orig_direction_jdti:manually_assigned_drug_to_target	25	azacitidine
-25	PTH	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	25_PTH	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	25	azacitidine
 43	MAPK1	5.227165073	unknown	True	DrugCentral	Web download	0	DTI	43_MAPK1	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	43	aceclofenac
 65	CHRM2	6.5	agonist	True	DrugCentral	Web download	0	DTI	65_CHRM2	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	65	acetylcholine
 66	CYCS	3.0	unknown	False	DrugCentral	Web download	0	DTI	66_CYCS	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	66	acetylcysteine
@@ -43,7 +40,6 @@ source_node	target_node	p_chembl	action_type	is_activity_known	source	data_origi
 90	SLC28A3	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	90_SLC28A3	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	90	adenosine
 90	SLC5A7	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	90_SLC5A7	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	90	adenosine
 90	TMIGD3	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	90_TMIGD3	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	90	adenosine
-90	tmpC	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	90_tmpC	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	90	adenosine
 91	HSPA1A	5.46999979019165	unknown	True	DrugCentral	Web download	0	DTI	91_HSPA1A	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	91	adenosine triphosphate
 91	HSPA8	4.76000022888184	unknown	True	DrugCentral	Web download	0	DTI	91_HSPA8	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	91	adenosine triphosphate
 91	P2RX1	7.25	agonist	True	DrugCentral	Web download	0	DTI	91_P2RX1	True	True			;orig_direction_drugcentral:manually_assigned_drug_to_target;orig_direction_jdti:manually_assigned_drug_to_target	91	adenosine triphosphate
@@ -157,17 +153,13 @@ source_node	target_node	p_chembl	action_type	is_activity_known	source	data_origi
 597	SLC47A1	6.15	unknown	True	DrugCentral	Web download	0	DTI	597_SLC47A1	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	597	chlorhexidine
 607	APP	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_APP	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
 607	BACE1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_BACE1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
-607	CPK1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_CPK1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
 607	DHFR	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_DHFR	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
-607	DOOH	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_DOOH	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
 607	NQO2	5.82	unknown	True	DrugCentral	Web download	0	DTI	607_NQO2	True	True			;orig_direction_drugcentral:manually_assigned_drug_to_target;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
-607	PFHRP-II	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_PFHRP-II	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
 607	PRNP	5.4	unknown	True	DrugCentral	Web download	0	DTI	607_PRNP	True	True			;orig_direction_drugcentral:manually_assigned_drug_to_target;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
 607	TLR7	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_TLR7	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
 607	TLR8	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_TLR8	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
 607	TLR9	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_TLR9	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
 607	TRAF3	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_TRAF3	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
-607	gag-pol	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	607_gag-pol	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	607	chloroquine
 621	ADRA1D	8.707743929	unknown	True	DrugCentral	Web download	0	DTI	621_ADRA1D	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	621	chlorpromazine
 621	CHRM2	6.74573516845703	unknown	True	DrugCentral	Web download	0	DTI	621_CHRM2	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	621	chlorpromazine
 621	ERBB2	4.712960072	unknown	True	DrugCentral	Web download	0	DTI	621_ERBB2	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	621	chlorpromazine
@@ -227,7 +219,6 @@ source_node	target_node	p_chembl	action_type	is_activity_known	source	data_origi
 766	AR	7.432	antagonist	True	DrugCentral	Web download	0	DTI	766_AR	True	False			;orig_direction_drugcentral:manually_assigned_drug_to_target	766	cyproterone acetate
 770	ADORA1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	770_ADORA1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	770	cytarabine
 770	FLT3	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	770_FLT3	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	770	cytarabine
-770	LMP1	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	770_LMP1	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	770	cytarabine
 770	MDM2	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	770_MDM2	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	770	cytarabine
 770	NCOA3	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	770_NCOA3	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	770	cytarabine
 770	POLA	3.0	unknown	False	DTI - Predicted	Data share on 2020/04/15 by collaborators.	8	DTI	770_POLA	False	True			;orig_direction_jdti:manually_assigned_drug_to_target	770	cytarabine
