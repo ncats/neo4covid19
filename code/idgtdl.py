@@ -27,6 +27,10 @@ FILE_gene2uniprot = '../data/input/gene2uniprot.tab'
 
 
 def uniprot2gene (proteins):
+
+	df_checkpoint = pd.DataFrame({'uniprot':proteins})
+	df_checkpoint.to_csv ('../data/output/uniprot_mapping_checkpoint.tsv', sep = '\t', index = False)
+
 	url = 'https://www.uniprot.org/uploadlists/'
 
 	query = ''
@@ -162,10 +166,17 @@ def get_tdl_by_gene_name (df, test = False):
 
 
 def gene2uniprot (proteins):
+	
+	df_checkpoint = pd.DataFrame({'gene_name':proteins})
+	df_checkpoint.to_csv ('../data/output/gene_name_mapping_checkpoint.tsv', sep = '\t', index = False)
+
+
 	url = 'https://www.uniprot.org/uploadlists/'
 	
 	query = ''
 
+	print ("OK")
+	print (proteins)
 
 	for p in proteins:
 		query += p + ' '

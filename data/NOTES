@@ -30,5 +30,6 @@ output/nodes_proteins.tab	all data sources above
 output/unique_host_proteins_prestring.txt	all data sources above, except SmartGraph, STRING, P-HIPSTer				
 output/db_stats.tsv	all data sources above				
 output/db_stats2.tsv	all data sources above				
-
+output/gene_name_mapping_checkpoint.tsv	all data sources above
+output/uniprot_mapping_checkpoint.tsv	all data sources above, except SmartGraph, STRING, P-HIPSTer
 

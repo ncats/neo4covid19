@@ -1,8 +1,8 @@
 category	number
-nr_targets	903
-nr_human_targets	848
+nr_targets	950
+nr_human_targets	895
 nr_viral_targets	55
-nr_compounds	650
+nr_compounds	641
 nr_hpi	487
-nr_hhi	74253
-nr_dti	1316
+nr_hhi	75089
+nr_dti	1265

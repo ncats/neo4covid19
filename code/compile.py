@@ -232,7 +232,7 @@ def add_conditional_metadata (df, cond_col, cond_val, md_col, md_key, md_val):
                 md_rec = ''
                 if cond_col == cond_val:
                         if len(md_orig) == 0:
-                                        md_rec = ";%s:%s" % (md_key, md_val)
+                                        md_rec = "%s:%s" % (md_key, md_val)
                         else:
                                         md_rec = md_orig
                                         md_rec += ";%s:%s" % (md_key, md_val)
@@ -261,7 +261,7 @@ def add_node_metadata (df, node_id, df_met, md_node_id_col, md_col, md_orig, md_
 
 
                         if len(md_orig) == 0:
-                                        md_rec = ";%s:%s" % (md_key, md_val)
+                                        md_rec = "%s:%s" % (md_key, md_val)
                         else:
                                         md_rec = md_orig
                                         md_rec += ";%s:%s" % (md_key, md_val)
@@ -270,7 +270,7 @@ def add_node_metadata (df, node_id, df_met, md_node_id_col, md_col, md_orig, md_
 
                 return (md_rec)
 
-	df[md_orig] = df.apply(lambda x: set_node_val (x[node_id], df_met, md_node_id_col, md_col, md_orig, md_key), axis = 1)
+	df[md_orig] = df.apply(lambda x: set_node_val (x[node_id], df_met, md_node_id_col, md_col, x[md_orig], md_key), axis = 1)
 
 	return (df)
 
@@ -406,6 +406,7 @@ df_taiml = df_taiml.rename (columns = {
 df_taiml = df_taiml[['human_protein']].copy()
 
 df_nat = df_nat.rename(columns = {'Gene Symbol01': 'human_protein'})
+df_nat_orig = df_nat.copy()
 df_nat = df_nat[['human_protein']].copy()
 
 df_crispr = df_crispr.rename (columns = {'gene_symbol': 'human_protein'})
@@ -937,6 +938,8 @@ df_all_unique_ppi = add_conditional_metadata (df=df_all_unique_ppi, cond_col='is
 
 df_proteins = add_node_metadata (df=df_proteins, node_id='gene', df_met=df_crispr, md_node_id_col='human_protein', md_col='notes', md_orig='metadata', md_key='notes_crispr')
 df_proteins = add_node_metadata (df=df_proteins, node_id='gene', df_met=df_crispr, md_node_id_col='human_protein', md_col='role', md_orig='metadata', md_key='role_crispr')
+df_proteins = add_node_metadata (df=df_proteins, node_id='gene', df_met=df_nat_orig, md_node_id_col='human_protein', md_col='Quantity_Change', md_orig='metadata', md_key='quantity_change')
+
 
 
 

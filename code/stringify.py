@@ -33,7 +33,9 @@ date_str = datetime.today().strftime('%Y-%m-%d')
 
 #genes = ["p53", "BRCA1", "cdk2", "Q99835"]
 
-genes_ignore_due_problem = ['ELOC', 'EP300', 'SLC25A5', 'TUBA1A', 'STAT1', 'ELOB', 'RBX1', 'CREBBP']
+
+
+genes_ignore_due_problem = ['ELOC', 'EP300', 'SLC25A5', 'TUBA1A', 'STAT1', 'ELOB', 'RBX1', 'CREBBP', 'SKP1']
 
 
 def filter_problematic_genes (genes):

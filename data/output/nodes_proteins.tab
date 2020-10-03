@@ -1,904 +1,951 @@
 gene	is_in_crispr	is_in_drugcentral	is_in_hats	is_in_jdti	is_in_natdt	is_in_phipster	is_in_preprint	is_in_string	is_in_taiml	node_type	target_type	tdl	tdl_priority	uniprot	metadata
-A2ML1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A8K2U0	metadata
-AAR2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y312	metadata
-AASS	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9UDR5	metadata
-AATF	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NY61	metadata
-ABCC1	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	P33527	metadata
-ABCE1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61221	metadata
-ABL1	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P00519	metadata
-ACAD9	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H845	metadata
-ACADM	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P11310	metadata
-ACE2	True	False	False	False	False	True	False	True	True	target	human	Tchem	2.0	Q9BYF1	metadata;role_crispr:resistance_pro_viral
-ACSL3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O95573	metadata
-ACTB	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P60709	metadata
-ACTL6A	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O96019	metadata;role_crispr:resistance_pro_viral
-ACVR1B	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P36896	metadata;role_crispr:resistance_pro_viral
-ADA	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P00813	metadata
-ADAM9	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q13443	metadata
-ADAMTS1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9UHI8	metadata
-ADAT2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q7Z6V5	metadata;role_crispr:sensitization_anti-viral
-ADK	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P55263	metadata
-ADORA1	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P30542	metadata
-ADRA1D	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P25100	metadata
-AGPS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O00116	metadata
-AKAP8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O43823	metadata
-AKAP8L	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9ULX6	metadata
-AKAP9	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99996	metadata
-AKT1	False	True	True	False	False	False	False	True	False	target	human	Tchem	2.0	P31749	metadata
-AKT2	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	P31751	metadata
-ALDH3A1	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P30838	metadata
-ALG11	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q2TAA5	metadata
-ALG5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y673	metadata
-ALG8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BVK2	metadata
-AMMECR1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9Y4X0	metadata
-ANO3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9BYT9	metadata
-ANO4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q32M45	metadata
-ANO5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q75V66	metadata
-ANO6	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q4KMQ2	metadata
-ANO8	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCE9	metadata
-ANO9	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A1A5B4	metadata
-AP2A2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O94973	metadata
-AP2M1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96CW1	metadata
-AP3B1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O00203	metadata
-APEH	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P13798	metadata
-APOL2	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9BQE5	metadata
-APP	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P05067	metadata
-AR	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P10275	metadata
-ARF6	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P62330	metadata
-ARID1A	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O14497	metadata;role_crispr:resistance_pro_viral
-ARID1B	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8NFD5	metadata;role_crispr:resistance_pro_viral
-ARL6IP6	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8N6S5	metadata
-ATE1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O95260	metadata
-ATF2	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	P15336	metadata
-ATM	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	Q13315	metadata
-ATP13A3	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9H7F0	metadata
-ATP1B1	False	False	False	False	False	False	True	True	True	target	human	Tclin	1.0	P05026	metadata
-ATP1B2	False	False	False	False	False	False	False	True	True	target	human	Tclin	1.0	P14415	metadata
-ATP2B4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P23634	metadata
-ATP4B	False	False	False	False	False	False	False	True	True	target	human	Tclin	1.0	P51164	metadata
-ATP5MG	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	O75964	metadata
-ATP6AP1	False	False	False	False	False	False	True	True	True	target	human	Tchem	2.0	Q15904	metadata
-ATP6V1A	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P38606	metadata
-ATRX	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46100	metadata;role_crispr:sensitization_anti-viral
-B2M	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	P61769	metadata
-B3GAT2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NPZ5	metadata
-B4GALNT2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8NHY0	metadata
-BACE1	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P56817	metadata
-BAG5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UL15	metadata
-BAG6	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P46379	metadata
-BAK1	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	Q16611	metadata
-BASP1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P80723	metadata
-BAX	False	False	True	False	True	False	False	True	False	target	human	Tchem	2.0	Q07812	metadata
-BCKDK	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O14874	metadata
-BCL2	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P10415	metadata
-BCL2L1	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q07817	metadata
-BCS1L	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y276	metadata
-BPTF	True	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	Q12830	metadata;role_crispr:sensitization_anti-viral
-BRCA1	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P38398	metadata
-BRD2	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	P25440	metadata
-BRD4	False	True	False	False	False	False	True	True	True	target	human	Tchem	2.0	O60885	metadata
-BTLA	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z6A9	metadata
-BZW2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9Y6E2	metadata
-C1orf50	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9BV19	metadata
-CABIN1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9Y6J0	metadata;role_crispr:sensitization_anti-viral
-CACNA2D4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z3S7	metadata
-CANX	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P27824	metadata
-CBR1	False	True	False	False	True	False	False	True	True	target	human	Tchem	2.0	P16152	metadata
-CCDC86	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H6F5	metadata
-CCNB1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P14635	metadata
-CCND1	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P24385	metadata
-CCNH	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P51946	metadata;role_crispr:sensitization_anti-viral
-CCT2	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P78371	metadata
-CD300E	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q496F6	metadata
-CD300LB	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A8K4G0	metadata
-CD300LF	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8TDQ1	metadata
-CD300LG	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UXG3	metadata
-CD4	False	True	False	False	False	True	False	True	False	target	human	Tchem	2.0	P01730	metadata
-CD8A	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P01732	metadata
-CDA	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	P32320	metadata
-CDK1	False	True	True	False	False	False	False	True	False	target	human	Tchem	2.0	P06493	metadata
-CDK4	False	True	True	False	True	False	False	True	False	target	human	Tclin	1.0	P11802	metadata
-CDK5RAP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96SN8	metadata
-CDK7	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P50613	metadata;role_crispr:sensitization_anti-viral
-CDKN1A	True	False	True	False	False	False	False	True	False	target	human	Tbio	3.0	P38936	metadata;role_crispr:resistance_pro_viral
-CDKN1B	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	P46527	metadata
-CEACAM8	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P31997	metadata
-CEBPZ	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q03701	metadata
-CENPF	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P49454	metadata
-CEP112	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8N8E3	metadata
-CEP135	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q66GS9	metadata
-CEP250	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BV73	metadata
-CEP350	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5VT06	metadata
-CEP43	False	False	False	False	False	False	True	False	False	target	human	Tbio	3.0	O95684	metadata
-CEP68	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q76N32	metadata
-CHMP2A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O43633	metadata
-CHPF	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IZ52	metadata
-CHPF2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9P2E5	metadata
-CHRM2	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P08172	metadata
-CHUK	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	O15111	metadata
-CISD3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P0C7P0	metadata
-CIT	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	O14578	metadata
-CLCC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96S66	metadata
-CLIP4	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8N3C7	metadata
-CLTRN	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HBJ8	metadata
-CNGA2	False	True	False	False	False	False	False	True	True	target	human	Tchem	2.0	Q16280	metadata
-CNGA4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IV77	metadata
-CNTRL	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q7Z7A1	metadata
-COL6A1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P12109	metadata
-COLGALT1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q8NBJ5	metadata
-COMT	False	True	True	False	False	False	True	True	False	target	human	Tclin	1.0	P21964	metadata
-COPS5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92905	metadata
-COQ8B	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q96D53	metadata
-CPSF6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q16630	metadata
-CREB1	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	P16220	metadata
-CREBBP	True	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q92793	metadata;role_crispr:resistance_pro_viral
-CRTC3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q6UUV7	metadata
-CSDE1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O75534	metadata
-CSK	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	P41240	metadata
-CSNK2A2	False	True	True	False	False	False	True	True	True	target	human	Tchem	2.0	P19784	metadata
-CSNK2B	False	False	True	False	False	False	True	True	True	target	human	Tbio	3.0	P67870	metadata
-CSRP1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P21291	metadata
-CST6	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q15828	metadata;role_crispr:resistance_pro_viral
-CSTA	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P01040	metadata;role_crispr:resistance_pro_viral
-CSTB	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P04080	metadata;role_crispr:resistance_pro_viral
-CSTV	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		metadata;role_crispr:resistance_pro_viral
-CTNNB1	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P35222	metadata
-CTSL	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P07711	metadata;role_crispr:resistance_pro_viral
-CTSZ	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	Q9UBR2	metadata
-CTTN	False	False	True	False	False	False	False	True	True	target	human	Tbio	3.0	Q14247	metadata
-CUL2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13617	metadata
-CWC27	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q6UX04	metadata
-CYB5B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O43169	metadata
-CYB5R3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P00387	metadata
-CYCS	False	True	True	False	True	False	False	True	False	target	human	Tchem	2.0	P99999	metadata
-DCAF7	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61962	metadata
-DCAKD	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8WVC6	metadata
-DCTPP1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9H773	metadata
-DDX10	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13206	metadata
-DDX20	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UHI6	metadata;role_crispr:sensitization_anti-viral
-DDX21	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9NR30	metadata
-DDX39B	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q13838	metadata
-DDX42	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q86XP3	metadata;role_crispr:sensitization_anti-viral
-DDX5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P17844	metadata
-DENR	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O43583	metadata;role_crispr:sensitization_anti-viral
-DHFR	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P00374	metadata
-DHRS9	False	True	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9BPW9	metadata
-DHX15	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O43143	metadata
-DIAPH3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NSV4	metadata
-DNAJC11	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NVH1	metadata
-DNAJC19	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96DA6	metadata
-DNMT1	False	True	False	True	False	False	True	True	False	target	human	Tclin	1.0	P26358	metadata
-DOLK	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UPQ8	metadata;role_crispr:sensitization_anti-viral
-DPF2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92785	metadata;role_crispr:resistance_pro_viral
-DPH5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H2P9	metadata
-DPP4	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P27487	metadata
-DPY19L1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q2PZI1	metadata
-DSCAML1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8TD84	metadata
-DUSP1	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	P28562	metadata
-DUT	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P33316	metadata
-DYRK1A	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	Q13627	metadata;role_crispr:resistance_pro_viral
-ECSIT	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BQ95	metadata
-EDEM3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BZQ6	metadata
-EEF1A1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P68104	metadata
-EEF1D	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P29692	metadata
-EEF2	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P13639	metadata
-EGF	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P01133	metadata
-EIF2A	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9BY44	metadata
-EIF2AK4	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	Q9P2K8	metadata;role_crispr:sensitization_anti-viral
-EIF2D	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P41214	metadata;role_crispr:resistance_pro_viral
-EIF2S1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P05198	metadata
-EIF3A	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q14152	metadata;role_crispr:resistance_pro_viral
-EIF3B	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P55884	metadata;role_crispr:resistance_pro_viral
-EIF3D	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O15371	metadata;role_crispr:resistance_pro_viral
-EIF3L	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9Y262	metadata;role_crispr:sensitization_anti-viral
-EIF4A3	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P38919	metadata
-EIF4E	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P06730	metadata
-EIF4E2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O60573	metadata
-EIF4G1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q04637	metadata
-EIF4H	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q15056	metadata
-ELAVL1	False	False	True	False	True	False	False	True	False	target	human	Tchem	2.0	Q15717	metadata
-ELOB	False	False	False	False	False	False	True	False	False	target	human	Tbio	3.0	Q15370	metadata
-ELOC	False	False	False	False	False	False	True	False	False	target	human	Tbio	3.0	Q15369	metadata
-EMC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8N766	metadata
-EMSY	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q7Z589	metadata;role_crispr:sensitization_anti-viral
-ENO2	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P09104	metadata
-EP300	False	False	True	False	False	True	False	True	True	target	human	Tchem	2.0	Q09472	metadata
-EPRS1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P07814	metadata
-ERBB2	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P04626	metadata
-ERC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IUD2	metadata
-ERCC2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P18074	metadata;role_crispr:sensitization_anti-viral
-ERCC3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P19447	metadata;role_crispr:sensitization_anti-viral
-ERGIC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q969X5	metadata
-ERLEC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96DZ1	metadata
-ERMP1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q7Z2K6	metadata
-ERO1B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q86YB8	metadata
-ERP44	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BS26	metadata
-ETFA	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P13804	metadata
-EXOSC2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13868	metadata
-EXOSC3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NQT5	metadata
-EXOSC5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NQT4	metadata
-EXOSC8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96B26	metadata
-EZR	False	False	True	False	False	True	False	True	False	target	human	Tbio	3.0	P15311	metadata
-F2RL1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	P55085	metadata
-FAM162A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96A26	metadata
-FAM8A1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9UBU6	metadata
-FAM98A	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8NCA5	metadata
-FAR2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96K12	metadata
-FAS	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	P25445	metadata
-FASTKD5	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q7L8L6	metadata
-FBL	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P22087	metadata
-FBLN5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UBX5	metadata
-FBN1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P35555	metadata
-FBN2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P35556	metadata
-FBXL12	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9NXK8	metadata
-FCAMR	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8WWV6	metadata
-FCGR1B	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q92637	metadata
-FKBP10	False	True	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96AY3	metadata
-FKBP15	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q5T1M5	metadata
-FKBP7	False	False	False	False	False	False	True	False	False	target	human	Tbio	3.0	Q9Y680	metadata
-FLT1	False	True	True	False	False	True	False	True	False	target	human	Tclin	1.0	P17948	metadata
-FLT3	False	True	True	True	False	False	False	True	False	target	human	Tclin	1.0	P36888	metadata
-FN3KRP	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HA64	metadata
-FOXRED2	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8IWF2	metadata
-FYCO1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BQS8	metadata
-FYN	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P06241	metadata
-G3BP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13283	metadata
-G3BP2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9UN86	metadata
-GADD45A	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	P24522	metadata
-GALNT13	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IUC8	metadata
-GALNT16	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8N428	metadata
-GALNT17	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6IS24	metadata
-GALNT18	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6P9A2	metadata
-GALNT5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z7M9	metadata
-GALNT9	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCQ5	metadata
-GALNTL5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z4T8	metadata
-GALNTL6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q49A17	metadata
-GAPDH	False	True	False	False	True	False	False	True	False	target	human	Tchem	2.0	P04406	metadata
-GBGT1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8N5D6	metadata
-GCC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96CN9	metadata
-GCC2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IWJ2	metadata
-GDF15	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99988	metadata
-GEMIN2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O14893	metadata;role_crispr:sensitization_anti-viral
-GEMIN5	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8TEQ6	metadata;role_crispr:sensitization_anti-viral
-GEMIN6	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8WXD5	metadata;role_crispr:sensitization_anti-viral
-GEMIN7	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9H840	metadata;role_crispr:sensitization_anti-viral
-GEMIN8	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q9NWZ8	metadata;role_crispr:sensitization_anti-viral
-GFER	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	P55789	metadata
-GGCX	False	True	False	False	False	False	True	True	True	target	human	Tclin	1.0	P38435	metadata
-GGH	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q92820	metadata
-GHITM	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H3K2	metadata
-GHSR	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	Q92847	metadata
-GIGYF2	False	False	False	False	False	False	True	True	True	target	human	Tchem	2.0	Q6Y7W6	metadata
-GLA	False	True	False	False	False	False	True	True	False	target	human	Tclin	1.0	P06280	metadata
-GNB1	False	False	True	False	False	False	True	True	False	target	human	Tbio	3.0	P62873	metadata
-GNG5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P63218	metadata
-GOLGA2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q08379	metadata
-GOLGA3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q08378	metadata
-GOLGA7	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q7Z5G4	metadata
-GOLGB1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q14789	metadata
-GORASP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BQQ3	metadata
-GP6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCN6	metadata
-GPAA1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O43292	metadata
-GPX1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P07203	metadata
-GRB2	False	True	True	False	False	True	False	True	False	target	human	Tchem	2.0	P62993	metadata
-GRIPAP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q4V328	metadata
-GRPEL1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9HAV7	metadata
-GSK3B	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P49841	metadata
-GTF2A1	False	False	True	False	True	False	False	True	False	target	human	Tchem	2.0	P52655	metadata
-GTF2F2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P13984	metadata
-GTF2H2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q13888	metadata;role_crispr:sensitization_anti-viral
-GTF2H3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q13889	metadata;role_crispr:sensitization_anti-viral
-GTF2H4	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92759	metadata;role_crispr:sensitization_anti-viral
-GTFH1	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		metadata;role_crispr:sensitization_anti-viral
-GZF1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9H116	metadata;role_crispr:resistance_pro_viral
-HAS3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O00219	metadata
-HAVCR2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8TDQ0	metadata
-HDAC2	False	True	True	False	False	False	True	True	True	target	human	Tclin	1.0	Q92769	metadata
-HEATR3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q7Z4Q2	metadata
-HECTD1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9ULT8	metadata
-HINT1	False	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	P49773	metadata
-HIRA	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P54198	metadata;role_crispr:sensitization_anti-viral
-HLA-DQB2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P05538	metadata
-HMGB1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P09429	metadata;role_crispr:resistance_pro_viral
-HMGXB4	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UGU5	metadata;role_crispr:sensitization_anti-viral
-HMOX1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	P09601	metadata
-HNRNPA1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P09651	metadata
-HNRNPC	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P07910	metadata
-HOOK1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UJC3	metadata
-HRAS	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P01112	metadata
-HS2ST1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q7LGA3	metadata
-HS3ST5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IZT8	metadata
-HS6ST2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q96MM7	metadata
-HSBP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O75506	metadata
-HSP90AA1	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P07900	metadata
-HSPA1A	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P0DMV8	metadata
-HSPA4	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P34932	metadata
-HSPA5	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P11021	metadata
-HSPA8	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P11142	metadata
-HSPA9	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P38646	metadata
-HYOU1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y4L1	metadata
-IARS1	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	P41252	metadata
-ICAM4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q14773	metadata
-IDE	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	P14735	metadata
-IFNLR1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IU57	metadata
-IGHA2	False	False	False	False	False	False	False	False	True	target	human	Tbio	3.0	P01877	metadata
-IGKV3-20	False	False	False	False	False	False	False	False	True	target	human	Tbio	3.0	P01619	metadata
-IKBKB	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	O14920	metadata
-IKBKG	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	Q9Y6K9	metadata
-IL11RA	False	False	False	False	False	False	False	True	True	target	human	Tclin	1.0	Q14626	metadata
-IL12RB1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P42701	metadata
-IL17RA	False	False	False	False	False	False	True	True	False	target	human	Tclin	1.0	Q96F46	metadata
-IL18R1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q13478	metadata
-IL18RAP	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O95256	metadata
-IL1RL1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q01638	metadata
-IL20RB	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UXL0	metadata
-IL22RA2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q969J5	metadata
-IL31RA	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8NI17	metadata
-IMPDH2	False	True	False	False	False	False	True	True	False	target	human	Tclin	1.0	P12268	metadata
-INHBE	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P58166	metadata
-INS	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P01308	metadata
-INTS4	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q96HW7	metadata
-INTS6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9UL03	metadata
-ISG15	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P05161	metadata
-ITGA11	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9UKX5	metadata
-ITGAD	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q13349	metadata
-ITGB1	False	False	False	False	False	False	True	True	False	target	human	Tclin	1.0	P05556	metadata
-ITPR1	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	Q14643	metadata
-JAKMIP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96N16	metadata
-JAML	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q86YT9	metadata
-JMJD6	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q6NYC1	metadata;role_crispr:resistance_pro_viral
-JUN	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P05412	metadata
-KAT14	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9H8E8	metadata;role_crispr:sensitization_anti-viral
-KAT2A	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	Q92830	metadata
-KAT2B	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q92831	metadata
-KAT5	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q92993	metadata
-KAT6A	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	Q92794	metadata
-KAT6B	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	Q8WYB5	metadata
-KAT7	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	O95251	metadata
-KCNG4	True	False	False	False	False	False	False	True	False	target	human	Tclin	1.0	Q8TDN1	metadata;role_crispr:resistance_pro_viral
-KDM6A	True	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	O15550	metadata;role_crispr:resistance_pro_viral
-KIF5B	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P33176	metadata
-KIR3DL2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P43630	metadata
-KLK1	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P06870	metadata
-KMD1A	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		metadata;role_crispr:sensitization_anti-viral
-KMT2D	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O14686	metadata;role_crispr:resistance_pro_viral
-KPNB1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q14974	metadata
-LARGE2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8N3Y3	metadata
-LARP1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q6PKG0	metadata
-LARP4B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q92615	metadata
-LARP7	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q4G0J3	metadata
-LARS	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		metadata
-LARS1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	Q9P2J5	metadata
-LCK	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P06239	metadata
-LDB1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q86U70	metadata;role_crispr:resistance_pro_viral
-LILRA5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A6NI73	metadata
-LILRA6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6PI73	metadata
-LILRB2	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q8N423	metadata
-LMAN2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q12907	metadata
-LOX	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P28300	metadata
-LRIT3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q3SXY7	metadata
-LUC7L	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NQ29	metadata
-MAD2L1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q13257	metadata
-MAML1	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	Q92585	metadata
-MAP3K1	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q13233	metadata
-MAP4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P27816	metadata
-MAP4K1	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q92918	metadata
-MAP7D1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q3KQU3	metadata
-MAPK1	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	P28482	metadata
-MAPK14	False	True	True	True	False	False	False	True	False	target	human	Tchem	2.0	Q16539	metadata
-MAPK3	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	P27361	metadata
-MAPK8	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	P45983	metadata
-MARK1	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9P0L2	metadata
-MARK2	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q7KZI7	metadata
-MARK3	False	True	True	False	False	False	True	True	False	target	human	Tchem	2.0	P27448	metadata
-MARS	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		metadata
-MARS1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P56192	metadata
-MAT2B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NZL9	metadata
-MCTS1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9ULC4	metadata;role_crispr:sensitization_anti-viral
-MDGA2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z553	metadata
-MDM2	False	False	True	True	False	False	False	True	False	target	human	Tchem	2.0	Q00987	metadata
-MDN1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9NU22	metadata
-MED16	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9Y2X0	metadata;role_crispr:sensitization_anti-viral
-MEPCE	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q7L2J0	metadata
-METAP1	False	True	False	False	True	False	False	True	False	target	human	Tchem	2.0	P53582	metadata
-MFGE8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q08431	metadata
-MIB1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q86YT6	metadata
-MIF	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P14174	metadata
-MIPOL1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8TD10	metadata
-MITF	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	O75030	metadata
-MMS19	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q96T76	metadata;role_crispr:sensitization_anti-viral
-MNAT1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P51948	metadata;role_crispr:sensitization_anti-viral
-MOGS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13724	metadata
-MOV10	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9HCE1	metadata
-MPHOSPH10	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O00566	metadata
-MPO	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P05164	metadata
-MPZL3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UWV2	metadata
-MRPS2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y399	metadata
-MRPS25	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	P82663	metadata
-MRPS27	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q92552	metadata
-MRPS5	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	P82675	metadata
-MSN	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P26038	metadata
-MTAP	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	Q13126	metadata
-MTARC1	False	False	False	False	False	False	True	False	False	target	human	Tbio	3.0	Q5VT66	metadata
-MTCH1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NZJ7	metadata
-MYC	False	False	True	False	False	False	False	True	False	target	human	Tbio	3.0	P01106	metadata
-MYCBP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O75592	metadata
-MYLK	False	True	True	False	True	False	False	True	False	target	human	Tchem	2.0	Q15746	metadata
-MYOD1	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	P15172	metadata
-NARS2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96I59	metadata
-NAT14	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8WUY8	metadata
-NCBP1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q09161	metadata
-NCBP2	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P52298	metadata
-NCOA1	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q15788	metadata
-NCOA3	False	False	True	True	False	False	False	True	False	target	human	Tbio	3.0	Q9Y6Q9	metadata
-NCR3LG1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q68D85	metadata
-NDFIP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NV92	metadata
-NDOR1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UHB4	metadata;role_crispr:sensitization_anti-viral
-NDUFAF1	False	False	False	False	False	False	True	True	False	target	human	Tclin	1.0	Q9Y375	metadata
-NDUFAF2	False	False	False	False	True	False	True	True	False	target	human	Tclin	1.0	Q8N183	metadata
-NDUFB9	False	False	False	False	False	False	True	True	False	target	human	Tclin	1.0	Q9Y6M9	metadata
-NEDD8	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q15843	metadata
-NEK9	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q8TD19	metadata
-NEU1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99519	metadata
-NFAM1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8NET5	metadata
-NFKB1	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	P19838	metadata
-NGDN	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8NEJ9	metadata
-NGLY1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96IV0	metadata
-NIN	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8N4C6	metadata
-NINL	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y2I6	metadata
-NLRX1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q86UT6	metadata
-NNT	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q13423	metadata
-NOL10	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9BSC4	metadata
-NONO	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q15233	metadata;role_crispr:sensitization_anti-viral
-NOP56	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O00567	metadata
-NOP58	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9Y2X3	metadata
-NOTCH1	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	P46531	metadata
-NPC2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61916	metadata
-NPTX1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q15818	metadata
-NQO2	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P16083	metadata
-NSD2	False	False	True	False	False	False	True	True	False	target	human	Tchem	2.0	O96028	metadata
-NUB1	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q9Y5A7	metadata
-NUP155	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O75694	metadata
-NUP210	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8TEM1	metadata
-NUP214	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P35658	metadata
-NUP54	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q7Z3B4	metadata
-NUP58	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BVL2	metadata
-NUP62	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P37198	metadata
-NUP88	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99567	metadata
-NUP98	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P52948	metadata
-NUTF2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61970	metadata
-OASL	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	Q15646	metadata
-OS9	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13438	metadata
-OSBPL5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9H0X9	metadata
-OSBPL8	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9BZF1	metadata;role_crispr:resistance_pro_viral
-OSCAR	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IYS5	metadata
-P2RX1	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P51575	metadata
-P2RX3	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P56373	metadata
-P2RX4	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q99571	metadata
-P2RY2	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P41231	metadata
-P2RY4	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P51582	metadata
-P4HA3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z4N8	metadata
-PABPC1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P11940	metadata
-PABPC4	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13310	metadata
-PBK	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	Q96KB5	metadata
-PCBD1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61457	metadata;role_crispr:resistance_pro_viral
-PCCA	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P05165	metadata
-PCNA	False	True	True	False	False	True	False	True	False	target	human	Tchem	2.0	P12004	metadata
-PCNT	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O95613	metadata
-PCPB2	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		metadata;role_crispr:sensitization_anti-viral
-PCSK6	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	P29122	metadata
-PCSK9	False	True	False	False	True	False	False	True	False	target	human	Tclin	1.0	Q8NBP7	metadata
-PDE4DIP	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5VU43	metadata
-PDZD11	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5EBL8	metadata
-PELO	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9BRX2	metadata
-PGK1	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P00558	metadata
-PGP	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A6NDG6	metadata
-PHF6	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8IWS0	metadata;role_crispr:resistance_pro_viral
-PHIP	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8WWQ0	metadata;role_crispr:resistance_pro_viral
-PHOSPHO1	False	True	False	False	False	False	False	True	True	target	human	Tchem	2.0	Q8TCT1	metadata
-PIAS1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O75925	metadata;role_crispr:sensitization_anti-viral
-PIAS2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O75928	metadata;role_crispr:sensitization_anti-viral
-PIGO	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8TEQ8	metadata
-PIGS	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q96S52	metadata
-PILRA	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9UKJ1	metadata
-PIM1	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	P11309	metadata
-PIN1	False	False	True	False	True	False	False	True	False	target	human	Tchem	2.0	Q13526	metadata
-PITRM1	False	False	False	False	False	False	True	True	True	target	human	Tchem	2.0	Q5JRX3	metadata
-PKM	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	P14618	metadata
-PKP2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q99959	metadata
-PLAA	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	Q9Y263	metadata
-PLAT	False	True	False	False	False	False	True	True	False	target	human	Tclin	1.0	P00750	metadata
-PLAUR	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	Q03405	metadata
-PLD3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IV08	metadata
-PLEKHA5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9HAU0	metadata
-PLEKHF2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H8W4	metadata
-PLG	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P00747	metadata
-PLOD2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O00469	metadata
-PLXNA4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCM2	metadata
-PLXNC1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O60486	metadata
-PMPCA	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q10713	metadata
-PMPCB	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O75439	metadata
-POFUT1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H488	metadata
-POGLUT2	False	False	False	False	False	False	True	False	False	target	human	Tdark	4.0	Q6UW63	metadata
-POGLUT3	False	False	False	False	False	False	True	False	False	target	human	Tdark	4.0	Q7Z4H8	metadata
-POLA	False	False	False	True	False	False	False	False	False	target	human	unk	6.0		metadata
-POLA1	False	True	False	False	False	False	True	True	True	target	human	Tclin	1.0	P09884	metadata
-POLA2	False	True	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q14181	metadata
-POLR2A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P24928	metadata
-POP5	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q969H6	metadata;role_crispr:sensitization_anti-viral
-POR	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P16435	metadata
-PPARG	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P37231	metadata
-PPAT	False	True	False	False	True	False	False	True	False	target	human	Tclin	1.0	Q06203	metadata
-PPIL3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H2H8	metadata
-PPP1R3F	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6ZSY5	metadata
-PPP2CA	False	False	True	False	True	False	False	True	False	target	human	Tchem	2.0	P67775	metadata
-PPP2R1A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P30153	metadata
-PPP2R4	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		metadata
-PPT1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P50897	metadata
-PRIM1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P49642	metadata
-PRIM2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P49643	metadata
-PRKACA	False	True	True	False	False	False	True	True	False	target	human	Tchem	2.0	P17612	metadata
-PRKAR1A	False	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	P10644	metadata
-PRKAR2A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P13861	metadata
-PRKAR2B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P31323	metadata
-PRKCA	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	P17252	metadata
-PRKCD	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	Q05655	metadata
-PRKD1	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q15139	metadata
-PRMT5	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	O14744	metadata
-PRNP	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P04156	metadata
-PRPF4B	False	True	False	False	True	False	False	True	False	target	human	Tchem	2.0	Q13523	metadata
-PRRC2B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q5JSZ5	metadata
-PRSS1	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P07477	metadata
-PSMA3	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P25788	metadata
-PSMB2	False	True	False	False	True	False	False	True	False	target	human	Tclin	1.0	P49721	metadata
-PSMD14	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O00487	metadata
-PSMD3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O43242	metadata
-PSMD8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P48556	metadata
-PSME3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61289	metadata;role_crispr:sensitization_anti-viral
-PTBP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UKA9	metadata
-PTEN	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P60484	metadata
-PTGES2	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9H7Z7	metadata
-PTPA	False	False	True	False	True	False	False	True	False	target	human	Tchem	2.0	Q15257	metadata
-PTPN1	False	True	True	False	True	False	False	True	False	target	human	Tchem	2.0	P18031	metadata
-PTPRA	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P18433	metadata
-PTPRU	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q92729	metadata
-PUSL1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8N0Z8	metadata
-PVR	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P15151	metadata
-PYCR2	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q96C36	metadata
-QSOX2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q6ZRP7	metadata
-RAB10	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61026	metadata
-RAB14	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61106	metadata
-RAB18	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NP72	metadata
-RAB1A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P62820	metadata
-RAB2A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61019	metadata
-RAB43	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q86YS6	metadata
-RAB5C	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P51148	metadata
-RAB7A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P51149	metadata
-RAB8A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61006	metadata
-RACK1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63244	metadata
-RAD23B	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P54727	metadata
-RAD54L2	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q9Y4B4	metadata;role_crispr:resistance_pro_viral
-RAE1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P78406	metadata
-RALA	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P11233	metadata
-RAN	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62826	metadata
-RANBP2	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P49792	metadata
-RAP1GDS1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P52306	metadata
-RB1	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	P06400	metadata
-RBBP4	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q09028	metadata;role_crispr:sensitization_anti-viral
-RBM25	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P49756	metadata
-RBM28	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9NW13	metadata
-RBM41	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q96IZ5	metadata
-RBX1	False	False	True	False	False	False	True	False	False	target	human	Tbio	3.0	P62877	metadata
-RDX	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P35241	metadata
-REEP3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6NUK4	metadata
-REEP5	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q00765	metadata
-REEP6	False	False	False	False	False	False	True	False	True	target	human	Tbio	3.0	Q96HR9	metadata
-RELA	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	Q04206	metadata
-RET	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P07949	metadata
-RETREG3	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q86VR2	metadata
-RFC4	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P35249	metadata
-RHOA	False	False	True	False	False	False	True	True	False	target	human	Tbio	3.0	P61586	metadata
-RIPK1	False	True	True	False	False	False	True	True	False	target	human	Tchem	2.0	Q13546	metadata
-RNF41	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H4P4	metadata
-ROBO2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCK4	metadata
-ROCK1	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	Q13464	metadata
-RPL10A	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P62906	metadata
-RPL11	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62913	metadata
-RPL13A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P40429	metadata
-RPL15	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61313	metadata
-RPL18	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q07020	metadata
-RPL22	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P35268	metadata
-RPL23	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62829	metadata
-RPL23A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62750	metadata
-RPL26	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61254	metadata
-RPL27	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61353	metadata
-RPL29	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P47914	metadata
-RPL30	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62888	metadata
-RPL31	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62899	metadata
-RPL34	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P49207	metadata
-RPL35A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P18077	metadata
-RPL36	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y3U8	metadata
-RPL37A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61513	metadata
-RPL38	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63173	metadata
-RPL4	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P36578	metadata
-RPL5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46777	metadata
-RPL6	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q02878	metadata
-RPL7	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P18124	metadata
-RPLP0	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P05388	metadata
-RPS10	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46783	metadata
-RPS11	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62280	metadata
-RPS13	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62277	metadata
-RPS16	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62249	metadata
-RPS18	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62269	metadata
-RPS19	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P39019	metadata
-RPS2	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P15880	metadata
-RPS20	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P60866	metadata
-RPS24	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P62847	metadata
-RPS25	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62851	metadata
-RPS26	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62854	metadata
-RPS27A	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P62979	metadata
-RPS28	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62857	metadata
-RPS29	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62273	metadata
-RPS3	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P23396	metadata
-RPS3A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61247	metadata
-RPS4X	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62701	metadata
-RPS5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46782	metadata
-RPS6	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62753	metadata
-RPS6KA4	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	O75676	metadata
-RPS7	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62081	metadata
-RPS8	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62241	metadata
-RPS9	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46781	metadata
-RPSA	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P08865	metadata
-RRM1	False	True	False	False	True	False	False	True	False	target	human	Tclin	1.0	P23921	metadata
-RRP9	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O43818	metadata
-RTN4	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NQC3	metadata
-RUNX2	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	Q13950	metadata
-RUNX3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q13761	metadata;role_crispr:resistance_pro_viral
-RYBP	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8N488	metadata;role_crispr:resistance_pro_viral
-Ran	False	False	False	False	False	False	False	True	False	target	human	unk	6.0		metadata
-SAAL1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q96ER3	metadata
-SBNO1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	A3KN83	metadata
-SCAP	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q12770	metadata
-SCARB1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q8WTV0	metadata
-SCCPDH	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8NBX0	metadata
-SCN3B	False	True	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NY72	metadata
-SCN4B	False	True	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IWT1	metadata
-SCO2	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	O43819	metadata
-SDF2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99470	metadata
-SELENBP1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q13228	metadata
-SELENOS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BQE4	metadata
-SEMA4B	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NPR2	metadata
-SEMA5B	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9P283	metadata
-SEPSECS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9HD40	metadata
-SERPINB13	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UIV8	metadata;role_crispr:resistance_pro_viral
-SERTAD4	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q9NUC0	metadata;role_crispr:resistance_pro_viral
-SETD4	False	False	False	False	True	False	False	True	False	target	human	Tdark	4.0	Q9NVD3	metadata
-SH3YL1	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q96HL8	metadata;role_crispr:resistance_pro_viral
-SHC1	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	P29353	metadata
-SIAH1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8IUQ4	metadata;role_crispr:resistance_pro_viral
-SIGLEC11	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q96RL6	metadata
-SIGLEC12	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q96PQ1	metadata
-SIGLEC14	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q08ET2	metadata
-SIGMAR1	False	True	False	False	False	False	True	True	False	target	human	Tclin	1.0	Q99720	metadata
-SIL1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H173	metadata
-SIRT5	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9NXA8	metadata
-SLAMF6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q96DU3	metadata
-SLC16A1	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P53985	metadata
-SLC25A18	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9H1K4	metadata
-SLC25A2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9BXI2	metadata
-SLC25A21	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9BQT8	metadata
-SLC25A26	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q70HW3	metadata
-SLC25A5	False	True	False	False	True	False	False	False	False	target	human	Tbio	3.0	P05141	metadata
-SLC27A1	False	False	False	False	False	False	False	True	True	target	human	Tchem	2.0	Q6PCB7	metadata
-SLC27A2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O14975	metadata
-SLC28A1	False	True	False	True	False	False	False	True	False	target	human	Tbio	3.0	O00337	metadata
-SLC28A3	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q9HAS3	metadata
-SLC29A1	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	Q99808	metadata
-SLC29A2	False	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	Q14542	metadata
-SLC29A3	False	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	Q9BZD2	metadata
-SLC30A2	False	False	False	False	False	False	False	False	True	target	human	Tbio	3.0	Q9BRI3	metadata
-SLC30A6	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q6NXT4	metadata
-SLC30A7	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q8NEW0	metadata
-SLC30A9	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q6PML9	metadata
-SLC44A2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q8IWA5	metadata
-SLC44A3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8N4M1	metadata
-SLC47A1	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q96FL8	metadata
-SLC5A7	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q9GZV3	metadata
-SLC9A3R1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O14745	metadata
-SLU7	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O95391	metadata
-SMAD3	True	False	True	False	False	False	False	True	False	target	human	Tbio	3.0	P84022	metadata;role_crispr:resistance_pro_viral
-SMAD4	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q13485	metadata;role_crispr:resistance_pro_viral
-SMAD7	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	O15105	metadata
-SMARCA1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P28370	metadata;role_crispr:sensitization_anti-viral
-SMARCA4	True	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P51532	metadata;role_crispr:resistance_pro_viral
-SMARCA5	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O60264	metadata;role_crispr:sensitization_anti-viral
-SMARCB1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q12824	metadata;role_crispr:resistance_pro_viral
-SMARCC1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92922	metadata;role_crispr:resistance_pro_viral
-SMARCC2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8TAQ2	metadata;role_crispr:resistance_pro_viral
-SMARCCA4	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		metadata;role_crispr:resistance_pro_viral
-SMARCD1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q96GM5	metadata;role_crispr:resistance_pro_viral
-SMARCD2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92925	metadata;role_crispr:resistance_pro_viral
-SMARCE1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q969G3	metadata;role_crispr:resistance_pro_viral
-SMG5	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UPR3	metadata;role_crispr:sensitization_anti-viral
-SMOC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H4F8	metadata
-SNIP1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q8TAD8	metadata
-SNRPB	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P14678	metadata
-SNRPD1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62314	metadata
-SNRPD2	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62316	metadata
-SNRPD3	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62318	metadata
-SNRPF	False	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	P62306	metadata
-SNRPG	False	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	P62308	metadata
-SORCS1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8WY21	metadata
-SPART	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8N0X7	metadata
-SPTBN5	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	Q9NRC6	metadata
-SPTY2D1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q68D10	metadata;role_crispr:resistance_pro_viral
-SQSTM1	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	Q13501	metadata
-SRC	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P12931	metadata
-SRP19	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P09132	metadata
-SRP54	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61011	metadata
-SRP72	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O76094	metadata
-SRSF1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q07955	metadata
-SSB	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P05455	metadata;role_crispr:sensitization_anti-viral
-STAT1	False	False	True	False	False	True	False	False	False	target	human	Tchem	2.0	P42224	metadata
-STAT3	False	True	True	False	False	True	False	True	False	target	human	Tchem	2.0	P40763	metadata
-STAT5A	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	P42229	metadata
-STC2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O76061	metadata
-STOM	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P27105	metadata
-STOML2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UJZ1	metadata
-STRAP	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9Y3F4	metadata;role_crispr:sensitization_anti-viral
-STX6	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	O43752	metadata
-SUMO1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63165	metadata
-SUMO2	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	P61956	metadata
-SUN2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UH99	metadata
-SYT8	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8NBV8	metadata
-TAF1	False	False	True	False	False	False	False	False	False	target	human	Tchem	2.0	P21675	metadata
-TAF13	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q15543	metadata;role_crispr:sensitization_anti-viral
-TAPT1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q6NXT6	metadata
-TARM1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	B6A8C7	metadata
-TARS2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BW92	metadata
-TBCA	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O75347	metadata
-TBK1	False	True	True	False	False	False	True	True	False	target	human	Tchem	2.0	Q9UHD2	metadata
-TBKBP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	A7MCY6	metadata
-TCF12	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99081	metadata
-TDP1	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q9NUW8	metadata
-TGFB1	True	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P01137	metadata;role_crispr:resistance_pro_viral
-TGFBR1	False	True	True	False	False	False	False	False	False	target	human	Tchem	2.0	P36897	metadata
-THTPA	False	True	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BU02	metadata
-TIMM10	True	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P62072	metadata;role_crispr:sensitization_anti-viral
-TIMM10B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9Y5J6	metadata
-TIMM29	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9BSF4	metadata
-TIMM8B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y5J9	metadata
-TIMM9	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9Y5J7	metadata
-TLE1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q04724	metadata
-TLE3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q04726	metadata
-TLE5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q08117	metadata
-TLR7	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	Q9NYK1	metadata
-TLR8	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q9NR97	metadata
-TLR9	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	Q9NR96	metadata
-TM2D3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BRN9	metadata
-TMED5	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9Y3A6	metadata
-TMEM11	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P17152	metadata
-TMEM39B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9GZU3	metadata
-TMEM97	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q5BJF2	metadata
-TMIGD3	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	P0DMS9	metadata
-TMX3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q96JJ7	metadata;role_crispr:resistance_pro_viral
-TOMM70	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O94826	metadata
-TOR1A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O14656	metadata
-TOR1AIP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5JTV8	metadata
-TP53	True	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P04637	metadata;role_crispr:resistance_pro_viral
-TPP2	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P29144	metadata
-TPSAB1	False	True	True	True	False	False	False	True	False	target	human	Tclin	1.0	Q15661	metadata
-TRAF2	False	False	True	False	False	False	False	False	False	target	human	Tbio	3.0	Q12933	metadata
-TRAF3	True	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	Q13114	metadata;role_crispr:resistance_pro_viral
-TREML1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q86YW5	metadata
-TRIM59	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IWR1	metadata
-TRIP12	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q14669	metadata;role_crispr:sensitization_anti-viral
-TRMT1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9NXH9	metadata
-TRPM4	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q8TD43	metadata
-TUBA1A	False	False	False	False	False	True	False	False	False	target	human	Tchem	2.0	Q71U36	metadata
-TUBGCP2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9BSJ2	metadata
-TUBGCP3	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q96CW5	metadata
-TXNRD1	False	True	False	False	True	False	False	True	False	target	human	Tclin	1.0	Q16881	metadata
-TYMP	False	True	False	False	True	False	False	True	False	target	human	Tclin	1.0	P19971	metadata
-TYSND1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q2T9J0	metadata
-UBA52	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P62987	metadata
-UBAP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5T6F2	metadata
-UBAP2L	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q14157	metadata
-UBB	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P0CG47	metadata
-UBC	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P0CG48	metadata
-UBD	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	O15205	metadata
-UBE2I	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63279	metadata
-UBQLN2	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q9UHD9	metadata
-UBTD1	False	False	False	False	False	True	False	True	False	target	human	Tdark	4.0	Q9HAC8	metadata
-UBXN7	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O94888	metadata;role_crispr:resistance_pro_viral
-UBXN8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O00124	metadata
-UGGT2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NYU1	metadata
-UHRF1	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	Q96T88	metadata
-UNC5A	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6ZN44	metadata
-UNC5D	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UXZ4	metadata
-UNC79	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9P2D8	metadata
-UPF1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q92900	metadata
-USP13	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q92995	metadata
-USP54	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q70EL1	metadata
-VCAM1	False	False	False	False	False	True	False	True	True	target	human	Tchem	2.0	P19320	metadata
-VCP	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P55072	metadata
-VEGFA	False	True	True	False	False	False	False	False	False	target	human	Tclin	1.0	P15692	metadata
-VPS11	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H270	metadata
-VPS39	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96JC1	metadata
-VSTM1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UX27	metadata
-WASHC4	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q2M389	metadata
-WFS1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O76024	metadata
-XRCC3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O43542	metadata;role_crispr:sensitization_anti-viral
-YARS	False	True	False	False	True	False	False	False	False	target	human	unk	6.0		metadata
-YARS1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P54577	metadata
-YIF1A	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	O95070	metadata
-YWHAB	False	False	True	False	False	True	False	True	False	target	human	Tchem	2.0	P31946	metadata
-YWHAE	False	False	True	False	False	True	False	True	False	target	human	Tbio	3.0	P62258	metadata
-YWHAG	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	P61981	metadata
-YWHAQ	False	False	True	False	False	True	False	True	False	target	human	Tchem	2.0	P27348	metadata
-YWHAZ	False	False	True	False	False	True	False	True	False	target	human	Tbio	3.0	P63104	metadata
-ZC3H18	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q86VM9	metadata
-ZC3H7A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IWR0	metadata
-ZDHHC5	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9C0B5	metadata
-ZFHX3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q15911	metadata;role_crispr:resistance_pro_viral
-ZMYM2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UBW7	metadata;role_crispr:sensitization_anti-viral
-ZNF250	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	P15622	metadata;role_crispr:sensitization_anti-viral
-ZNF318	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5VUA4	metadata
-ZNF503	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96F45	metadata
-ZPR1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O75312	metadata;role_crispr:sensitization_anti-viral
-ZYG11B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9C0D3	metadata
-SARS-CoV2 nucleocapsid protein			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 orf9c			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp9			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp8			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 spike glycoprotein precursor			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp1			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 Orf8			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 small envelope E protein			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 spike glycoprotein			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 hypothetical protein sars7a			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp15			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 E2 glycoprotein precursor (gene: S)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 Spike			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 hypothetical protein sars9b			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 Orf9			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 orf3b			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp11			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 full_polyprotein 1..4382			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 hypothetical protein orf7b			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp7			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp4			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp5_C145A			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp12			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 replicase 1AB			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 orf3a			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 endoRNAse (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp10			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp6			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 M			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 E			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 orf10			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 3-to-5 exonuclease (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 N			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp2			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 orf8			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 orf6			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 orf9b			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 Orf13			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 leader protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp5			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nucleocapsid protein (gene: N)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 envelope protein			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp14			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 nsp13			False	False		False	True	False	False	target	virus	virus			metadata
-SARS-CoV2 orf7a			False	False		False	True	False	False	target	virus	virus			metadata
+A2ML1	False	False	False	False	False	False	False	True	True	target	human	unk	6.0		
+AAR2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y312	
+AASS	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9UDR5	
+AATF	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NY61	
+ABCC1	False	True	False	False	False	False	True	True	False	target	human	unk	6.0		
+ABCE1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61221	
+ABL1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+ACAD9	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H845	
+ACADM	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P11310	
+ACE2	True	False	False	False	False	True	False	True	True	target	human	Tchem	2.0	Q9BYF1	notes_crispr:nan;role_crispr:resistance_pro_viral
+ACSL3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O95573	
+ACTB	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P60709	
+ACTL6A	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O96019	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+ACVR1B	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P36896	notes_crispr:nan;role_crispr:resistance_pro_viral
+ADA	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P00813	
+ADAM9	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q13443	
+ADAMTS1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9UHI8	
+ADAT2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q7Z6V5	notes_crispr:nan;role_crispr:sensitization_anti-viral
+ADGRG2	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q8IZP9	quantity_change:down
+ADK	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P55263	
+ADORA1	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P30542	
+ADRA1D	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P25100	
+AFP	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P02771	quantity_change:down
+AGPS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O00116	
+AKAP12	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q02952	quantity_change:up
+AKAP8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O43823	
+AKAP8L	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9ULX6	
+AKAP9	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+AKT1	False	True	True	False	False	False	False	True	False	target	human	Tchem	2.0	P31749	
+AKT2	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+ALDH1A1	False	True	False	False	True	False	False	True	False	target	human	Tchem	2.0	P00352	quantity_change:down
+ALDH2	False	True	False	False	True	False	False	True	False	target	human	Tclin	1.0	P05091	quantity_change:down
+ALG11	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q2TAA5	
+ALG5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y673	
+ALG8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BVK2	
+AMMECR1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9Y4X0	
+ANO3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9BYT9	
+ANO4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q32M45	
+ANO5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q75V66	
+ANO6	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q4KMQ2	
+ANO8	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCE9	
+ANO9	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A1A5B4	
+ANXA4	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P09525	quantity_change:down
+AP2A2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O94973	
+AP2M1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96CW1	
+AP3B1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O00203	
+APLP2	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q06481	quantity_change:down
+APOE	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P02649	quantity_change:down
+APP	False	True	False	True	False	False	False	True	False	target	human	unk	6.0		
+AR	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+ARF6	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P62330	
+ARID1A	True	False	False	False	False	False	False	True	False	target	human	unk	6.0		notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+ARID1B	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8NFD5	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+ARL6IP6	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8N6S5	
+ATE1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O95260	
+ATF2	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+ATM	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+ATP13A1	False	False	False	False	True	False	False	True	False	target	human	Tdark	4.0	Q9HD20	quantity_change:up
+ATP13A3	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9H7F0	
+ATP1B1	False	False	False	False	False	False	True	True	True	target	human	Tclin	1.0	P05026	
+ATP1B2	False	False	False	False	False	False	False	True	True	target	human	Tclin	1.0	P14415	
+ATP2B4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P23634	
+ATP4B	False	False	False	False	False	False	False	True	True	target	human	Tclin	1.0	P51164	
+ATP5MG	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	O75964	
+ATP6AP1	False	False	False	False	False	False	True	True	True	target	human	Tchem	2.0	Q15904	
+ATP6V1A	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P38606	
+ATP6V1G1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	O75348	quantity_change:down
+ATRX	True	False	False	False	False	False	False	True	False	target	human	unk	6.0		notes_crispr:nan;role_crispr:sensitization_anti-viral
+B2M	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	P61769	
+B3GAT2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NPZ5	
+B4GALNT2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8NHY0	
+BACE1	False	True	False	True	False	False	False	True	False	target	human	unk	6.0		
+BAG5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UL15	
+BAG6	False	False	False	False	False	True	False	True	True	target	human	unk	6.0		
+BCKDK	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O14874	
+BCS1L	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y276	
+BPTF	True	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	Q12830	notes_crispr:NURF complex;role_crispr:sensitization_anti-viral
+BRCA1	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P38398	
+BRD2	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+BRD4	False	True	False	False	False	False	True	True	True	target	human	Tchem	2.0	O60885	
+BTLA	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z6A9	
+BZW2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9Y6E2	
+C16orf91	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:up
+C1orf50	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9BV19	
+C20orf27	False	False	False	False	True	False	False	True	False	target	human	Tdark	4.0	Q9GZN8	quantity_change:up
+CABIN1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9Y6J0	notes_crispr:nan;role_crispr:sensitization_anti-viral
+CACNA2D4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z3S7	
+CANX	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P27824	
+CAT	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P04040	quantity_change:down
+CBR1	False	True	False	False	False	False	False	True	True	target	human	Tchem	2.0	P16152	
+CCDC86	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H6F5	
+CCNB1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P14635	
+CCND1	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P24385	
+CCNH	True	False	True	False	False	False	False	True	False	target	human	Tbio	3.0	P51946	notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+CCSMST1	False	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q4G0I0	
+CD300E	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q496F6	
+CD300LB	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A8K4G0	
+CD300LF	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8TDQ1	
+CD300LG	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UXG3	
+CD4	False	True	False	False	False	True	False	True	False	target	human	Tchem	2.0	P01730	
+CD8A	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P01732	
+CDA	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	P32320	
+CDC25A	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+CDH1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P12830	quantity_change:down
+CDH17	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q12864	quantity_change:down
+CDK1	False	True	True	False	False	False	False	True	False	target	human	Tchem	2.0	P06493	
+CDK2	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+CDK4	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+CDK5RAP2	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+CDK7	True	True	True	False	False	False	False	True	False	target	human	Tchem	2.0	P50613	notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+CDK8	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+CDKN1A	True	False	True	False	False	False	False	True	False	target	human	Tbio	3.0	P38936	notes_crispr:RUNX3 regulates CDKN1A transcription;role_crispr:resistance_pro_viral
+CDKN1B	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+CEACAM8	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P31997	
+CEBPZ	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q03701	quantity_change:up
+CENPF	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P49454	
+CEP112	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8N8E3	
+CEP135	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q66GS9	
+CEP250	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BV73	
+CEP350	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5VT06	
+CEP43	False	False	False	False	False	False	True	False	False	target	human	unk	6.0		
+CEP68	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q76N32	
+CHMP2A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O43633	
+CHMP2B	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9UQN3	quantity_change:down
+CHPF	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IZ52	
+CHPF2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9P2E5	
+CHRM2	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P08172	
+CHUK	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+CIRBP	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q14011	quantity_change:down
+CISD3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P0C7P0	
+CIT	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	O14578	
+CLCC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96S66	
+CLIP4	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8N3C7	
+CLTRN	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HBJ8	
+CMBL	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q96DG6	quantity_change:up
+CNGA2	False	True	False	False	False	False	False	True	True	target	human	Tchem	2.0	Q16280	
+CNGA4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IV77	
+CNTRL	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+COL6A1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P12109	
+COLGALT1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q8NBJ5	
+COMT	False	True	True	False	True	False	True	True	False	target	human	Tclin	1.0	P21964	quantity_change:down
+COPS5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92905	
+COQ8B	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q96D53	
+COX4I1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P13073	quantity_change:down
+CPSF6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q16630	
+CREB1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+CREBBP	True	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	Q92793	notes_crispr:nan;role_crispr:resistance_pro_viral
+CRTC3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q6UUV7	
+CSDE1	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+CSK	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+CSNK2A2	False	True	True	False	False	False	True	True	True	target	human	Tchem	2.0	P19784	
+CSNK2B	False	False	True	False	False	False	True	True	True	target	human	Tbio	3.0	P67870	
+CST6	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q15828	notes_crispr:cystatin and endolysosome lumen;role_crispr:resistance_pro_viral
+CSTA	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P01040	notes_crispr:cystatin and endolysosome lumen;role_crispr:resistance_pro_viral
+CSTB	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P04080	notes_crispr:cystatin and endolysosome lumen;role_crispr:resistance_pro_viral
+CSTV	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		notes_crispr:cystatin and endolysosome lumen;role_crispr:resistance_pro_viral
+CTNNB1	False	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P35222	
+CTNNBL1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q8WYA6	quantity_change:down
+CTSA	False	True	False	False	True	False	False	True	False	target	human	Tchem	2.0	P10619	quantity_change:down
+CTSL	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P07711	notes_crispr:cystatin and endolysosome lumen;role_crispr:resistance_pro_viral
+CTTN	False	False	True	False	False	False	False	True	True	target	human	unk	6.0		
+CUL1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+CUL2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13617	
+CWC27	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q6UX04	
+CYB5B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O43169	
+CYB5R3	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+DCAF7	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61962	
+DCAKD	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8WVC6	
+DCTPP1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9H773	
+DDX10	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13206	
+DDX20	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UHI6	notes_crispr:SMN complex;role_crispr:sensitization_anti-viral
+DDX21	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9NR30	
+DDX39B	False	False	False	False	False	False	False	True	False	target	human	unk	6.0		
+DDX42	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q86XP3	notes_crispr:nan;role_crispr:sensitization_anti-viral
+DENR	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O43583	notes_crispr:viral translation;role_crispr:sensitization_anti-viral
+DHFR	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P00374	
+DHRS9	False	True	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9BPW9	
+DIAPH3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NSV4	
+DNAJC11	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NVH1	
+DNAJC19	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96DA6	
+DNMT1	False	True	False	True	False	False	True	True	False	target	human	Tclin	1.0	P26358	
+DOLK	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UPQ8	notes_crispr:nan;role_crispr:sensitization_anti-viral
+DPF2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92785	notes_crispr:nan;role_crispr:resistance_pro_viral
+DPH5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H2P9	
+DPP4	False	True	False	True	True	False	False	True	False	target	human	Tclin	1.0	P27487	quantity_change:down
+DPY19L1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q2PZI1	
+DSCAML1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8TD84	
+DUSP1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+DYRK1A	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	Q13627	notes_crispr:nan;role_crispr:resistance_pro_viral
+E2F1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+ECSIT	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BQ95	
+EDEM3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BZQ6	
+EEF1A1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P68104	
+EEF2	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P13639	quantity_change:up
+EGF	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P01133	
+EIF2AK4	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	Q9P2K8	notes_crispr:viral translation; 2nd by feature importance FigS4;role_crispr:sensitization_anti-viral
+EIF2D	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P41214	notes_crispr:viral translation;role_crispr:resistance_pro_viral
+EIF2S1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P05198	
+EIF3A	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q14152	notes_crispr:viral translation;role_crispr:resistance_pro_viral
+EIF3B	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P55884	notes_crispr:viral translation;role_crispr:resistance_pro_viral
+EIF3D	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O15371	notes_crispr:viral translation;role_crispr:resistance_pro_viral
+EIF3L	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9Y262	notes_crispr:viral translation;role_crispr:sensitization_anti-viral
+EIF4A3	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P38919	
+EIF4E	False	True	False	False	False	False	False	True	False	target	human	unk	6.0		
+EIF4E2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O60573	
+EIF4G1	False	False	False	False	False	False	False	True	False	target	human	unk	6.0		
+EIF4H	False	False	False	False	True	False	True	True	False	target	human	Tchem	2.0	Q15056	quantity_change:down
+ELOB	False	False	False	False	False	False	True	False	False	target	human	unk	6.0		
+ELOC	False	False	False	False	False	False	True	False	False	target	human	unk	6.0		
+EMC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8N766	
+EMSY	True	False	False	False	False	False	False	True	False	target	human	unk	6.0		notes_crispr:nan;role_crispr:sensitization_anti-viral
+EP300	False	False	True	False	False	True	False	True	True	target	human	Tchem	2.0	Q09472	
+ERBB2	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+ERC1	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+ERCC2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P18074	notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+ERCC3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P19447	notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+ERGIC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q969X5	
+ERLEC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96DZ1	
+ERMP1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q7Z2K6	
+ERO1B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q86YB8	
+ERP44	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BS26	
+ETFA	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P13804	
+ETFB	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P38117	quantity_change:down
+EXOSC2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13868	
+EXOSC3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NQT5	
+EXOSC5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NQT4	
+EXOSC8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96B26	
+EZR	False	False	True	False	False	True	False	True	False	target	human	Tbio	3.0	P15311	
+F2RL1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	P55085	
+FABP1	False	True	False	False	True	False	False	True	False	target	human	Tchem	2.0	P07148	quantity_change:down
+FAM162A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96A26	
+FAM8A1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9UBU6	
+FAM98A	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8NCA5	
+FAR2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96K12	
+FAS	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+FASTKD5	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q7L8L6	
+FBL	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P22087	
+FBLN5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UBX5	
+FBN1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P35555	
+FBN2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P35556	
+FBXL12	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9NXK8	
+FCAMR	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8WWV6	
+FCGR1B	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q92637	
+FKBP10	False	True	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96AY3	
+FKBP15	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q5T1M5	
+FKBP7	False	False	False	False	False	False	True	False	False	target	human	unk	6.0		
+FLT1	False	True	True	False	False	True	False	True	False	target	human	Tclin	1.0	P17948	
+FLT3	False	True	True	True	False	False	False	True	False	target	human	Tclin	1.0	P36888	
+FN1	False	False	False	False	False	False	False	True	False	target	human	unk	6.0		
+FN3KRP	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HA64	
+FOXRED2	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8IWF2	
+FYCO1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BQS8	
+G3BP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13283	
+G3BP2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9UN86	
+GADD45A	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+GALNT13	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IUC8	
+GALNT16	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8N428	
+GALNT17	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6IS24	
+GALNT18	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6P9A2	
+GALNT5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z7M9	
+GALNT9	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCQ5	
+GALNTL5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z4T8	
+GALNTL6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q49A17	
+GAPDH	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P04406	
+GBGT1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8N5D6	
+GCC1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96CN9	
+GCC2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IWJ2	
+GDF15	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99988	
+GEMIN2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O14893	notes_crispr:SMN complex;role_crispr:sensitization_anti-viral
+GEMIN5	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8TEQ6	notes_crispr:SMN complex;role_crispr:sensitization_anti-viral
+GEMIN6	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8WXD5	notes_crispr:SMN complex;role_crispr:sensitization_anti-viral
+GEMIN7	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9H840	notes_crispr:SMN complex;role_crispr:sensitization_anti-viral
+GEMIN8	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q9NWZ8	notes_crispr:SMN complex;role_crispr:sensitization_anti-viral
+GFER	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	P55789	
+GGCX	False	True	False	False	False	False	True	True	True	target	human	Tclin	1.0	P38435	
+GGH	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q92820	
+GHITM	False	False	False	False	True	False	True	True	False	target	human	Tbio	3.0	Q9H3K2	quantity_change:down
+GHSR	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	Q92847	
+GIGYF2	False	False	False	False	False	False	True	True	True	target	human	Tchem	2.0	Q6Y7W6	
+GLA	False	True	False	False	False	False	True	True	False	target	human	Tclin	1.0	P06280	
+GNB1	False	False	True	False	False	False	True	True	False	target	human	Tbio	3.0	P62873	
+GNG5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P63218	
+GNPDA1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P46926	quantity_change:down
+GOLGA2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q08379	
+GOLGA3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q08378	
+GOLGA7	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q7Z5G4	
+GOLGB1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q14789	
+GORASP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BQQ3	
+GP6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCN6	
+GPAA1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O43292	
+GPR64	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+GPX1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P07203	
+GRB2	False	True	True	False	False	True	False	True	False	target	human	Tchem	2.0	P62993	
+GRIPAP1	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+GRPEL1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9HAV7	
+GSK3B	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+GSTP1	False	True	False	False	True	False	False	True	False	target	human	Tchem	2.0	P09211	quantity_change:down
+GTF2F2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P13984	
+GTF2H2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q13888	notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+GTF2H3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q13889	notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+GTF2H4	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92759	notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+GTFH1	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+GZF1	True	False	False	False	False	False	False	True	False	target	human	unk	6.0		notes_crispr:cystatin and endolysosome lumen;role_crispr:resistance_pro_viral
+H1-0	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P07305	
+H1-2	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P16403	
+H1-4	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P10412	
+H1F0	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+H3-2	False	False	False	False	False	False	False	True	False	target	human	unk	6.0		
+H3-3A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P84243	
+H3-3B	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P84243	
+H3F3A	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+H3F3AP4	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+H3F3B	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+HAS3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O00219	
+HAVCR2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8TDQ0	
+HDAC2	False	True	True	False	False	False	True	True	True	target	human	Tclin	1.0	Q92769	
+HEATR3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q7Z4Q2	
+HECTD1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9ULT8	
+HINT1	False	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	P49773	
+HIRA	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P54198	notes_crispr:nan;role_crispr:sensitization_anti-viral
+HIST1H1C	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+HIST1H1E	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+HLA-DQB2	False	False	False	False	False	False	False	True	True	target	human	unk	6.0		
+HMGB1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P09429	notes_crispr:nan;role_crispr:resistance_pro_viral
+HMGXB4	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UGU5	notes_crispr:NURF complex;role_crispr:sensitization_anti-viral
+HMOX1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	P09601	
+HNRNPA1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P09651	
+HNRNPC	False	False	False	False	False	False	False	True	False	target	human	unk	6.0		
+HOOK1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UJC3	
+HRAS	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P01112	
+HS2ST1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q7LGA3	
+HS3ST5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IZT8	
+HS6ST2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q96MM7	
+HSBP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O75506	
+HSP90AA1	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P07900	
+HSPA1A	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P0DMV8	
+HSPA4	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P34932	
+HSPA5	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P11021	
+HSPA8	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P11142	
+HSPA9	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P38646	
+HSPE1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P61604	quantity_change:down
+HYOU1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y4L1	
+IARS1	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	P41252	
+ICAM4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q14773	
+IDE	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	P14735	
+IDH1	False	True	False	False	True	False	False	True	False	target	human	Tchem	2.0	O75874	quantity_change:down
+IFNLR1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IU57	
+IGHA2	False	False	False	False	False	False	False	False	True	target	human	unk	6.0		
+IGKV3-20	False	False	False	False	False	False	False	False	True	target	human	unk	6.0		
+IKBKB	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+IKBKG	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+IL11RA	False	False	False	False	False	False	False	True	True	target	human	Tclin	1.0	Q14626	
+IL12RB1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P42701	
+IL17RA	False	False	False	False	False	False	True	True	False	target	human	Tclin	1.0	Q96F46	
+IL18R1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q13478	
+IL18RAP	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O95256	
+IL1RL1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q01638	
+IL20RB	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UXL0	
+IL22RA2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q969J5	
+IL31RA	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8NI17	
+IMPDH2	False	True	False	False	False	False	True	True	False	target	human	Tclin	1.0	P12268	
+INHBE	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P58166	
+INS	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P01308	
+INSL4	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q14641	quantity_change:down
+INTS4	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q96HW7	
+INTS6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9UL03	
+ISG15	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P05161	
+ITGA11	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9UKX5	
+ITGAD	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q13349	
+ITGB1	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+JAKMIP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96N16	
+JAML	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q86YT9	
+JMJD6	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q6NYC1	notes_crispr:nan;role_crispr:resistance_pro_viral
+JUN	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P05412	
+JUP	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P14923	quantity_change:down
+KAT14	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9H8E8	notes_crispr:nan;role_crispr:sensitization_anti-viral
+KAT2A	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+KAT2B	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+KAT5	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+KAT6A	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+KAT6B	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+KAT7	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+KCNG4	True	False	False	False	False	False	False	True	False	target	human	Tclin	1.0	Q8TDN1	notes_crispr:cystatin and endolysosome lumen;role_crispr:resistance_pro_viral
+KDM6A	True	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	O15550	notes_crispr:nan;role_crispr:resistance_pro_viral
+KIR3DL2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P43630	
+KLK1	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P06870	
+KMD1A	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		notes_crispr:nan;role_crispr:sensitization_anti-viral
+KMT2D	True	False	True	False	False	False	False	True	False	target	human	Tbio	3.0	O14686	notes_crispr:nan;role_crispr:resistance_pro_viral
+KPNB1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q14974	
+LARGE2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8N3Y3	
+LARP1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q6PKG0	
+LARP4B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q92615	
+LARP7	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q4G0J3	
+LCK	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+LDB1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q86U70	notes_crispr:nan;role_crispr:resistance_pro_viral
+LGALS3	False	True	False	False	True	False	False	True	False	target	human	Tchem	2.0	P17931	quantity_change:down
+LILRA5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A6NI73	
+LILRA6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6PI73	
+LILRB2	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q8N423	
+LMAN2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q12907	
+LOX	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P28300	
+LRIT3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q3SXY7	
+LUC7L	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NQ29	
+MAML1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+MAP3K1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+MAP4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P27816	
+MAP4K1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+MAP7D1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q3KQU3	
+MAPK1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+MAPK14	False	True	True	True	False	False	False	True	False	target	human	Tchem	2.0	Q16539	
+MAPK3	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+MAPK8	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+MARK1	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9P0L2	
+MARK2	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q7KZI7	
+MARK3	False	True	True	False	False	False	True	True	False	target	human	unk	6.0		
+MAT2B	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+MCTS1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9ULC4	notes_crispr:viral translation;role_crispr:sensitization_anti-viral
+MDGA2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z553	
+MDM2	False	False	True	True	False	False	False	True	False	target	human	unk	6.0		
+MDN1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9NU22	
+MED16	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9Y2X0	notes_crispr:nan;role_crispr:sensitization_anti-viral
+MEPCE	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q7L2J0	
+MFGE8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q08431	
+MGST3	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	O14880	quantity_change:down
+MIB1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q86YT6	
+MIPOL1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8TD10	
+MITF	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+MMS19	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q96T76	notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+MNAT1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P51948	notes_crispr:TFIIH holo complex;role_crispr:sensitization_anti-viral
+MOGS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13724	
+MOV10	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9HCE1	
+MPHOSPH10	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O00566	
+MPO	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P05164	
+MPZL3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UWV2	
+MRPL47	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9HD33	quantity_change:down
+MRPS2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y399	
+MRPS25	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	P82663	
+MRPS27	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q92552	
+MRPS5	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	P82675	
+MSN	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P26038	
+MTARC1	False	False	False	False	False	False	True	False	False	target	human	unk	6.0		
+MTCH1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NZJ7	
+MTREX	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P42285	
+MYADM	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q96S97	quantity_change:up
+MYC	False	False	True	False	False	False	False	True	False	target	human	Tbio	3.0	P01106	
+MYCBP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O75592	
+MYOD1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+NARS2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96I59	
+NAT14	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8WUY8	
+NCBP1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q09161	
+NCBP2	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P52298	
+NCOA1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+NCOA3	False	False	True	True	False	False	False	True	False	target	human	Tbio	3.0	Q9Y6Q9	
+NCR3LG1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q68D85	
+NDFIP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NV92	
+NDOR1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UHB4	notes_crispr:nan;role_crispr:sensitization_anti-viral
+NDUFAF1	False	False	False	False	False	False	True	True	False	target	human	Tclin	1.0	Q9Y375	
+NDUFAF2	False	False	False	False	False	False	True	True	False	target	human	Tclin	1.0	Q8N183	
+NDUFB3	False	False	False	False	True	False	False	True	False	target	human	Tclin	1.0	O43676	quantity_change:down
+NDUFB9	False	False	False	False	False	False	True	True	False	target	human	Tclin	1.0	Q9Y6M9	
+NEDD8	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q15843	
+NEK9	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q8TD19	
+NELFCD	False	False	False	False	True	False	False	True	False	target	human	unk	6.0		quantity_change:down
+NEU1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99519	
+NFAM1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8NET5	
+NFKB1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+NGDN	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8NEJ9	
+NGLY1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96IV0	
+NIN	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+NINL	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y2I6	
+NKX3-1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+NLRX1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q86UT6	
+NNT	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q13423	quantity_change:up
+NOL10	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9BSC4	
+NONO	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q15233	notes_crispr:nan;role_crispr:sensitization_anti-viral
+NOTCH1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+NPC2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61916	
+NPTX1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q15818	
+NQO2	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P16083	
+NSD2	False	False	True	False	False	False	True	True	False	target	human	unk	6.0		
+NUB1	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q9Y5A7	
+NUP155	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O75694	
+NUP210	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8TEM1	
+NUP214	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P35658	
+NUP35	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q8NFH5	quantity_change:down
+NUP54	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q7Z3B4	
+NUP58	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BVL2	
+NUP62	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P37198	
+NUP85	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9BW27	quantity_change:up
+NUP88	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99567	
+NUP98	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+NUTF2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61970	
+OASL	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	Q15646	
+OAT	False	False	False	False	True	False	False	True	False	target	human	Tchem	2.0	P04181	quantity_change:down
+OS9	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13438	
+OSBPL5	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9H0X9	
+OSBPL8	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9BZF1	notes_crispr:3d by feature importance FigS4;role_crispr:resistance_pro_viral
+OSCAR	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IYS5	
+P2RX1	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P51575	
+P2RX3	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P56373	
+P2RX4	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q99571	
+P2RY2	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P41231	
+P2RY4	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	P51582	
+P4HA3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q7Z4N8	
+PABPC1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P11940	
+PABPC4	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q13310	
+PAX7	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+PCBD1	True	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P61457	notes_crispr:nan;role_crispr:resistance_pro_viral;quantity_change:down
+PCCA	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	P05165	
+PCNA	False	True	True	False	False	True	False	True	False	target	human	Tchem	2.0	P12004	
+PCNT	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O95613	
+PCPB2	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		notes_crispr:viral translation;role_crispr:sensitization_anti-viral
+PCSK6	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+PCYOX1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9UHG3	quantity_change:up
+PDE4DIP	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+PDIA4	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P13667	quantity_change:down
+PDZD11	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5EBL8	
+PELO	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9BRX2	
+PGP	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	A6NDG6	
+PHF6	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8IWS0	notes_crispr:nan;role_crispr:resistance_pro_viral
+PHIP	True	False	False	False	False	False	False	True	False	target	human	unk	6.0		notes_crispr:nan;role_crispr:resistance_pro_viral
+PHOSPHO1	False	True	False	False	False	False	False	True	True	target	human	Tchem	2.0	Q8TCT1	
+PIAS1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O75925	notes_crispr:nan;role_crispr:sensitization_anti-viral
+PIAS2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O75928	notes_crispr:nan;role_crispr:sensitization_anti-viral
+PIGO	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8TEQ8	
+PIGS	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q96S52	
+PILRA	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9UKJ1	
+PIM1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+PITRM1	False	False	False	False	False	False	True	True	True	target	human	unk	6.0		
+PKM	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+PKP2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q99959	
+PLAT	False	True	False	False	False	False	True	True	False	target	human	unk	6.0		
+PLD3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IV08	
+PLEKHA5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9HAU0	
+PLEKHF2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H8W4	
+PLG	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P00747	
+PLOD2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O00469	
+PLXNA4	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCM2	
+PLXNC1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O60486	
+PML	False	False	False	False	False	False	False	True	False	target	human	unk	6.0		
+PMPCA	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q10713	
+PMPCB	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O75439	
+POFUT1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H488	
+POGLUT2	False	False	False	False	False	False	True	False	False	target	human	unk	6.0		
+POGLUT3	False	False	False	False	False	False	True	False	False	target	human	unk	6.0		
+POLA	False	False	False	True	False	False	False	False	False	target	human	unk	6.0		
+POLA1	False	True	False	False	False	False	True	True	True	target	human	Tclin	1.0	P09884	
+POLA2	False	True	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q14181	
+POLR2A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P24928	
+POP5	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q969H6	notes_crispr:nan;role_crispr:sensitization_anti-viral
+POR	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P16435	
+PPARG	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+PPIC	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P45877	quantity_change:up
+PPIL3	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+PPP1R3F	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6ZSY5	
+PPP2R1A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P30153	
+PPT1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P50897	
+PRIM1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P49642	
+PRIM2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P49643	
+PRKACA	False	True	True	False	False	False	True	True	False	target	human	Tchem	2.0	P17612	
+PRKAR1A	False	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	P10644	
+PRKAR2A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P13861	
+PRKAR2B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P31323	
+PRKCA	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+PRKCD	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+PRKD1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+PRNP	False	True	False	True	False	False	False	True	False	target	human	unk	6.0		
+PRRC2B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q5JSZ5	
+PRSS1	False	True	False	True	False	False	False	True	False	target	human	unk	6.0		
+PSAP	False	False	False	False	True	False	False	True	False	target	human	unk	6.0		quantity_change:down
+PSMD3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	O43242	
+PSMD8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P48556	
+PSME3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61289	notes_crispr:nan;role_crispr:sensitization_anti-viral
+PTBP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UKA9	
+PTGES2	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9H7Z7	
+PTPN1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+PTPRU	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q92729	
+PUSL1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q8N0Z8	
+PVR	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P15151	
+QSOX2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q6ZRP7	
+RAB10	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61026	
+RAB14	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61106	
+RAB18	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
+RAB1A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P62820	
+RAB2A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61019	
+RAB43	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q86YS6	
+RAB5C	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P51148	
+RAB7A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P51149	
+RAB8A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61006	
+RACK1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63244	
+RAD23A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P54725	
+RAD23B	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	P54727	
+RAD54L2	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q9Y4B4	notes_crispr:nan;role_crispr:resistance_pro_viral
+RAE1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P78406	
+RALA	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P11233	
+RALY	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9UKM9	quantity_change:down
+RALYL	False	False	False	False	True	False	False	True	False	target	human	Tdark	4.0	Q86SE5	quantity_change:down
+RAP1GDS1	False	False	False	False	False	False	True	True	True	target	human	unk	6.0		
+RBBP4	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q09028	notes_crispr:NURF complex;role_crispr:sensitization_anti-viral
+RBM25	False	False	False	False	False	False	False	True	True	target	human	unk	6.0		
+RBM28	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9NW13	
+RBM41	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q96IZ5	
+RBX1	False	False	True	False	False	False	True	False	False	target	human	unk	6.0		
+RDX	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P35241	
+REEP3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6NUK4	
+REEP5	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q00765	
+REEP6	False	False	False	False	False	False	True	False	True	target	human	unk	6.0		
+RELA	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+RET	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+RETREG3	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q86VR2	
+RHOA	False	False	True	False	False	False	True	True	False	target	human	Tbio	3.0	P61586	
+RIPK1	False	True	True	False	False	False	True	True	False	target	human	Tchem	2.0	Q13546	
+RNF111	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+RNF41	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H4P4	
+ROBO2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9HCK4	
+ROCK1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+RPL10	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P27635	quantity_change:down
+RPL10A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62906	
+RPL11	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62913	
+RPL12	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P30050	
+RPL13A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P40429	
+RPL15	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61313	
+RPL18	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q07020	
+RPL21	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46778	
+RPL22	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P35268	
+RPL22L1	False	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q6P5R6	
+RPL23	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62829	
+RPL23A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62750	
+RPL24	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P83731	
+RPL26	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P61254	quantity_change:up
+RPL27	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61353	
+RPL29	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P47914	quantity_change:down
+RPL30	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62888	
+RPL31	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62899	
+RPL34	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P49207	
+RPL35	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P42766	quantity_change:down
+RPL35A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P18077	
+RPL36	False	False	False	False	True	False	True	True	False	target	human	Tbio	3.0	Q9Y3U8	quantity_change:up
+RPL36A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P83881	
+RPL37A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61513	
+RPL38	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63173	
+RPL4	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P36578	
+RPL5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46777	
+RPL6	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q02878	
+RPL7	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P18124	
+RPL7A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62424	
+RPLP0	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P05388	
+RPS10	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46783	
+RPS11	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62280	
+RPS16	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62249	
+RPS17	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P08708	
+RPS18	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62269	
+RPS19	False	False	True	False	True	False	False	True	False	target	human	Tbio	3.0	P39019	quantity_change:up
+RPS2	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P15880	
+RPS20	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P60866	
+RPS21	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63220	
+RPS24	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62847	
+RPS25	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62851	
+RPS27A	False	False	False	False	False	True	False	True	True	target	human	unk	6.0		
+RPS28	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62857	
+RPS29	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62273	
+RPS3A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61247	
+RPS4X	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62701	
+RPS5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46782	
+RPS6	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62753	
+RPS6KA1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+RPS6KA4	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+RPS7	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62081	
+RPS8	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62241	
+RPS9	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46781	
+RPSA	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P08865	quantity_change:down
+RRP9	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O43818	
+RTN4	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NQC3	
+RUNX2	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+RUNX3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q13761	notes_crispr:RUNX3 regulates CDKN1A transcription;role_crispr:resistance_pro_viral
+RYBP	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8N488	notes_crispr:nan;role_crispr:resistance_pro_viral
+S100A10	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P60903	quantity_change:down
+SAAL1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q96ER3	
+SBNO1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	A3KN83	
+SCAP	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q12770	
+SCARB1	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q8WTV0	
+SCCPDH	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8NBX0	
+SCN3B	False	True	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NY72	
+SCN4B	False	True	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8IWT1	
+SDF2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99470	
+SDHB	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P21912	quantity_change:down
+SELENOS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BQE4	
+SELENOW	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P63302	quantity_change:down
+SEMA4B	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NPR2	
+SEMA5B	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9P283	
+SEPSECS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9HD40	
+SEPT9	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+SEPTIN9	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UHD8	
+SEPW1	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+SERPINA1	False	False	False	False	True	False	False	True	False	target	human	unk	6.0		quantity_change:down
+SERPINB13	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UIV8	notes_crispr:cystatin and endolysosome lumen;role_crispr:resistance_pro_viral
+SERTAD4	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q9NUC0	notes_crispr:nan;role_crispr:resistance_pro_viral
+SF3A1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q15459	quantity_change:up
+SH3YL1	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	Q96HL8	notes_crispr:nan;role_crispr:resistance_pro_viral
+SHC1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+SIAH1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8IUQ4	notes_crispr:nan;role_crispr:resistance_pro_viral
+SIGLEC11	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q96RL6	
+SIGLEC12	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q96PQ1	
+SIGLEC14	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q08ET2	
+SIGMAR1	False	True	False	False	False	False	True	True	False	target	human	Tclin	1.0	Q99720	
+SIL1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H173	
+SIRT1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+SIRT2	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+SIRT5	False	True	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q9NXA8	
+SKI	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+SKP1	False	False	True	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+SLAMF6	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q96DU3	
+SLC25A18	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9H1K4	
+SLC25A2	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9BXI2	
+SLC25A21	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9BQT8	
+SLC25A26	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q70HW3	
+SLC25A5	False	True	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:up
+SLC27A1	False	False	False	False	False	False	False	True	True	target	human	Tchem	2.0	Q6PCB7	
+SLC27A2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O14975	
+SLC28A1	False	True	False	True	False	False	False	True	False	target	human	Tbio	3.0	O00337	
+SLC28A3	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q9HAS3	
+SLC29A1	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	Q99808	
+SLC29A2	False	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	Q14542	
+SLC29A3	False	False	False	True	False	False	False	True	False	target	human	unk	6.0		
+SLC2A1	False	True	True	False	True	False	False	True	False	target	human	Tchem	2.0	P11166	quantity_change:down
+SLC30A2	False	False	False	False	False	False	False	False	True	target	human	unk	6.0		
+SLC30A6	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q6NXT4	
+SLC30A7	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q8NEW0	
+SLC30A9	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q6PML9	
+SLC44A2	False	False	False	False	False	False	True	True	True	target	human	unk	6.0		
+SLC44A3	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8N4M1	
+SLC47A1	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q96FL8	
+SLC5A7	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q9GZV3	
+SLC9A3R1	False	False	False	False	True	False	True	True	False	target	human	Tbio	3.0	O14745	quantity_change:down
+SLIRP	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9GZT3	quantity_change:down
+SLU7	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O95391	
+SMAD3	True	False	True	False	False	False	False	True	False	target	human	Tbio	3.0	P84022	notes_crispr:RUNX3 regulates CDKN1A transcription;role_crispr:resistance_pro_viral
+SMAD4	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q13485	notes_crispr:RUNX3 regulates CDKN1A transcription;role_crispr:resistance_pro_viral
+SMAD7	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+SMARCA1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P28370	notes_crispr:NURF complex;role_crispr:sensitization_anti-viral
+SMARCA4	True	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P51532	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+SMARCA5	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O60264	notes_crispr:NURF complex;role_crispr:sensitization_anti-viral
+SMARCB1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q12824	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+SMARCC1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92922	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+SMARCC2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q8TAQ2	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+SMARCCA4	True	False	False	False	False	False	False	False	False	target	human	unk	6.0		notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+SMARCD1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q96GM5	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+SMARCD2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q92925	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
+SMARCE1	True	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q969G3	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral;quantity_change:up
+SMG5	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UPR3	notes_crispr:nan;role_crispr:sensitization_anti-viral
+SMOC1	False	False	False	False	True	False	True	True	False	target	human	Tbio	3.0	Q9H4F8	quantity_change:up
+SNIP1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q8TAD8	
+SNRPB	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P14678	
+SNRPD1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62314	
+SNRPD2	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62316	
+SNRPD3	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62318	
+SNRPE	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62304	
+SNRPF	False	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	P62306	
+SNRPG	False	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	P62308	
+SORCS1	False	False	False	False	False	False	False	True	True	target	human	unk	6.0		
+SP1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+SPART	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8N0X7	
+SPCS3	False	False	False	False	True	False	False	True	False	target	human	Tdark	4.0	P61009	quantity_change:up
+SPINT2	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	O43291	quantity_change:down
+SPTBN5	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	Q9NRC6	
+SPTY2D1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q68D10	notes_crispr:nan;role_crispr:resistance_pro_viral
+SQSTM1	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	Q13501	
+SRC	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+SRP19	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P09132	
+SRP54	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61011	
+SRP72	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O76094	
+SRSF1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q07955	
+SSB	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P05455	notes_crispr:viral translation;role_crispr:sensitization_anti-viral
+STAT1	False	False	True	False	False	True	False	False	False	target	human	unk	6.0		
+STAT3	False	True	True	False	False	True	False	True	False	target	human	Tchem	2.0	P40763	
+STAT5A	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+STC2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O76061	
+STOM	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P27105	
+STOML2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UJZ1	
+STRAP	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9Y3F4	notes_crispr:SMN complex;role_crispr:sensitization_anti-viral
+STT3A	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P46977	quantity_change:down
+SUMO1	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63165	
+SUMO2	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	P61956	
+SUN2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9UH99	
+SYT8	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q8NBV8	
+TAF1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+TAF13	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q15543	notes_crispr:nan;role_crispr:sensitization_anti-viral
+TAPT1	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q6NXT6	
+TARM1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	B6A8C7	
+TARS2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BW92	
+TBCA	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O75347	
+TBK1	False	True	True	False	False	False	True	True	False	target	human	Tchem	2.0	Q9UHD2	
+TBKBP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	A7MCY6	
+TCF12	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q99081	
+TDP1	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q9NUW8	
+TECR	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9NZ01	quantity_change:down
+TFRC	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P02786	quantity_change:down
+TGFB1	True	False	True	False	False	False	False	True	False	target	human	Tchem	2.0	P01137	notes_crispr:RUNX3 regulates CDKN1A transcription;role_crispr:resistance_pro_viral
+TGFBR1	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+TH1L	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
+THTPA	False	True	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BU02	
+TIMM10	True	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P62072	notes_crispr:nan;role_crispr:sensitization_anti-viral
+TIMM10B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9Y5J6	
+TIMM29	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9BSF4	
+TIMM8B	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y5J9	
+TIMM9	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9Y5J7	
+TLE1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q04724	
+TLE3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q04726	
+TLE5	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q08117	
+TLR7	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	Q9NYK1	
+TLR8	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q9NR97	
+TLR9	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	Q9NR96	
+TM2D3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9BRN9	
+TMBIM6	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P55061	quantity_change:down
+TMCO1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9UM00	quantity_change:down
+TMED5	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9Y3A6	
+TMEM39B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9GZU3	
+TMEM97	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q5BJF2	
+TMIGD3	False	False	False	True	False	False	False	True	False	target	human	Tchem	2.0	P0DMS9	
+TMX3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q96JJ7	notes_crispr:nan;role_crispr:resistance_pro_viral
+TNFAIP8	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	O95379	quantity_change:up
+TOMM34	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q15785	quantity_change:down
+TOMM70	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O94826	
+TOR1A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O14656	
+TOR1AIP1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5JTV8	
+TP53	True	False	True	False	False	False	False	True	False	target	human	unk	6.0		notes_crispr:RUNX3 regulates CDKN1A transcription;role_crispr:resistance_pro_viral
+TPD52L1	False	False	False	False	True	False	False	True	False	target	human	unk	6.0		quantity_change:down
+TPR	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P12270	
+TPSAB1	False	True	True	True	False	False	False	True	False	target	human	Tclin	1.0	Q15661	
+TRAF2	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
+TRAF3	True	False	False	True	False	False	False	True	False	target	human	Tbio	3.0	Q13114	notes_crispr:nan;role_crispr:resistance_pro_viral
+TREML1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q86YW5	
+TRIM16	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	O95361	quantity_change:up
+TRIM59	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IWR1	
+TRIP12	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q14669	notes_crispr:ASF1A ;role_crispr:sensitization_anti-viral
+TRMT1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9NXH9	
+TRPM4	False	True	False	True	False	False	False	True	False	target	human	Tchem	2.0	Q8TD43	
+TSPAN8	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P19075	quantity_change:down
+TTR	False	True	False	False	True	False	False	True	False	target	human	Tclin	1.0	P02766	quantity_change:down
+TUBA1A	False	False	False	False	False	True	False	False	False	target	human	unk	6.0		
+TUBGCP2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9BSJ2	
+TUBGCP3	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q96CW5	
+TYSND1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q2T9J0	
+UBA52	False	False	False	False	False	True	False	True	True	target	human	unk	6.0		
+UBAP2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5T6F2	
+UBAP2L	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q14157	
+UBB	False	False	False	False	False	True	False	True	True	target	human	unk	6.0		
+UBC	False	False	False	False	False	True	False	True	True	target	human	unk	6.0		
+UBD	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	O15205	
+UBE2C	False	False	True	False	True	False	False	True	False	target	human	Tbio	3.0	O00762	quantity_change:down
+UBE2I	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63279	
+UBL5	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9BZL1	quantity_change:down
+UBQLN2	False	False	False	False	False	True	False	True	True	target	human	Tbio	3.0	Q9UHD9	
+UBTD1	False	False	False	False	False	True	False	True	False	target	human	Tdark	4.0	Q9HAC8	
+UBXN7	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O94888	notes_crispr:nan;role_crispr:resistance_pro_viral
+UBXN8	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O00124	
+UGDH	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	O60701	quantity_change:down
+UGGT2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NYU1	
+UHRF1	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	Q96T88	
+UNC5A	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6ZN44	
+UNC5D	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UXZ4	
+UNC79	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9P2D8	
+UPF1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q92900	
+USP13	False	False	False	False	False	False	True	True	False	target	human	Tchem	2.0	Q92995	
+USP54	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q70EL1	
+USP9X	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q93008	quantity_change:down
+VCAM1	False	False	False	False	False	True	False	True	True	target	human	Tchem	2.0	P19320	
+VCP	False	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P55072	
+VEGFA	False	True	True	False	False	False	False	False	False	target	human	unk	6.0		
+VIL1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P09327	quantity_change:down
+VPS11	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9H270	
+VPS39	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96JC1	
+VSTM1	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6UX27	
+WASHC4	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q2M389	
+WFS1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O76024	
+XRCC3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O43542	notes_crispr:nan;role_crispr:sensitization_anti-viral
+YARS	False	True	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:up
+YARS1	False	False	False	False	False	False	False	True	False	target	human	Tchem	2.0	P54577	
+YIF1A	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	O95070	
+YWHAB	False	False	True	False	False	True	False	True	False	target	human	Tchem	2.0	P31946	
+YWHAE	False	False	True	False	False	True	False	True	False	target	human	Tbio	3.0	P62258	
+YWHAG	False	False	False	False	False	True	False	True	False	target	human	Tbio	3.0	P61981	
+YWHAQ	False	False	True	False	False	True	False	True	False	target	human	Tchem	2.0	P27348	
+YWHAZ	False	False	True	False	False	True	False	True	False	target	human	unk	6.0		
+ZC3H18	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q86VM9	
+ZC3H7A	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q8IWR0	
+ZDHHC5	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9C0B5	
+ZFHX3	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q15911	notes_crispr:RUNX3 regulates CDKN1A transcription;role_crispr:resistance_pro_viral
+ZMYM2	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UBW7	notes_crispr:nan;role_crispr:sensitization_anti-viral
+ZNF250	True	False	False	False	False	False	False	True	False	target	human	Tdark	4.0	P15622	notes_crispr:nan;role_crispr:sensitization_anti-viral
+ZNF318	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q5VUA4	
+ZNF503	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q96F45	
+ZPR1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O75312	notes_crispr:SMN complex;role_crispr:sensitization_anti-viral
+ZSCAN4	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q8NAM6	quantity_change:down
+ZYG11B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9C0D3	
+SARS-CoV2 M			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp9			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 small envelope E protein			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 Orf9			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 hypothetical protein orf7b			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp2			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp5_C145A			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 hypothetical protein sars9b			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp1			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 Spike			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 Orf13			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf7a			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp7			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp12			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 E2 glycoprotein precursor (gene: S)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 full_polyprotein 1..4382			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp6			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nucleocapsid protein (gene: N)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 endoRNAse (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 spike glycoprotein			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 leader protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 N			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp15			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 replicase 1AB			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp10			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp13			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp8			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 orf6			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 orf9b			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 orf10			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp11			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp14			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp4			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 orf9c			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 spike glycoprotein precursor			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 E			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 envelope protein			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 3-to-5 exonuclease (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf3b			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 Orf8			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf3a			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nucleocapsid protein			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf8			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 hypothetical protein sars7a			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp5			False	False		False	True	False	False	target	virus	virus			
