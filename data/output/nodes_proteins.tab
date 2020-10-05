@@ -1,4 +1,5 @@
 gene	is_in_crispr	is_in_drugcentral	is_in_hats	is_in_jdti	is_in_natdt	is_in_phipster	is_in_preprint	is_in_string	is_in_taiml	node_type	target_type	tdl	tdl_priority	uniprot	metadata
+9-Sep	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
 A2ML1	False	False	False	False	False	False	False	True	True	target	human	unk	6.0		
 AAR2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9Y312	
 AASS	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	Q9UDR5	
@@ -10,7 +11,6 @@ ACAD9	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	
 ACADM	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P11310	
 ACE2	True	False	False	False	False	True	False	True	True	target	human	Tchem	2.0	Q9BYF1	notes_crispr:nan;role_crispr:resistance_pro_viral
 ACSL3	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	O95573	
-ACTB	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P60709	
 ACTL6A	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O96019	notes_crispr:SWI/SNF complex;role_crispr:resistance_pro_viral
 ACVR1B	True	True	False	False	False	False	False	True	False	target	human	Tchem	2.0	P36896	notes_crispr:nan;role_crispr:resistance_pro_viral
 ADA	False	True	False	True	False	False	False	True	False	target	human	Tclin	1.0	P00813	
@@ -474,6 +474,7 @@ NLRX1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	
 NNT	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q13423	quantity_change:up
 NOL10	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9BSC4	
 NONO	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q15233	notes_crispr:nan;role_crispr:sensitization_anti-viral
+NOP56	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O00567	
 NOTCH1	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
 NPC2	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P61916	
 NPTX1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q15818	
@@ -554,7 +555,6 @@ PPARG	False	True	True	False	False	False	False	False	False	target	human	unk	6.0
 PPIC	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P45877	quantity_change:up
 PPIL3	False	False	False	False	False	False	True	True	False	target	human	unk	6.0		
 PPP1R3F	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q6ZSY5	
-PPP2R1A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P30153	
 PPT1	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	P50897	
 PRIM1	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P49642	
 PRIM2	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	P49643	
@@ -640,6 +640,7 @@ RPL36	False	False	False	False	True	False	True	True	False	target	human	Tbio	3.0	Q
 RPL36A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P83881	
 RPL37A	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P61513	
 RPL38	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P63173	
+RPL39	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62891	
 RPL4	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P36578	
 RPL5	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46777	
 RPL6	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q02878	
@@ -670,6 +671,7 @@ RPS7	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	
 RPS8	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P62241	
 RPS9	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	P46781	
 RPSA	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	P08865	quantity_change:down
+RRBP1	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q9P2E9	quantity_change:down
 RRP9	False	False	False	False	False	False	True	True	True	target	human	Tbio	3.0	O43818	
 RTN4	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9NQC3	
 RUNX2	False	False	True	False	False	False	False	False	False	target	human	unk	6.0		
@@ -690,8 +692,6 @@ SELENOW	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.
 SEMA4B	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9NPR2	
 SEMA5B	False	False	False	False	False	False	False	True	True	target	human	Tbio	3.0	Q9P283	
 SEPSECS	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0	Q9HD40	
-SEPT9	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
-SEPTIN9	False	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UHD8	
 SEPW1	False	False	False	False	True	False	False	False	False	target	human	unk	6.0		quantity_change:down
 SERPINA1	False	False	False	False	True	False	False	True	False	target	human	unk	6.0		quantity_change:down
 SERPINB13	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	Q9UIV8	notes_crispr:cystatin and endolysosome lumen;role_crispr:resistance_pro_viral
@@ -894,58 +894,58 @@ ZNF503	False	False	False	False	False	False	True	True	False	target	human	Tbio	3.0
 ZPR1	True	False	False	False	False	False	False	True	False	target	human	Tbio	3.0	O75312	notes_crispr:SMN complex;role_crispr:sensitization_anti-viral
 ZSCAN4	False	False	False	False	True	False	False	True	False	target	human	Tbio	3.0	Q8NAM6	quantity_change:down
 ZYG11B	False	False	False	False	False	False	True	True	False	target	human	Tdark	4.0	Q9C0D3	
-SARS-CoV2 M			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nsp9			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 small envelope E protein			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 Orf9			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 hypothetical protein orf7b			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 nsp2			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nsp5_C145A			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 hypothetical protein sars9b			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 nsp1			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 Spike			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 Orf13			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 orf7a			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nsp7			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nsp12			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 E2 glycoprotein precursor (gene: S)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 full_polyprotein 1..4382			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 nsp6			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nucleocapsid protein (gene: N)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 endoRNAse (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 spike glycoprotein			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 leader protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 N			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nsp15			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 replicase 1AB			False	False		True	False	False	False	target	virus	virus			
 SARS-CoV2 nsp10			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nsp13			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nsp8			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 orf6			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 orf9b			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 orf10			False	False		False	True	False	False	target	virus	virus			
 SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 nsp11			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nsp14			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 nsp4			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 orf9c			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 spike glycoprotein precursor			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 E			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 envelope protein			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 3-to-5 exonuclease (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 orf3b			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 Orf8			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 orf3a			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 nucleocapsid protein			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 orf8			False	False		False	True	False	False	target	virus	virus			
-SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
-SARS-CoV2 hypothetical protein sars7a			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf9b			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 endoRNAse (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 small envelope E protein			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp6			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp2			False	False		False	True	False	False	target	virus	virus			
 SARS-CoV2 nsp5			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp7			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp11			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 envelope protein			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 Orf8			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp13			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp4			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf3a			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 E			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp8			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 spike glycoprotein precursor			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp14			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 hypothetical protein sars9b			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 Spike			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 replicase 1AB			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp12			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp15			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 hypothetical protein sars7a			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 E2 glycoprotein precursor (gene: S)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 hypothetical protein orf7b			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf6			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 orf7a			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 spike glycoprotein			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf8			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nucleocapsid protein			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf10			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 full_polyprotein 1..4382			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp9			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 3-to-5 exonuclease (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 orf3b			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp1			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 leader protein (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nucleocapsid protein (gene: N)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 Orf9			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 N			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 M			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)			False	False		True	False	False	False	target	virus	virus			
+SARS-CoV2 nsp5_C145A			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 orf9c			False	False		False	True	False	False	target	virus	virus			
+SARS-CoV2 Orf13			False	False		True	False	False	False	target	virus	virus			
