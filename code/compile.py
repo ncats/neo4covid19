@@ -278,12 +278,12 @@ def add_node_metadata (df, node_id, df_met, md_node_id_col, md_col, md_orig, md_
 ####### WORKFLOW ###
 
 
-is_test = False
+is_test = True
 
 
 if len(sys.argv) > 1:
-	if sys.argv[1] == 'test':
-		is_test = True
+	if sys.argv[1] == 'live':
+		is_test = False
 		print ('[*] Test mode: ON.')
 
 

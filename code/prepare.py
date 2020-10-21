@@ -262,12 +262,12 @@ def is_in_chemical_space_dataset (df, df_all, cs, new_column):
 ####### WORKFLOW ###
 
 
-is_test = False
+is_test = True
 
 
 if len(sys.argv) > 1:
-	if sys.argv[1] == 'test':
-		is_test = True
+	if sys.argv[1] == 'live':
+		is_test = False
 		print ('[*] Test mode: ON.')
 
 

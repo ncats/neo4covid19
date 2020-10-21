@@ -11,10 +11,7 @@
 # Ref: https://github.com/ncats/smartgraph_backend
 
 
-#from sqlalchemy import create_engine
-#import psycopg2 as pg
 from py2neo import Graph
-from dfply import *
 
 
 ### Neo4j ####

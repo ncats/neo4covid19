@@ -2,6 +2,4 @@ conda install pandas
 conda install xlrd
 pip install uuid
 pip install py2neo
-pip install networkxgmml
-conda install networkx
 conda install requests

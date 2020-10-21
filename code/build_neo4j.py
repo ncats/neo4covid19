@@ -28,11 +28,6 @@ import pandas as pd
 
 from py2neo import Graph
 
-#import networkx as nx
-#from networkx import *
-#import networkxgmml
-#from networkxgmml import XGMMLWriter
-
 FILE_nodes_targets = '../data/output/nodes_proteins.tab'
 FILE_nodes_drugs = '../data/output/nodes_drugs.tab'
 FILE_edges_ppi = '../data/output/edges_ppi.tab'
