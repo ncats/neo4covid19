@@ -4,7 +4,6 @@ Dataset	Origin
 input/chembl_version_27_18052020_uniprot_mapping.tsv	ChEMBL v27	Creative Commons Attribution-ShareAlike 3.0 Unported	[ ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/latest/LICENSE ]	[ https://creativecommons.org/licenses/by-sa/3.0/ ]	
 input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx	from Collaborator				
 input/FIsInGene_020720_with_annotations.txt	Reactome	Creative Commons Attribution 4.0 International (CC BY 4.0) License	[ https://creativecommons.org/licenses/by/4.0/ ]		
-input/gene2uniprot.tab	UniProt				
 input/HATs.tsv	from Collaborator				
 input/Merged.xlsx	Collaborator / Publication, STRING	Krogan et al., [ https://www.biorxiv.org/content/10.1101/2020.03.22.002386v1 ]	[ https://string-db.org/cgi/access.pl?footer_active_subpage=licensing ]	Creative Commons Attribution 4.0 International (CC BY 4.0) License	[ https://creativecommons.org/licenses/by/4.0/ ]
 input/nat_drugtargets.tsv	Publication	D. Bojkova et al., Nature, vol. 583, no. 7816, pp. 469–472, Jul. 2020, doi: 10.1038/s41586-020-2332-7.			
@@ -14,22 +13,34 @@ input/SARS-CoV2.tsv	Krogan et al. preprint	Krogan et al., [ https://www.biorxiv.
 input/SG_HATs_dist_3_conf_0.00.json	SmartGraph (ChEMBL, SIGNOR 2.0)	[ https://smartgraph.ncats.io/ ] , 	SIGNOR db 2.0 [ https://signor.uniroma2.it/user_guide.php ]: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) [ https://creativecommons.org/licenses/by-sa/4.0/ ]	ChEMBL DB version 24 [ https://chembl.gitbook.io/chembl-interface-documentation/about ]: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) [ https://creativecommons.org/licenses/by-sa/3.0/ ]	
 input/SG_HATs_reverse_dist_3_conf_0.00.json	SmartGraph (ChEMBL, SIGNOR 2.0)	[ https://smartgraph.ncats.io/ ] , 	SIGNOR db 2.0 [ https://signor.uniroma2.it/user_guide.php ]: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) [ https://creativecommons.org/licenses/by-sa/4.0/ ]	ChEMBL DB version 24 [ https://chembl.gitbook.io/chembl-interface-documentation/about ]: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) [ https://creativecommons.org/licenses/by-sa/3.0/ ]	
 input/TDL_UniProt_TCRD6_rev.xlsx	Collaborator / Pharos	TCRD [ http://juniper.health.unm.edu/tcrd/download/ ]	[ http://juniper.health.unm.edu/tcrd/download/README ]		
-input/uniprot2gene.tab	UniProt	UniProt [ https://www.uniprot.org/help/license ]	Attribution 4.0 International (CC BY 4.0)	[ https://creativecommons.org/licenses/by/4.0/ ]	
 DrugCentral (on-the-fly download at compilation)	http://drugcentral.org/	[ http://drugcentral.org/privacy ]	Creative Commons Attribution-ShareAlike 4.0 International	 [ https://creativecommons.org/licenses/by-sa/4.0/legalcode ]	
-STRING (STRING API, stringAPP API, on-the-fly at compilation)	[ https://string-db.org/ ]	Creative Commons Attribution 4.0 International (CC BY 4.0)	[ https://string-db.org/cgi/access.pl ]	[ https://creativecommons.org/licenses/by/4.0/ ]	
+STRING (STRING API, stringAPP API, on-the-fly at compilation)	[ https://string-db.org/ ]	Creative Commons Attribution 4.0 International (CC BY 4.0)	[ https://string-db.org/cgi/access.pl ]	[ https://creativecommons.org/licenses/by/4.0/ ]
+UniProt Mapping	(on-the-fly download at compilation) [https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping.dat.gz]	[ https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/README ] Creative Commons Attribution (CC BY 4.0) License	[ https://creativecommons.org/licenses/by/4.0/ ]
 
 
 
 *Derivative Works*
 					
 Dataset	Derivative of				
-output/edges_dtis.tab	input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx from Collaborator, DrugCentral	DrugCentral			
-output/edges_ppi.tab	STRING, SmartGraph				
-output/nodes_drugs.tab	DrugCentral, input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx from Collaborator				
-output/nodes_proteins.tab	all data sources above				
-output/unique_host_proteins_prestring.txt	all data sources above, except SmartGraph, STRING, P-HIPSTer				
-output/db_stats.tsv	all data sources above				
-output/db_stats2.tsv	all data sources above				
-output/gene_name_mapping_checkpoint.tsv	all data sources above
-output/uniprot_mapping_checkpoint.tsv	all data sources above, except SmartGraph, STRING, P-HIPSTer
 
+input/standardized/STD_dti.tsv			input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx from Collaborator, DrugCentral  DrugCentral
+input/standardized/STD_host_protein.tsv		all data sources above
+input/standardized/STD_hpi.tsv			input/PHIPSTER_SARS_COV2.xlsx from Collaborator, input/SARS-CoV2.tsv from Krogan et al. preprint
+input/standardized/STD_pathogen_protein.tsv	input/PHIPSTER_SARS_COV2.xlsx from Collaborator, input/SARS-CoV2.tsv from Krogan et al. preprint
+input/standardized/STD_ppi.tsv			STRING, SmartGraph, UniProt, input/HATs.tsv from Collaborator
+
+
+output/FINAL_drugs.tsv				input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx from Collaborator, DrugCentral  DrugCentral
+output/FINAL_dti.tsv				input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx from Collaborator, DrugCentral  DrugCentral
+output/FINAL_host_proteins.tsv			all data sources above
+output/FINAL_hpi.tsv				input/PHIPSTER_SARS_COV2.xlsx from Collaborator, input/SARS-CoV2.tsv from Krogan et al. preprint
+output/FINAL_pathogen_proteins.tsv		input/PHIPSTER_SARS_COV2.xlsx from Collaborator, input/SARS-CoV2.tsv from Krogan et al. preprint
+output/FINAL_ppi.tsv				STRING, SmartGraph, UniProt, input/HATs.tsv from Collaborator
+output/db_stats2.tsv				all data sources above
+output/db_stats.tsv				all data sources above
+output/idgtdl_gene2uniprot_mapping.tsv		all data sources above, except input/SG_HATs_dist_3_conf_0.00.json SmartGraph, input/SG_HATs_reverse_dist_3_conf_0.00.json SmartGraph and STRING
+output/sg_gene2uniprot_mapping.tsv		all data sources above
+output/sg_proteins_a.tsv			input/HATs.tsv  from Collaborator, UniProt
+output/sg_proteins_b.tsv			all data sources above, except input/SG_HATs_dist_3_conf_0.00.json SmartGraph, input/SG_HATs_reverse_dist_3_conf_0.00.json SmartGraph and STRING
+
+db/Neo4COVID19_PUB_rolling_neo4j.dump		all data sources above
