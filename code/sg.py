@@ -157,7 +157,7 @@ def process_sg (fname):
 
 	#print (df)
 
-	print ('[*] Processing input HATs SmartGraph subnetwork done.')
+	#print ('[*] Processing input SmartGraph subnetwork done.')
 
 	return (df)
 

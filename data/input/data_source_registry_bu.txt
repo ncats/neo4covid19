@@ -1,0 +1,10 @@
+input	data_type	is_experimental	data_source	abbreviated_data_source	original_score	original_score_type	prioritized_for_pathway_analysis	do_ppi_expansion	harmonization_schema	acquisition_method	metadata_columns	is_directed
+../data/input/SARS-CoV2.tsv	hpi	TRUE	"SARS-CoV-2 - Human Interactome, Krogan et al."	hpi_krogan	na	na	FALSE	TRUE	dh_krogan	"Preprint/Nature, experimental data"	na	TRUE
+../data/input/PHIPSTER_SARS_COV2.xlsx;Sheet1	hpi	FALSE	"PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)"	hpi_phipster	na	na	FALSE	TRUE	dh_phipster	"Predictions by PHIPSTER webapp, shared by TIO"	na	TRUE
+../data/input/Merged.xlsx;TDL_from_SARS-CoV-2_human	host_protein	FALSE	"Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)"	patprot_taiml	na	na	FALSE	TRUE	dh_taiml	Shared by TIO	na	na
+../data/input/nat_drugtargets.tsv	host_protein	TRUE	"Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx"	hostprot_nat	P value	p-value	FALSE	TRUE	dh_nat	Shared by TIO	na	na
+../data/input/SARS-CoV-2-CRISPR-paper_mod.xlsx;Data	host_protein	TRUE	"Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101"	hostprot_crispr	na	na	FALSE	TRUE	dh_crispr	Extracted by TIO	notes;role	na
+../data/input/HATs.tsv	host_protein	FALSE	"Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD"	hostprot_hats	na	na	TRUE	FALSE	dh_hats	"TIO, TW"	na	na
+../data/input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx;NHC	dti	FALSE	"Prediction by Jordi Mestres, PhD (JM)"	dti_jm_nhc	na	na	FALSE	TRUE	dh_jm_dti	File shared by JM	Chemical space	TRUE
+../data/input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx;HCQ	dti	FALSE	"Prediction by Jordi Mestres, PhD (JM)"	dti_jm_hcq	na	na	FALSE	TRUE	dh_jm_dti	File shared by JM	Chemical space	TRUE
+../data/input/COVID19_TargetList_ChemSpace_mod_GZK.xlsx;CAM	dti	FALSE	"Prediction by Jordi Mestres, PhD (JM)"	dti_jm_cam	na	na	FALSE	TRUE	dh_jm_dti	File shared by JM	Chemical space	TRUE

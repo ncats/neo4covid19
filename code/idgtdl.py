@@ -19,82 +19,14 @@ import urllib.parse
 import urllib.request
 import sys
 
+from uniprot_map import *
 
 FILE_tdl_source = '../data/input/TDL_UniProt_TCRD6_rev.xlsx'
-FILE_uniprot2gene = '../data/input/uniprot2gene.tab'
-FILE_gene2uniprot = '../data/input/gene2uniprot.tab'
+FILE_GENE_TO_UNIPROT_TDL = '../data/output/idgtdl_gene2uniprot_mapping.tsv'
 
 
 
-def uniprot2gene (proteins):
-
-	df_checkpoint = pd.DataFrame({'uniprot':proteins})
-	df_checkpoint.to_csv ('../data/output/uniprot_mapping_checkpoint.tsv', sep = '\t', index = False)
-
-	url = 'https://www.uniprot.org/uploadlists/'
-
-	query = ''
-
-
-	for p in proteins:
-		query += p + ' '
-
-	query = query.strip()
-
-	params = {
-		'from': 'ACC+ID',
-		'to': 'GENENAME',
-		'format': 'tab',
-		'query': query
-	}
-
-	print ('[*] Starting ID mapping via UniProt API. This make take a while ...')
-
-	data = urllib.parse.urlencode(params)
-	data = data.encode('utf-8')
-	req = urllib.request.Request(url, data)
-	#print(req)
-	with urllib.request.urlopen(req) as f:
-		response = f.read()
-	#print  (response.decode('utf-8'))
-
-	results = response.decode('utf-8')
-
-	print ('[*] ID mapping retrieved from UniProt API.')
-
-
-	lines = results.split ('\n')
-
-	tmp = []
-
-	genes = []
-	
-	uniprots = []
-
-	lines.pop()
-
-	first = True
-
-	for i in range (0, len(lines)):
-		line = lines[i]
-		line = line.strip()
-		#print (line)
-		tmp = line.split ('\t')
-		
-		if first:
-			first = False
-		else:
-			uniprots.append (tmp[0].strip())
-			genes.append (tmp[1].strip())
-
-	
-	df = pd.DataFrame ({'uniprot': uniprots, 'gene': genes})
-
-	return (df)
-
-
-
-def get_tdl_by_gene_name (df, test = False):
+def annotate_tdl (df, target_col):
 
 	# df: join key: gene names in 'gene column'
 
@@ -110,11 +42,8 @@ def get_tdl_by_gene_name (df, test = False):
 
 	#print (proteins)
 
-	if not test:
-		df_map = uniprot2gene(proteins)
-		df_map.to_csv (FILE_uniprot2gene, sep = '\t', index = False)
-	else:
-		df_map = pd.read_csv (FILE_uniprot2gene, sep = '\t')
+	df_map = uniprot2gene(proteins)
+
 
 	#print (df_map.head())
 
@@ -123,9 +52,7 @@ def get_tdl_by_gene_name (df, test = False):
 	df_tdl = df_tdl.merge(df_map, left_on = 'uniprot', right_on = 'uniprot', how = 'inner')
 
 
-	df = df.merge (df_tdl, left_on = 'gene', right_on = 'gene', how = 'left')
-
-	df['tdl'] = df['tdl'].fillna('unk')
+	df_tdl['tdl'] = df_tdl['tdl'].fillna('unk')
 
 	#print (df)	
 
@@ -150,110 +77,26 @@ def get_tdl_by_gene_name (df, test = False):
 
 		return (sc)
 
-	df['tdl_priority'] = df.apply (lambda x: prioritize_tdl(x['tdl']), axis = 1)
+	df_tdl['tdl_priority'] = df_tdl.apply (lambda x: prioritize_tdl(x['tdl']), axis = 1)
 
-	df = df.sort_values (['tdl_priority'])
+	df_tdl = df_tdl.sort_values (['tdl_priority'])
 
-	df = df.groupby(['gene'], as_index = False).aggregate ({
-					'uniprot': 'first',
-					'tdl': 'first',
-					'tdl_priority': 'first'
-				})
+	df_tdl = df_tdl.groupby(['gene_symbol'], as_index = False).agg ('first')
+
+
+	df_tdl.to_csv (FILE_GENE_TO_UNIPROT_TDL, sep = '\t', index = False)
+
+	df = df.merge (df_tdl, left_on = target_col, right_on = 'gene_symbol', how = 'left')
+
+	df['tdl'] = df['tdl'].fillna ('unk')
+	
+	df = df.drop(columns = ['tdl_priority', 'gene_symbol']).copy()
 
 	#print (df)
 
 	return (df)
 
 
-def gene2uniprot (proteins):
-	
-	df_checkpoint = pd.DataFrame({'gene_name':proteins})
-	df_checkpoint.to_csv ('../data/output/gene_name_mapping_checkpoint.tsv', sep = '\t', index = False)
-
-
-	url = 'https://www.uniprot.org/uploadlists/'
-	
-	query = ''
-
-	print ("OK")
-	print (proteins)
-
-	for p in proteins:
-		query += p + ' '
-
-	query = query.strip()
-
-	params = {
-		'from': 'GENENAME',
-		'to': 'ACC',
-		'format': 'tab',
-		'query': query
-	}
-
-	print ('[*] Starting ID mapping via UniProt API. This make take a while ...')
-
-	data = urllib.parse.urlencode(params)
-	data = data.encode('utf-8')
-	req = urllib.request.Request(url, data)
-	#print(req)
-	with urllib.request.urlopen(req) as f:
-		response = f.read()
-	#print  (response.decode('utf-8'))
-
-	results = response.decode('utf-8')
-
-	print ('[*] ID mapping retrieved from UniProt API.')
-
-
-	lines = results.split ('\n')
-
-	tmp = []
-
-	genes = []
-	
-	uniprots = []
-
-	lines.pop()
-
-	first = True
-
-	for i in range (0, len(lines)):
-		line = lines[i]
-		line = line.strip()
-		#print (line)
-		tmp = line.split ('\t')
-		
-		if first:
-			first = False
-		else:
-			genes.append (tmp[0].strip())
-			uniprots.append (tmp[1].strip())
-
-	
-	df = pd.DataFrame ({'gene': genes, 'uniprot': uniprots})
-
-	return (df)
-
-
-
-def get_uniprot_from_gene_name (proteins, test = False):
-	#print (proteins)
-	# df: join key: gene names in 'gene column'
-
-	#print (proteins)
-
-	if not test:
-		df_map = gene2uniprot(proteins)
-		df_map.to_csv (FILE_gene2uniprot, sep = '\t', index = False)
-	else:
-		df_map = pd.read_csv (FILE_gene2uniprot, sep = '\t')
-
-	#print (df_map.head())
-
-	#print (df_map.shape)
-	#print (df_map)
-
-	return (list(set(list(df_map['uniprot']))))
 
 
 

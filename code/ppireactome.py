@@ -135,7 +135,7 @@ def swap_nodes (df_mirror):
 
 	df_mirror['edge_label'] = df_mirror.apply (lambda x: create_edge_label (x['source_node'], x['target_node']), axis = 1)
 
-	df_mirror = df_mirror[['source_node', 'target_node', 'direction', 'Annotation', 'edge_label', 'Score']]
+	df_mirror = df_mirror[['source_node', 'target_node', 'direction', 'Annotation', 'edge_label', 'Score']].copy()
 
 
 #	df_mirror['new_direction'] = df_mirror.apply (lambda x: determine_new_arrow (x['direction']), axis = 1)
@@ -238,7 +238,6 @@ def simplify_arrows_to_left (df):
 
 
 
-
 def get_reactome_ppi ():
 
 	df = pd.read_csv (FILE_reactome, sep = '\t')
@@ -320,18 +319,28 @@ def get_reactome_ppi ():
 
 	df_aggr = df_aggr.sort_values (['edge_label'])
 
-	print (df_aggr)
+	#print (df_aggr)
 
 	m = max (list(df_aggr['edge_label']))
 
 	if m > 1:
-		print ('[ERROR] Reactome processing led to edges that appear more than once. This should not be the case, chack input or code. Terminating ...')
+		print ('[ERROR] Reactome processing led to edges that appear more than once. This should not be the case, check input or code. Terminating ...')
 
 
 	return (df)
 
 
+def standardize_reactome (df):
+	df = df.rename (columns = {
+		'source_node': 'host_protein_a',
+		'target_node': 'host_protein_b',
+		'Annotation': 'ref_annotation',
+		'Score': 'ref_score',
+		'regdir': 'ref_interaction',
+		'direction': 'ref_direction'
+	})
 
+	return (df)
 
 
 

@@ -1,0 +1,56 @@
+pathogen_protein	abbreviated_data_source	is_experimental	data_source	acquisition_method	prioritized_for_pathway_analysis	do_ppi_expansion	source_specific_score	source_specific_score_type	activation	activation_type	metadata
+SARS-CoV2 E	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 M	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 N	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 Spike	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp10	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp11	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp12	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp13	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp14	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp15	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp4	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp5_C145A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp6	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp7	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp8	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 orf10	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 orf3a	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 orf3b	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 orf6	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 orf7a	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 orf8	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 orf9b	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 orf9c	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 3-to-5 exonuclease (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 E2 glycoprotein precursor (gene: S)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 Orf13	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 Orf8	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 Orf9	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 endoRNAse (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 envelope protein	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 full_polyprotein 1..4382	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 hypothetical protein orf7b	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 hypothetical protein sars7a	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 hypothetical protein sars9b	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 leader protein (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nucleocapsid protein	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 nucleocapsid protein (gene: N)	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 replicase 1AB	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 small envelope E protein	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 spike glycoprotein	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SARS-CoV2 spike glycoprotein precursor	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi

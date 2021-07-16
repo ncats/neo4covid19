@@ -27,7 +27,8 @@ import requests ## python -m pip install requests
 import pandas as pd
 from datetime import datetime
 import json
-from idgtdl import uniprot2gene
+
+from uniprot_map import *
 
 date_str = datetime.today().strftime('%Y-%m-%d')
 
@@ -55,6 +56,9 @@ def stringify (genes = [], species_ncbi = 9606, limit_of_mapped_genes = 1, max_i
 	#print (genes)
 
 	genes = filter_problematic_genes (genes)
+	nr_genes = len(genes)
+	
+	print ('[*] Stringifying of %d proteins started via STRING API. This may take a while...' % (nr_genes))
 
 	string_api_url = "https://string-db.org/api"
 	output_format = "tsv-no-header"
@@ -245,16 +249,16 @@ def stringify (genes = [], species_ncbi = 9606, limit_of_mapped_genes = 1, max_i
 
 	df_genes = uniprot2gene (proteins)
 
-	print (df_genes.columns)
+	#print (df_genes.columns)
 
 
 	df = df.merge (df_genes, left_on = 'source_node', right_on = 'uniprot', how = 'inner')
 	df = df.drop (columns = ['source_node']).copy()	
-	df = df.rename (columns = {'gene': 'source_node'})
+	df = df.rename (columns = {'gene_symbol': 'source_node'})
 	
 	df = df.merge (df_genes, left_on = 'target_node', right_on = 'uniprot', how = 'inner')
 	df = df.drop (columns = ['target_node']).copy()	
-	df = df.rename (columns = {'gene': 'target_node'})
+	df = df.rename (columns = {'gene_symbol': 'target_node'})
 	
 	df = df.groupby (['source_node', 'target_node'], as_index = False).aggregate ({
 								'source_specific_score': 'first'

@@ -17,6 +17,8 @@
 import pandas as pd
 import sys
 
+from n4c_commons import *
+
 url_dc_dti = 'http://unmtid-shinyapps.net/download/drug.target.interaction.tsv.gz'
 url_dc_structures = 'http://unmtid-shinyapps.net/download/structures.smiles.tsv'
 
@@ -242,4 +244,100 @@ def identify_drugs_by_name (df_drugs, name_col):
 	return (df_drugs)
 
 
+def standardize_dc (df):
 
+
+	# Provide a comma-seoarated list to define the list of columns that should be extracted as metadata
+	md_cols = 'is_activity_known'
+
+	md = extract_metadata (df, md_cols)
+
+
+	df = df.rename (columns = {
+		'gene': 'host_protein'
+	})
+
+	df = df[['drug_name', 'host_protein', 'action_type', 'p_chembl', 'struct_id']].copy()
+	
+
+	drug_names = list(df['drug_name'])
+	host_proteins = list(df['host_protein'])
+	action_types = list(df['action_type'])
+	p_chembl_values = list(df['p_chembl'])	
+	#struct_ids = list(df['struct_id'])	
+	
+	
+	#df = pd.DataFrame ({'drug_name':drug_names, 'host_protein':host_proteins,'action_type': action_types, 'p_chembl': p_chembl_values, 'struct_id':struct_ids, 'metadata': md})
+	
+	df = pd.DataFrame ({'drug_name':drug_names, 'host_protein':host_proteins,'action_type': action_types, 'p_chembl': p_chembl_values, 'metadata': md})
+	
+	
+	# Specific to DTI
+
+	"""
+	df = annotate_drug_structures (df, 'left')
+	
+	df = df.drop(columns = ['struct_id', 'ID']).copy()
+	df = df.rename (columns = {
+		'InChI': 'inchi',
+		'InChIKey': 'inchi_key',
+		'SMILES': 'smiles',
+		'gene': 'host_protein',
+		'p_chembl': 'source_specific_score'
+		
+	})
+	
+	
+	
+
+
+	df['smiles'] = df['smiles'].fillna('na')
+	df['inchi'] = df['inchi'].fillna('na')
+	df['inchi_key'] = df['inchi_key'].fillna('na')
+	df['CAS_RN'] = df['CAS_RN'].fillna('na')
+	
+	df['ns_inchi_key'] = df.apply (lambda x: ik2nsik (x['inchi_key']), axis = 1)
+	"""
+	
+				
+	df['is_experimental'] = True
+	df['data_source'] = 'https://drugcentral.org/'
+	df['abbreviated_data_source'] = 'dti_dc'
+	df['acquisition_method'] = 'web' 
+	df['prioritized_for_pathway_analysis'] = False
+	df['do_ppi_expansion'] = False
+	df['source_specific_score_type'] = 'p_chembl'
+	df['directed'] = True
+
+	
+	agg_cols = ['drug_name', 'host_protein', 'action_type']
+	df = aggregate_by_first (df, agg_cols)
+	
+	
+	return (df)
+
+
+
+def get_drug_ref ():
+	df = get_dc_dti()
+	df = annotate_drug_structures (df, 'left')
+	
+	
+	df = df.drop(columns = ['struct_id', 'ID', 'gene', 'p_chembl', 'action_type', 'is_activity_known']).copy()
+	df = df.rename (columns = {
+		'InChI': 'inchi',
+		'InChIKey': 'inchi_key',
+		'SMILES': 'smiles'
+		
+	})
+
+	df['smiles'] = df['smiles'].fillna('na')
+	df['inchi'] = df['inchi'].fillna('na')
+	df['inchi_key'] = df['inchi_key'].fillna('na')
+	df['CAS_RN'] = df['CAS_RN'].fillna('na')
+	df['ns_inchi_key'] = df.apply (lambda x: ik2nsik (x['inchi_key']), axis = 1)
+	
+
+	df = df.groupby(['drug_name'], as_index = False).agg ('first')
+
+	return (df)
