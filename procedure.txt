@@ -42,14 +42,6 @@ cd neo4covid19
 
 
 
-!!!!!!!!!!!! Make sure to merge with master !!!!!!!!!!!!!!!
-(This might be unnecessary:
-git checkout dev)
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-
 
 
 
@@ -148,25 +140,17 @@ mypassword
 5. Replicate workflow
 
 
-cd ~/n4ctest/neo4covid19/code/
-
-python prepare.py
-
-python compile.py
+`cd ~/n4ctest/neo4covid19/code/`
 
 
+# Data harmonization step
 
-Of note, the above process will recreate the database from input files that were provided at the beginning of the workflow and from those files that were temporary saved during building the database.
+`python harmonize.py`
 
-In case you want to recreate the database completely from scratch, please follow the detailed instructions at https://github.com/ncats/neo4covid19/blob/dev/README.md 
+# Perform SmartGraph extension as detailed in Step 2 in the the README.md file of this reposiotry ( https://github.com/ncats/neo4covid19/blob/master/README.md ), then perform next step:
 
-Bottomline is that you will need to use the "live" switch in the case of both commands and also perform the SmartGraph analysis as described in Step 2 at https://github.com/ncats/neo4covid19/blob/dev/README.md .
+`python process_sg.py`
 
-So, the outline of the process is this:
+# DB Compilation
 
-python prepare.py live
-
-# Perform SmartGraph analysis as described in Step 2 at https://github.com/ncats/neo4covid19/blob/dev/README.md .
-
-python compile.py live
-
+`python compile.py`
