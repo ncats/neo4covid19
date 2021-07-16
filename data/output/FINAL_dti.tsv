@@ -1,0 +1,1266 @@
+drug_name	host_protein	action_type	p_chembl	metadata	is_experimental	data_source	abbreviated_data_source	acquisition_method	prioritized_for_pathway_analysis	do_ppi_expansion	source_specific_score_type	directed	source_specific_score	edge_label
+Florbetapir F-18	APP	unknown	8.54	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	Florbetapir F-18_APP
+N6-hydroxyadenosine	TDP1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	N6-hydroxyadenosine_TDP1
+abemaciclib	CDK4	inhibitor	9.22184875	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	abemaciclib_CDK4
+aceclidine	CHRM2	agonist	5.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aceclidine_CHRM2
+aceclofenac	MAPK1	unknown	5.227165073	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aceclofenac_MAPK1
+aceclofenac	TTR	unknown	5.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aceclofenac_TTR
+acepromazine	PRNP	unknown	5.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	acepromazine_PRNP
+acetic acid	LCK	unknown	6.19	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	acetic acid_LCK
+acetylcholine	CHRM2	agonist	6.5	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	acetylcholine_CHRM2
+acetylcysteine	VEGFA	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	acetylcysteine_VEGFA
+aclidinium bromide	CHRM2	unknown	10.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aclidinium bromide_CHRM2
+adenosine	ADA	unknown	4.6021	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	adenosine_ADA
+adenosine	ADK	unknown||unknown	6.0||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	adenosine_ADK
+adenosine	ADORA1	agonist||unknown	6.5086||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	adenosine_ADORA1
+adenosine	DPP4	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_DPP4
+adenosine	GAPDH	unknown	4.46	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	adenosine_GAPDH
+adenosine	GHSR	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_GHSR
+adenosine	HINT1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_HINT1
+adenosine	IARS1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_IARS1
+adenosine	MAPK14	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_MAPK14
+adenosine	PRKAR1A	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_PRKAR1A
+adenosine	SLC28A1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_SLC28A1
+adenosine	SLC28A3	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_SLC28A3
+adenosine	SLC5A7	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_SLC5A7
+adenosine	TMIGD3	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	adenosine_TMIGD3
+adenosine phosphate	SRC	unknown	7.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	adenosine phosphate_SRC
+adenosine phosphate	TRPM4	gating inhibitor	4.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	adenosine phosphate_TRPM4
+adenosine triphosphate	HSPA1A	unknown	5.46999979019165	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	adenosine triphosphate_HSPA1A
+adenosine triphosphate	HSPA8	unknown	4.76000022888184	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	adenosine triphosphate_HSPA8
+adenosine triphosphate	P2RX1	agonist||unknown	7.25||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	adenosine triphosphate_P2RX1
+adenosine triphosphate	P2RX3	unknown||unknown	7.835647144||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	adenosine triphosphate_P2RX3
+adenosine triphosphate	P2RX4	agonist||unknown	6.3||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	adenosine triphosphate_P2RX4
+adenosine triphosphate	P2RY2	agonist||unknown	7.1||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	adenosine triphosphate_P2RY2
+adenosine triphosphate	P2RY4	unknown||unknown	6.2||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	adenosine triphosphate_P2RY4
+adenosine triphosphate	TRPM4	blocker||unknown	5.8||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	adenosine triphosphate_TRPM4
+afatinib	ABL1	unknown	6.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	afatinib_ABL1
+afatinib	CIT	unknown	5.54	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	afatinib_CIT
+afatinib	DYRK1A	unknown	6.01	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	afatinib_DYRK1A
+afatinib	ERBB2	inhibitor	8.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	afatinib_ERBB2
+afatinib	FLT3	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	afatinib_FLT3
+afatinib	LCK	unknown	6.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	afatinib_LCK
+afatinib	MAPK14	unknown	5.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	afatinib_MAPK14
+afatinib	SRC	unknown	5.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	afatinib_SRC
+aflibercept	VEGFA	inhibitor	12.301030158996598	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aflibercept_VEGFA
+alcuronium	CHRM2	allosteric modulator	6.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	alcuronium_CHRM2
+alectinib	RET	inhibitor	8.31875896453857	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	alectinib_RET
+alexidine	TLR9	unknown	5.21000003814697	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	alexidine_TLR9
+alfuzosin	ADRA1D	antagonist	8.44	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	alfuzosin_ADRA1D
+alimemazine	GFER	unknown	5.900000095367429	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	alimemazine_GFER
+alogliptin	DPP4	inhibitor||unknown	9.0||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	alogliptin_DPP4
+alpha-Ergocryptine	ADRA1D	unknown	8.368556231	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	alpha-Ergocryptine_ADRA1D
+alprazolam	BRD4	unknown	5.61	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	alprazolam_BRD4
+alteplase	PLG	activator	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	alteplase_PLG
+amantadine	SIGMAR1	unknown	7.69	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amantadine_SIGMAR1
+amantadine	SLC47A1	unknown	4.42	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amantadine_SLC47A1
+aminocaproic acid	PLAT	inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aminocaproic acid_PLAT
+aminocaproic acid	PLG	inhibitor	4.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aminocaproic acid_PLG
+aminopterin	DHFR	unknown	9.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aminopterin_DHFR
+aminosalicylic acid	PTPN1	unknown	2.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aminosalicylic acid_PTPN1
+amiodarone	CHRM2	unknown	5.7432822539999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amiodarone_CHRM2
+amiodarone	ERBB2	unknown	5.038673844	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amiodarone_ERBB2
+amiodarone	SIGMAR1	unknown	7.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amiodarone_SIGMAR1
+amitriptyline	ADRA1D	unknown	8.251811972999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amitriptyline_ADRA1D
+amitriptyline	CHRM2	unknown	8.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amitriptyline_CHRM2
+amitriptyline	RET	unknown	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amitriptyline_RET
+amitriptyline	SIGMAR1	unknown	6.25	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amitriptyline_SIGMAR1
+amitriptylinoxide	RET	unknown	5.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amitriptylinoxide_RET
+amlexanox	TBK1	inhibitor	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amlexanox_TBK1
+amlodipine	ADRA1D	unknown	5.27	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amlodipine_ADRA1D
+amoxapine	ADRA1D	unknown	6.841637508	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amoxapine_ADRA1D
+amoxapine	CHRM2	unknown	6.030118356	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	amoxapine_CHRM2
+ampicillin	TRPM4	unknown	4.72	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ampicillin_TRPM4
+anagliptin	DPP4	inhibitor	8.42021656036377	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	anagliptin_DPP4
+androisoxazole	AR	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	androisoxazole_AR
+androstanolone	AR	unknown	9.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	androstanolone_AR
+androstenediol	AR	unknown	6.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	androstenediol_AR
+anhydrovinblastine	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	anhydrovinblastine_ABCC1
+anisindione	GGCX	inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	anisindione_GGCX
+apalutamide	AR	inhibitor	7.79588	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	apalutamide_AR
+apatinib	CSK	inhibitor	6.28	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	apatinib_CSK
+apatinib	RET	inhibitor	7.886056423187259	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	apatinib_RET
+apatinib	SRC	inhibitor	6.27572393417358	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	apatinib_SRC
+apomorphine	ADRA1D	unknown	7.1871	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	apomorphine_ADRA1D
+aprotinin	PLG	inhibitor	6.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aprotinin_PLG
+argatroban	PLAT	unknown	4.06	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	argatroban_PLAT
+aripiprazole	CHRM2	unknown	5.45487833023071	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	aripiprazole_CHRM2
+asenapine	CHRM2	unknown	6.038578906000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	asenapine_CHRM2
+astemizole	ADRA1D	unknown	8.004364805	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	astemizole_ADRA1D
+astemizole	CHRM2	unknown	6.300162274	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	astemizole_CHRM2
+astemizole	ERBB2	unknown	4.883259465	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	astemizole_ERBB2
+astemizole	LCK	unknown	4.700710666	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	astemizole_LCK
+astemizole	SIGMAR1	unknown	6.025028006	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	astemizole_SIGMAR1
+astemizole	SLC28A1	unknown	5.311936303	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	astemizole_SLC28A1
+astemizole	SLC47A1	unknown	4.58	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	astemizole_SLC47A1
+atorvastatin	HDAC2	unknown	4.65	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	atorvastatin_HDAC2
+atropine	ADRA1D	unknown	6.1765257710000006	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	atropine_ADRA1D
+atropine	CHRM2	antagonist	8.97	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	atropine_CHRM2
+axitinib	ABL1	unknown	8.82	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_ABL1
+axitinib	CSK	unknown	5.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_CSK
+axitinib	CSNK2A2	unknown	5.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_CSNK2A2
+axitinib	FLT1	inhibitor	8.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_FLT1
+axitinib	FLT3	unknown	7.51	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_FLT3
+axitinib	LCK	unknown	5.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_LCK
+axitinib	MAP4K1	unknown	6.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_MAP4K1
+axitinib	MAPK8	unknown	5.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_MAPK8
+axitinib	RET	unknown	7.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_RET
+axitinib	RIPK1	unknown	5.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	axitinib_RIPK1
+azacitidine	ADORA1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	azacitidine_ADORA1
+azacitidine	DNMT1	inhibitor||unknown	3.0||nan	is_activity_known:False||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	azacitidine_DNMT1
+bacitracin	LCK	unknown	5.716020716	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bacitracin_LCK
+baicalin	CDK1	unknown	4.84	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	baicalin_CDK1
+balsalazide	PPARG	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	balsalazide_PPARG
+belinostat	HDAC2	inhibitor	9.07	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	belinostat_HDAC2
+bendamustine	HDAC2	unknown	8.05	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bendamustine_HDAC2
+benperidol	SIGMAR1	unknown	5.94	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	benperidol_SIGMAR1
+benzatropine	ADRA1D	unknown	7.585026652000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	benzatropine_ADRA1D
+benzatropine	CHRM2	antagonist	8.8539	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	benzatropine_CHRM2
+benzatropine	SIGMAR1	unknown	7.229147987999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	benzatropine_SIGMAR1
+benzbromarone	ABCC1	unknown	6.72	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	benzbromarone_ABCC1
+benzbromarone	MAPK1	unknown	5.710857164	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	benzbromarone_MAPK1
+benzbromarone	MAPK14	unknown	5.908333042000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	benzbromarone_MAPK14
+benzethonium	CHRM2	unknown	6.690369832999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	benzethonium_CHRM2
+benzethonium	ERBB2	unknown	5.681102285	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	benzethonium_ERBB2
+bethanechol	CHRM2	agonist	4.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bethanechol_CHRM2
+bevacizumab	VEGFA	antibody binding	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bevacizumab_VEGFA
+bexarotene	PPARG	antagonist	5.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bexarotene_PPARG
+bezafibrate	PPARG	unknown	4.1778	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bezafibrate_PPARG
+bicalutamide	AR	antagonist	7.72	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bicalutamide_AR
+bietamiverine	CHRM2	unknown	5.99	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bietamiverine_CHRM2
+binodenoson	ADORA1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	binodenoson_ADORA1
+biotin	IDE	unknown	5.599999904632571	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	biotin_IDE
+biperiden	CHRM2	antagonist	8.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	biperiden_CHRM2
+bithionol	ERBB2	unknown	5.6681679560000005	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bithionol_ERBB2
+bithionol	LCK	unknown	5.6468534539999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bithionol_LCK
+bithionol	MAPK1	unknown	6.41453927	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bithionol_MAPK1
+bithionol	MAPK14	unknown	6.49757288	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bithionol_MAPK14
+bithionol	SLC47A1	unknown	5.28	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bithionol_SLC47A1
+blonanserin	SIGMAR1	unknown	6.54	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	blonanserin_SIGMAR1
+boceprevir	CTSA	inhibitor	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	boceprevir_CTSA
+boceprevir	CTSL	unknown	6.12	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	boceprevir_CTSL
+bortezomib	CTSA	unknown	5.04	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bortezomib_CTSA
+bosutinib	ABL1	inhibitor	10.54	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_ABL1
+bosutinib	CDK7	unknown	5.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_CDK7
+bosutinib	CIT	unknown	5.62	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_CIT
+bosutinib	CSK	unknown	7.49	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_CSK
+bosutinib	EIF2AK4	unknown	6.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_EIF2AK4
+bosutinib	ERBB2	unknown	5.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_ERBB2
+bosutinib	FLT3	unknown	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_FLT3
+bosutinib	LCK	unknown	9.23	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_LCK
+bosutinib	MAP3K1	unknown	5.36	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_MAP3K1
+bosutinib	MAP4K1	unknown	7.82	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_MAP4K1
+bosutinib	PRKCD	unknown	5.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_PRKCD
+bosutinib	RET	unknown	5.42	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_RET
+bosutinib	ROCK1	unknown	6.06	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_ROCK1
+bosutinib	SRC	inhibitor	9.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_SRC
+bosutinib	TBK1	unknown	6.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bosutinib_TBK1
+brexpiprazole	ADRA1D	antagonist	8.58502674102783	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	brexpiprazole_ADRA1D
+brigatinib	FLT3	inhibitor	8.6777811050415	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	brigatinib_FLT3
+brimonidine	ADRA1D	unknown	6.072629637	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	brimonidine_ADRA1D
+brolucizumab	VEGFA	inhibitor	8.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	brolucizumab_VEGFA
+bromhexine	SIGMAR1	unknown	7.602059991	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bromhexine_SIGMAR1
+bromocriptine	ADRA1D	unknown	8.549750892	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bromocriptine_ADRA1D
+bromperidol	CHRM2	unknown	5.744727611541751	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bromperidol_CHRM2
+bromperidol	SIGMAR1	unknown	9.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bromperidol_SIGMAR1
+buflomedil	ADRA1D	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	buflomedil_ADRA1D
+buflomedil	SIGMAR1	unknown	5.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	buflomedil_SIGMAR1
+bufylline	ADORA1	antagonist	9.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bufylline_ADORA1
+bunazosin	NQO2	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	bunazosin_NQO2
+buspirone	ADRA1D	unknown	6.276544328	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	buspirone_ADRA1D
+buspirone	SIGMAR1	unknown	7.3188	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	buspirone_SIGMAR1
+buspirone	SLC47A1	unknown	5.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	buspirone_SLC47A1
+butenafine	SIGMAR1	unknown	5.779499653999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	butenafine_SIGMAR1
+cabergoline	ADRA1D	unknown	6.78	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cabergoline_ADRA1D
+cabozantinib	FLT3	inhibitor	7.94692134857178	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cabozantinib_FLT3
+cabozantinib	RET	inhibitor	8.28399658203125	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cabozantinib_RET
+cadralazine	MPO	unknown	5.301	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cadralazine_MPO
+caffeine	ADORA1	antagonist	4.97	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	caffeine_ADORA1
+camostat	KLK1	unknown||unknown	5.83||nan	is_activity_known:True||Chemical space:CAM	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_cam	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	camostat_KLK1
+camostat	PLG	unknown	nan	Chemical space:CAM	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_cam	File shared by JM	False	True	na	True	na	camostat_PLG
+camostat	PRSS1	inhibitor||unknown	7.3||nan	is_activity_known:True||Chemical space:CAM	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_cam	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	camostat_PRSS1
+camostat	SLC47A1	unknown||unknown	5.54||nan	is_activity_known:True||Chemical space:CAM	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_cam	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	camostat_SLC47A1
+camostat	TPSAB1	unknown	nan	Chemical space:CAM	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_cam	File shared by JM	False	True	na	True	na	camostat_TPSAB1
+candesartan cilexetil	ERBB2	unknown	5.230000019073491	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	candesartan cilexetil_ERBB2
+capsaicin	YARS	unknown	4.38	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	capsaicin_YARS
+caramiphen	SIGMAR1	unknown	7.81	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	caramiphen_SIGMAR1
+carbachol	CHRM2	unknown	7.9208	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	carbachol_CHRM2
+carbidopa	LCK	unknown	5.1678105389999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	carbidopa_LCK
+cariprazine	ADRA1D	unknown	6.67999982833862	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cariprazine_ADRA1D
+carmofur	MAPK3	unknown	5.213177621	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	carmofur_MAPK3
+carvedilol	ADRA1D	antagonist	9.054039296000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	carvedilol_ADRA1D
+carvedilol	APP	unknown	4.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	carvedilol_APP
+carvedilol	SLC47A1	unknown	4.03	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	carvedilol_SLC47A1
+casopitant	SIGMAR1	unknown	5.53	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	casopitant_SIGMAR1
+cefapirin	SIGMAR1	unknown	6.21	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cefapirin_SIGMAR1
+cefotetan	COMT	unknown	4.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cefotetan_COMT
+celecoxib	MAPK14	unknown	6.09	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	celecoxib_MAPK14
+cepharanthine	NFKB1	inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cepharanthine_NFKB1
+ceritinib	ABL1	unknown	5.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ceritinib_ABL1
+ceritinib	CDK2	unknown	5.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ceritinib_CDK2
+ceritinib	CDK4	unknown	5.33	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ceritinib_CDK4
+ceritinib	FLT3	unknown	7.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ceritinib_FLT3
+ceritinib	LCK	unknown	6.25	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ceritinib_LCK
+ceritinib	RET	unknown	6.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ceritinib_RET
+ceritinib	SRC	unknown	5.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ceritinib_SRC
+cevimeline	CHRM2	unknown	5.983	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cevimeline_CHRM2
+chidamide	HDAC2	inhibitor	6.79587984085083	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chidamide_HDAC2
+chlorambucil	ADAM9	unknown	7.25	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlorambucil_ADAM9
+chlorhexidine	SLC47A1	unknown	6.15	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlorhexidine_SLC47A1
+chloroquine	APP	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	chloroquine_APP
+chloroquine	BACE1	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	chloroquine_BACE1
+chloroquine	DHFR	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	chloroquine_DHFR
+chloroquine	NQO2	unknown||unknown	5.82||nan	is_activity_known:True||Chemical space:HCQ	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_hcq	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	chloroquine_NQO2
+chloroquine	PRNP	unknown||unknown	5.4||nan	is_activity_known:True||Chemical space:HCQ	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_hcq	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	chloroquine_PRNP
+chloroquine	TLR7	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	chloroquine_TLR7
+chloroquine	TLR8	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	chloroquine_TLR8
+chloroquine	TLR9	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	chloroquine_TLR9
+chloroquine	TRAF3	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	chloroquine_TRAF3
+chlorpromazine	ADRA1D	unknown	8.707743929	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlorpromazine_ADRA1D
+chlorpromazine	CHRM2	unknown	6.74573516845703	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlorpromazine_CHRM2
+chlorpromazine	ERBB2	unknown	4.712960072	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlorpromazine_ERBB2
+chlorpromazine	GFER	unknown	5.9899997711181605	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlorpromazine_GFER
+chlorpromazine	PRNP	unknown	5.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlorpromazine_PRNP
+chlorpromazine	SIGMAR1	unknown	6.723538196	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlorpromazine_SIGMAR1
+chlorprothixene	CHRM2	unknown	7.552841969	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlorprothixene_CHRM2
+chlortetracycline	PRNP	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	chlortetracycline_PRNP
+choline theophyllinate	ADORA1	antagonist	9.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	choline theophyllinate_ADORA1
+cianidanol	BACE1	unknown	4.519999980926509	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cianidanol_BACE1
+ciclosporin	ABCC1	unknown	5.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ciclosporin_ABCC1
+cimetidine	SLC47A1	unknown	5.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cimetidine_SLC47A1
+cinnarizine	ADRA1D	unknown	6.241845378	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cinnarizine_ADRA1D
+cinnarizine	SIGMAR1	unknown	7.769551079	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cinnarizine_SIGMAR1
+cisapride	ADRA1D	unknown	7.30980392	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cisapride_ADRA1D
+cisapride	SIGMAR1	unknown	6.378823718	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cisapride_SIGMAR1
+cisplatin	LCK	unknown	4.639236234	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cisplatin_LCK
+cisplatin	MAPK3	unknown	5.334982175	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cisplatin_MAPK3
+citalopram	ADRA1D	unknown	6.148130398999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	citalopram_ADRA1D
+citalopram	SIGMAR1	unknown	6.777283529	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	citalopram_SIGMAR1
+cladribine	ADORA1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cladribine_ADORA1
+clemastine	ADRA1D	unknown	7.823908741	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clemastine_ADRA1D
+clemastine	CHRM2	unknown	6.702999999999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clemastine_CHRM2
+clemastine	SIGMAR1	unknown	7.853871964	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clemastine_SIGMAR1
+clioquinol	APP	unknown	4.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clioquinol_APP
+clodronic acid	PTPN1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clodronic acid_PTPN1
+clodronic acid	SLC25A5	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clodronic acid_SLC25A5
+clofarabine	ADORA1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	clofarabine_ADORA1
+clofarabine	POLA	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	clofarabine_POLA
+clofarabine	POLA1	inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clofarabine_POLA1
+clomifene	CHRM2	unknown	5.88941029	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clomifene_CHRM2
+clomifene	ERBB2	unknown	5.777543662999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clomifene_ERBB2
+clomifene	SIGMAR1	unknown	8.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clomifene_SIGMAR1
+clomipramine	ADRA1D	unknown	7.397940009	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clomipramine_ADRA1D
+clomipramine	CHRM2	unknown	7.0655015489999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clomipramine_CHRM2
+clomipramine	GSTP1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clomipramine_GSTP1
+clomipramine	SIGMAR1	unknown	6.242603971	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clomipramine_SIGMAR1
+clonidine	SLC47A1	unknown	4.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clonidine_SLC47A1
+clotrimazole	ADORA1	unknown	5.106238238	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clotrimazole_ADORA1
+clotrimazole	ADRA1D	unknown	5.13200249	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clotrimazole_ADRA1D
+clotrimazole	CHRM2	unknown	5.286761538	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clotrimazole_CHRM2
+clotrimazole	ERBB2	unknown	4.177799219	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clotrimazole_ERBB2
+clozapine	ADRA1D	antagonist	7.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clozapine_ADRA1D
+clozapine	CHRM2	unknown	7.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clozapine_CHRM2
+clozapine	SIGMAR1	unknown	5.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	clozapine_SIGMAR1
+cocaine	SIGMAR1	unknown	5.05	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cocaine_SIGMAR1
+colchicine	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	colchicine_ABCC1
+colforsin daropate	SLC2A1	unknown	5.300000190734861	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	colforsin daropate_SLC2A1
+colistin	ERBB2	unknown	5.652279782999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	colistin_ERBB2
+corbadrine	ADRA1D	agonist	5.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	corbadrine_ADRA1D
+cortisone acetate	SLC47A1	unknown	4.67	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cortisone acetate_SLC47A1
+crizotinib	ABL1	unknown	8.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_ABL1
+crizotinib	ACVR1B	unknown	6.07	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_ACVR1B
+crizotinib	CDK7	unknown	6.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_CDK7
+crizotinib	COQ8B	unknown	5.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_COQ8B
+crizotinib	FLT1	unknown	5.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_FLT1
+crizotinib	FLT3	unknown	6.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_FLT3
+crizotinib	IKBKB	unknown	5.26	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_IKBKB
+crizotinib	LCK	unknown	7.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_LCK
+crizotinib	MAP3K1	unknown	5.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_MAP3K1
+crizotinib	MAP4K1	unknown	7.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_MAP4K1
+crizotinib	NEK9	unknown	6.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_NEK9
+crizotinib	PRKD1	unknown	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_PRKD1
+crizotinib	RET	unknown	5.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_RET
+crizotinib	RIPK1	unknown	5.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_RIPK1
+crizotinib	ROCK1	unknown	5.43	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_ROCK1
+crizotinib	SRC	unknown	6.25	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_SRC
+crizotinib	TBK1	unknown	6.16	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_TBK1
+crizotinib	TGFBR1	unknown	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	crizotinib_TGFBR1
+cyamemazine	CHRM2	unknown	7.376750946044919	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cyamemazine_CHRM2
+cyclizine	ADRA1D	unknown	6.2240256689999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cyclizine_ADRA1D
+cyclizine	CHRM2	unknown	6.385102784	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cyclizine_CHRM2
+cyclobenzaprine	CHRM2	unknown	7.22184875	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cyclobenzaprine_CHRM2
+cyclobenzaprine	RET	unknown	6.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cyclobenzaprine_RET
+cycloguanil	DHFR	unknown	7.25	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cycloguanil_DHFR
+cyproheptadine	ADRA1D	unknown	6.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cyproheptadine_ADRA1D
+cyproheptadine	CHRM2	unknown	8.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cyproheptadine_CHRM2
+cyproterone acetate	AR	antagonist	7.432	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	cyproterone acetate_AR
+cytarabine	ADORA1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytarabine_ADORA1
+cytarabine	FLT3	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytarabine_FLT3
+cytarabine	MDM2	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytarabine_MDM2
+cytarabine	NCOA3	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytarabine_NCOA3
+cytarabine	POLA	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytarabine_POLA
+cytarabine	TMIGD3	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytarabine_TMIGD3
+cytidine	CDA	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytidine_CDA
+cytidine	SLC28A1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytidine_SLC28A1
+cytidine	SLC28A3	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytidine_SLC28A3
+cytidine	SLC29A1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	cytidine_SLC29A1
+dabigatran etexilate	NQO2	unknown	4.96000003814697	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dabigatran etexilate_NQO2
+dabigatran etexilate	PLAT	unknown	4.34000015258789	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dabigatran etexilate_PLAT
+dabigatran etexilate	PLG	unknown	5.76999998092651	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dabigatran etexilate_PLG
+dabigatran etexilate	SLC47A1	unknown	5.09000015258789	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dabigatran etexilate_SLC47A1
+dabrafenib	TGFBR1	unknown	5.43	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dabrafenib_TGFBR1
+dacarbazine	POLA2	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dacarbazine_POLA2
+dacomitinib	ERBB2	inhibitor	7.3400838	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dacomitinib_ERBB2
+dactinomycin	GRB2	unknown	5.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dactinomycin_GRB2
+danazol	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	danazol_AR
+dapiprazole	ADRA1D	antagonist	8.388276692	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dapiprazole_ADRA1D
+darifenacin	CHRM2	antagonist	7.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	darifenacin_CHRM2
+darolutamide	AR	inhibitor	7.187	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	darolutamide_AR
+dasatinib	ABL1	inhibitor	9.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_ABL1
+dasatinib	ACVR1B	unknown	6.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_ACVR1B
+dasatinib	CSK	unknown	9.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_CSK
+dasatinib	EIF2AK4	unknown	5.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_EIF2AK4
+dasatinib	ERBB2	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_ERBB2
+dasatinib	FLT1	unknown	5.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_FLT1
+dasatinib	FLT3	unknown	5.49	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_FLT3
+dasatinib	LCK	inhibitor	9.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_LCK
+dasatinib	MAP4K1	unknown	6.01	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_MAP4K1
+dasatinib	MAPK14	unknown	7.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_MAPK14
+dasatinib	RET	unknown	6.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_RET
+dasatinib	SRC	inhibitor	9.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_SRC
+dasatinib	TGFBR1	unknown	6.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dasatinib_TGFBR1
+daunorubicin	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	daunorubicin_ABCC1
+daunorubicinol	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	daunorubicinol_ABCC1
+decamethonium	CHRM2	unknown	7.602059841156009	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	decamethonium_CHRM2
+decitabine	DNMT1	inhibitor||unknown	3.0||nan	is_activity_known:False||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	decitabine_DNMT1
+denufosol	P2RY2	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	denufosol_P2RY2
+denufosol	P2RY4	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	denufosol_P2RY4
+dequalinium	CNGA2	blocker	5.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dequalinium_CNGA2
+dequalinium	PRKCA	unknown	4.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dequalinium_PRKCA
+desipramine	CHRM2	unknown	6.27	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	desipramine_CHRM2
+desloratadine	CHRM2	unknown	7.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	desloratadine_CHRM2
+dexamethasone	AR	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexamethasone_AR
+dexamethasone palmitate	AR	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexamethasone palmitate_AR
+dexamethasone phosphate	AR	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexamethasone phosphate_AR
+dexamethasone valerate	AR	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexamethasone valerate_AR
+dexchlorpheniramine	ADRA1D	unknown	4.780546463	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexchlorpheniramine_ADRA1D
+dexchlorpheniramine	CHRM2	unknown	5.604324215	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexchlorpheniramine_CHRM2
+dexchlorpheniramine	SIGMAR1	unknown	6.156767222	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexchlorpheniramine_SIGMAR1
+dexetimide	CHRM2	antagonist	8.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexetimide_CHRM2
+dexfenfluramine	CHRM2	unknown	5.57660102844238	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexfenfluramine_CHRM2
+dexfenfluramine	SIGMAR1	unknown	6.663540266	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexfenfluramine_SIGMAR1
+dexmedetomidine	ADRA1D	unknown	10.82	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexmedetomidine_ADRA1D
+dexniguldipine	ADRA1D	unknown	6.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dexniguldipine_ADRA1D
+dextromethorphan	SIGMAR1	agonist	6.4584	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dextromethorphan_SIGMAR1
+diclofenac	PPARG	antagonist	6.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diclofenac_PPARG
+diclofenac	TTR	unknown	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diclofenac_TTR
+dicloxacillin	CHRM2	unknown	5.66	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dicloxacillin_CHRM2
+dicoumarol	MAPK1	unknown	5.35398859	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dicoumarol_MAPK1
+dicycloverine	CHRM2	antagonist	6.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dicycloverine_CHRM2
+dicycloverine	SIGMAR1	unknown	8.68613278	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dicycloverine_SIGMAR1
+diethylstilbestrol	ADORA1	unknown	5.778325003	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diethylstilbestrol_ADORA1
+diethylstilbestrol	ADRA1D	unknown	5.274006741	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diethylstilbestrol_ADRA1D
+diethylstilbestrol	MAPK14	unknown	4.482764503	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diethylstilbestrol_MAPK14
+diethylstilbestrol	SLC28A1	unknown	5.315783205	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diethylstilbestrol_SLC28A1
+diflunisal	TTR	unknown	7.125	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diflunisal_TTR
+digitoxin	STAT3	unknown	6.150000095367429	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	digitoxin_STAT3
+digoxin	STAT3	unknown	5.73000001907349	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	digoxin_STAT3
+dihydroergocristine	ADRA1D	unknown	9.183096161	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dihydroergocristine_ADRA1D
+dihydroergotamine	ADRA1D	unknown	8.690369833	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dihydroergotamine_ADRA1D
+dihydroergotamine	SLC47A1	unknown	5.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dihydroergotamine_SLC47A1
+diiodohydroxyquinoline	ERBB2	unknown	5.06666459	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diiodohydroxyquinoline_ERBB2
+diiodohydroxyquinoline	LCK	unknown	5.608888386	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diiodohydroxyquinoline_LCK
+diiodohydroxyquinoline	MAPK1	unknown	6.53165267	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diiodohydroxyquinoline_MAPK1
+diiodohydroxyquinoline	MAPK14	unknown	6.438898616	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diiodohydroxyquinoline_MAPK14
+diiodohydroxyquinoline	MAPK3	unknown	5.278684118999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diiodohydroxyquinoline_MAPK3
+dilazep	SLC29A1	unknown	9.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dilazep_SLC29A1
+dimenhydrinate	ADRA1D	unknown	5.8467951	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dimenhydrinate_ADRA1D
+dimenhydrinate	CHRM2	unknown	6.785156152000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dimenhydrinate_CHRM2
+dimenhydrinate	SIGMAR1	unknown	6.312471039	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dimenhydrinate_SIGMAR1
+dimetindene	CHRM2	unknown	7.35	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dimetindene_CHRM2
+diosmetin	ABCC1	unknown	5.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diosmetin_ABCC1
+diphenhydramine	CHRM2	unknown	6.9208	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diphenhydramine_CHRM2
+diphenidol	CHRM2	unknown	6.562249437	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diphenidol_CHRM2
+diphenidol	SIGMAR1	unknown	6.966576245	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	diphenidol_SIGMAR1
+dipyridamole	SLC28A1	inhibitor	7.537602002000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dipyridamole_SLC28A1
+dipyridamole	SLC29A1	inhibitor	8.5	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dipyridamole_SLC29A1
+diquafosol	P2RY2	agonist||unknown	7.46852111816406||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	diquafosol_P2RY2
+diquafosol	P2RY4	agonist||unknown	6.4||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	diquafosol_P2RY4
+disopyramide	CHRM2	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	disopyramide_CHRM2
+disulfiram	ALDH2	inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	disulfiram_ALDH2
+disulfiram	MAPK3	unknown	5.821023052999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	disulfiram_MAPK3
+disulfiram	SLC28A1	unknown	5.237471478	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	disulfiram_SLC28A1
+dobutamine	ADRA1D	unknown	7.346787486	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dobutamine_ADRA1D
+dobutamine	COMT	unknown	4.301	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dobutamine_COMT
+dobutamine	LCK	unknown	5.258139606	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dobutamine_LCK
+dobutamine	SIGMAR1	unknown	5.975514332	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dobutamine_SIGMAR1
+docosanoic acid	PPARG	unknown	4.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	docosanoic acid_PPARG
+dodecanoic acid	PPARG	unknown	4.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dodecanoic acid_PPARG
+domperidone	ADRA1D	unknown	6.935542011	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	domperidone_ADRA1D
+domperidone	SLC47A1	unknown	5.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	domperidone_SLC47A1
+donepezil	BACE1	unknown	5.49	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	donepezil_BACE1
+donepezil	SIGMAR1	unknown	7.84	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	donepezil_SIGMAR1
+dopamine	GFER	unknown	5.849999904632571	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dopamine_GFER
+dosulepin	CHRM2	unknown	6.9625	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	dosulepin_CHRM2
+doxacurium	CHRM2	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	doxacurium_CHRM2
+doxazosin	ADRA1D	antagonist	8.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	doxazosin_ADRA1D
+doxepin	ADRA1D	unknown	7.366531544	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	doxepin_ADRA1D
+doxepin	CHRM2	unknown	6.7959	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	doxepin_CHRM2
+doxepin	SIGMAR1	unknown	6.576754126	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	doxepin_SIGMAR1
+doxorubicin	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	doxorubicin_ABCC1
+doxorubicin	ERBB2	unknown	5.6046736070000005	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	doxorubicin_ERBB2
+doxorubicin	LCK	unknown	4.496032368	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	doxorubicin_LCK
+droperidol	ADRA1D	unknown	9.174573882	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	droperidol_ADRA1D
+drospirenone	AR	unknown	8.5	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	drospirenone_AR
+drostanolone propionate	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	drostanolone propionate_AR
+ebastine	ADRA1D	unknown	6.060181337	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ebastine_ADRA1D
+ebastine	CHRM2	unknown	6.553618188	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ebastine_CHRM2
+ebastine	ERBB2	unknown	5.975719624	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ebastine_ERBB2
+eburnamonine	CHRM2	allosteric modulator	4.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	eburnamonine_CHRM2
+econazole	ADORA1	unknown	5.005594853	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	econazole_ADORA1
+econazole	ADRA1D	unknown	5.359220523	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	econazole_ADRA1D
+econazole	CHRM2	unknown	5.936291441	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	econazole_CHRM2
+econazole	ERBB2	unknown	4.856860241000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	econazole_ERBB2
+econazole	SIGMAR1	unknown	5.051978467	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	econazole_SIGMAR1
+edatrexate	DHFR	inhibitor	8.36	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	edatrexate_DHFR
+eicosapentaenoic acid	PPARG	unknown	5.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	eicosapentaenoic acid_PPARG
+emetine	ADRA1D	unknown	5.578067187	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	emetine_ADRA1D
+encainide	SCN3B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	encainide_SCN3B
+encainide	SCN4B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	encainide_SCN4B
+enoxolone	PTPN1	unknown	4.34	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	enoxolone_PTPN1
+enprofylline	ADORA1	unknown	4.38	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	enprofylline_ADORA1
+entacapone	COMT	inhibitor	9.52287864685059	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	entacapone_COMT
+enzalutamide	AR	antagonist	7.31	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	enzalutamide_AR
+eperisone	CHRM2	unknown	6.080398976000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	eperisone_CHRM2
+eperisone	SIGMAR1	unknown	8.769551079	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	eperisone_SIGMAR1
+epinastine	SLC47A1	unknown	5.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	epinastine_SLC47A1
+epinephrine	ADRA1D	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	epinephrine_ADRA1D
+ergotamine	ADRA1D	unknown	8.486782400000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ergotamine_ADRA1D
+ergotamine	CHRM2	unknown	6.040481623	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ergotamine_CHRM2
+ergotamine	LCK	unknown	5.1871534630000005	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ergotamine_LCK
+erlotinib	ABL1	unknown	7.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_ABL1
+erlotinib	CIT	unknown	6.17	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_CIT
+erlotinib	COQ8B	unknown	5.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_COQ8B
+erlotinib	CSK	unknown	5.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_CSK
+erlotinib	EIF2AK4	unknown	5.36	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_EIF2AK4
+erlotinib	ERBB2	unknown	5.54	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_ERBB2
+erlotinib	FLT1	unknown	5.36	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_FLT1
+erlotinib	FLT3	unknown	6.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_FLT3
+erlotinib	LCK	unknown	6.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_LCK
+erlotinib	RET	unknown	6.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_RET
+erlotinib	RPS6KA4	unknown	5.15	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_RPS6KA4
+erlotinib	SRC	unknown	6.15	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_SRC
+erlotinib	TBK1	unknown	5.51	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	erlotinib_TBK1
+estradiol	AR	unknown	7.72	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	estradiol_AR
+estramustine phosphate	PTPN1	unknown	4.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	estramustine phosphate_PTPN1
+ethacrynic acid	GSTP1	unknown	5.47	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ethacrynic acid_GSTP1
+ethinylestradiol	AR	unknown	7.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ethinylestradiol_AR
+ethinylestradiol	SLC47A1	unknown	4.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ethinylestradiol_SLC47A1
+ethylestrenol	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ethylestrenol_AR
+ethylestrenol	CHRM2	unknown	6.982966661	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ethylestrenol_CHRM2
+etilamfetamine	SIGMAR1	unknown	6.17999982833862	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	etilamfetamine_SIGMAR1
+etoposide	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	etoposide_ABCC1
+etoricoxib	MAPK14	unknown	6.28	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	etoricoxib_MAPK14
+etravirine	ABCC1	unknown	5.07	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	etravirine_ABCC1
+evans blue	PTPN1	unknown	5.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	evans blue_PTPN1
+evogliptin	DPP4	inhibitor	9.04575729370117	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	evogliptin_DPP4
+exemestane	AR	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	exemestane_AR
+exisulind	MAPK1	unknown	4.85933486	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	exisulind_MAPK1
+famotidine	HSP90AA1	unknown	5.3036	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	famotidine_HSP90AA1
+famotidine	SLC47A1	unknown	6.12	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	famotidine_SLC47A1
+fasudil	PRKACA	unknown	5.80999994277954	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fasudil_PRKACA
+fasudil	ROCK1	inhibitor	7.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fasudil_ROCK1
+fedratinib	FLT3	inhibitor	7.82	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fedratinib_FLT3
+femoxetine	CHRM2	unknown	6.823908741	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	femoxetine_CHRM2
+fenbendazole	MAPK14	unknown	5.496481687	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fenbendazole_MAPK14
+fenfluramine	CHRM2	unknown	5.72607322	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fenfluramine_CHRM2
+fenofibrate	PPARG	unknown	6.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fenofibrate_PPARG
+fenoldopam	GFER	unknown	5.860000133514401	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fenoldopam_GFER
+fesoterodine	CHRM2	antagonist	6.401	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fesoterodine_CHRM2
+flopropione	COMT	inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	flopropione_COMT
+florbetaben F18	APP	unknown	8.65	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	florbetaben F18_APP
+floxacillin	AR	unknown	6.25	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	floxacillin_AR
+fludarabine	POLA	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	fludarabine_POLA
+fludarabine phosphate	POLA1	inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fludarabine phosphate_POLA1
+flufenamic acid	AR	unknown	4.12	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	flufenamic acid_AR
+flufenamic acid	MPO	unknown	5.74	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	flufenamic acid_MPO
+flufenamic acid	TRPM4	unknown	5.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	flufenamic acid_TRPM4
+flufenamic acid	TTR	unknown	7.25	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	flufenamic acid_TTR
+flunarizine	ADRA1D	unknown	6.356547324	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	flunarizine_ADRA1D
+flunarizine	SIGMAR1	unknown	8.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	flunarizine_SIGMAR1
+fluostigmine	CTSA	unknown	5.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluostigmine_CTSA
+fluoxetine	CHRM2	unknown	5.56863641738892	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluoxetine_CHRM2
+fluoxetine	SIGMAR1	unknown	6.07	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluoxetine_SIGMAR1
+fluoxymesterone	AR	agonist	8.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluoxymesterone_AR
+flupentixol	SIGMAR1	unknown	8.65	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	flupentixol_SIGMAR1
+fluphenazine	ADRA1D	unknown	8.018634491	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluphenazine_ADRA1D
+fluphenazine	CHRM2	unknown	5.575118363	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluphenazine_CHRM2
+fluphenazine	ERBB2	unknown	4.708409174	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluphenazine_ERBB2
+fluphenazine	SIGMAR1	unknown	8.066512712	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluphenazine_SIGMAR1
+fluphenazine enanthate	CHRM2	unknown	5.14490509033203	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluphenazine enanthate_CHRM2
+flutamide	AR	antagonist	5.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	flutamide_AR
+fluvoxamine	SIGMAR1	unknown	7.44	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	fluvoxamine_SIGMAR1
+formoterol	HSP90AA1	unknown	8.5229	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	formoterol_HSP90AA1
+gabapentin	ADORA1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gabapentin_ADORA1
+gabexate	SLC47A1	unknown	6.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gabexate_SLC47A1
+gabexate	TPSAB1	inhibitor	8.47	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gabexate_TPSAB1
+gallamine	CHRM2	negative allosteric modulator	6.148130398999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gallamine_CHRM2
+gamolenic acid	PPARG	unknown	5.66	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gamolenic acid_PPARG
+gefitinib	ABL1	unknown	6.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_ABL1
+gefitinib	CDK7	unknown	6.21	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_CDK7
+gefitinib	CIT	unknown	5.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_CIT
+gefitinib	ERBB2	unknown	5.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_ERBB2
+gefitinib	FLT3	unknown	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_FLT3
+gefitinib	LCK	unknown	6.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_LCK
+gefitinib	PRKD1	unknown	5.46	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_PRKD1
+gefitinib	RET	unknown	5.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_RET
+gefitinib	RPS6KA4	unknown	5.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_RPS6KA4
+gefitinib	SRC	unknown	5.4202164029999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gefitinib_SRC
+gemcitabine	POLA	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	gemcitabine_POLA
+gemfibrozil	TTR	unknown	7.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gemfibrozil_TTR
+gemigliptin	DPP4	inhibitor	7.79587984085083	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gemigliptin_DPP4
+gentamicin	DHFR	unknown	4.74	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gentamicin_DHFR
+gentian violet	ADRA1D	unknown	6.01188716	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gentian violet_ADRA1D
+gentian violet	CHRM2	unknown	6.294136288	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gentian violet_CHRM2
+gilteritinib	FLT3	inhibitor	8.301029996	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gilteritinib_FLT3
+glycopyrronium bromide	CHRM2	antagonist	9.25	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	glycopyrronium bromide_CHRM2
+gramicidin	LCK	unknown	5.960982678	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	gramicidin_LCK
+granisetron	SLC47A1	unknown	5.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	granisetron_SLC47A1
+guanabenz	ADRA1D	unknown	6.801342912999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	guanabenz_ADRA1D
+guanethidine	ADRA1D	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	guanethidine_ADRA1D
+guanfacine	ADRA1D	unknown	6.262807357000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	guanfacine_ADRA1D
+haloperidol	ADRA1D	unknown	7.552841969	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	haloperidol_ADRA1D
+haloperidol	SIGMAR1	unknown	8.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	haloperidol_SIGMAR1
+hesperetin	GSK3B	unknown	4.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hesperetin_GSK3B
+hexachlorophene	ERBB2	unknown	5.479018919	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexachlorophene_ERBB2
+hexachlorophene	HSPA1A	unknown	4.71999979019165	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexachlorophene_HSPA1A
+hexachlorophene	HSPA8	unknown	4.55999994277954	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexachlorophene_HSPA8
+hexachlorophene	LCK	unknown	5.6139471510000005	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexachlorophene_LCK
+hexachlorophene	MAPK1	unknown	6.707743928999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexachlorophene_MAPK1
+hexachlorophene	MAPK14	unknown	7.057495894	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexachlorophene_MAPK14
+hexachlorophene	MAPK3	unknown	5.604778479	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexachlorophene_MAPK3
+hexachlorophene	VCP	unknown	5.26000022888184	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexachlorophene_VCP
+hexamidine	PRSS1	unknown	5.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexamidine_PRSS1
+hexocyclium	CHRM2	antagonist	7.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hexocyclium_CHRM2
+homatropine	CHRM2	unknown	7.124938737000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	homatropine_CHRM2
+hydralazine	DNMT1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hydralazine_DNMT1
+hydroquinidine	SCN3B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hydroquinidine_SCN3B
+hydroquinidine	SCN4B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hydroquinidine_SCN4B
+hydroxyamfetamine	BACE1	unknown	3.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hydroxyamfetamine_BACE1
+hydroxychloroquine	ADRA1D	unknown||unknown	5.6296719920000005||nan	is_activity_known:True||Chemical space:HCQ	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_hcq	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	hydroxychloroquine_ADRA1D
+hydroxychloroquine	CHRM2	unknown||unknown	5.979224512||nan	is_activity_known:True||Chemical space:HCQ	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_hcq	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	hydroxychloroquine_CHRM2
+hydroxychloroquine	MPO	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	hydroxychloroquine_MPO
+hydroxychloroquine	TLR7	antagonist||unknown	5.56||nan	is_activity_known:True||Chemical space:HCQ	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_hcq	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	hydroxychloroquine_TLR7
+hydroxychloroquine	TLR8	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	hydroxychloroquine_TLR8
+hydroxychloroquine	TLR9	antagonist||unknown	7.1||nan	is_activity_known:True||Chemical space:HCQ	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_hcq	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	hydroxychloroquine_TLR9
+hydroxyprogesterone caproate	MAPK3	unknown	5.500725417999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hydroxyprogesterone caproate_MAPK3
+hyoscyamine	CHRM2	antagonist	9.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	hyoscyamine_CHRM2
+ibalizumab	CD4	antibody binding	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ibalizumab_CD4
+ibrutinib	ERBB2	inhibitor	8.19382	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ibrutinib_ERBB2
+ibrutinib	LCK	inhibitor	8.200659	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ibrutinib_LCK
+ibrutinib	RET	unknown	7.43	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ibrutinib_RET
+ibrutinib	SRC	inhibitor	7.721246000000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ibrutinib_SRC
+iclaprim	DHFR	unknown	6.11	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	iclaprim_DHFR
+idarubicin	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	idarubicin_ABCC1
+ifenprodil	SIGMAR1	unknown	8.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ifenprodil_SIGMAR1
+iloperidone	CHRM2	unknown	5.480041027069089	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	iloperidone_CHRM2
+iloperidone	SIGMAR1	unknown	7.19	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	iloperidone_SIGMAR1
+imatinib	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imatinib_ABCC1
+imatinib	ABL1	inhibitor	8.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imatinib_ABL1
+imatinib	FLT3	unknown	5.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imatinib_FLT3
+imatinib	LCK	unknown	7.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imatinib_LCK
+imatinib	MAPK14	unknown	4.86	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imatinib_MAPK14
+imatinib	MAPK8	unknown	5.49	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imatinib_MAPK8
+imatinib	NQO2	unknown	6.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imatinib_NQO2
+imatinib	SLC47A1	unknown	7.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imatinib_SLC47A1
+imatinib	SRC	unknown	4.51	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imatinib_SRC
+imipramine	CHRM2	unknown	8.08	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imipramine_CHRM2
+imipramine	PRNP	unknown	5.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imipramine_PRNP
+imipramine	SIGMAR1	unknown	6.284	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imipramine_SIGMAR1
+imiquimod	ADRA1D	unknown	5.8900841370000006	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imiquimod_ADRA1D
+imiquimod	TLR7	agonist	4.97	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	imiquimod_TLR7
+indinavir	SLC47A1	unknown	5.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	indinavir_SLC47A1
+indomethacin	ABCC1	unknown	4.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	indomethacin_ABCC1
+indomethacin	AR	unknown	9.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	indomethacin_AR
+indomethacin	DHRS9	unknown	4.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	indomethacin_DHRS9
+indomethacin	PPARG	agonist	7.38	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	indomethacin_PPARG
+indoramin	ADRA1D	unknown	6.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	indoramin_ADRA1D
+ingenol mebutate	PRKCA	unknown	6.19722604751587	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ingenol mebutate_PRKCA
+ingenol mebutate	PRKCD	activator	8.32790184020996	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ingenol mebutate_PRKCD
+ingenol mebutate	PRKD1	unknown	7.5228786468505895	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ingenol mebutate_PRKD1
+inotersen 	TTR	antisense inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	inotersen _TTR
+insulin human	LCK	unknown	4.73999977111816	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	insulin human_LCK
+ipratropium	CHRM2	unknown	8.8239	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ipratropium_CHRM2
+irinotecan	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	irinotecan_ABCC1
+irinotecan	SLC47A1	unknown	5.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	irinotecan_SLC47A1
+isotretinoin	DHRS9	unknown	4.523	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	isotretinoin_DHRS9
+isotretinoin	MAPK1	unknown	6.335358024	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	isotretinoin_MAPK1
+isotretinoin	MAPK14	unknown	5.597051171	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	isotretinoin_MAPK14
+istradefylline	ADORA1	unknown	6.08	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	istradefylline_ADORA1
+ivosidenib	IDH1	inhibitor	7.1487416513	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ivosidenib_IDH1
+ketanserin	ADRA1D	antagonist	7.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ketanserin_ADRA1D
+ketanserin	SIGMAR1	unknown	9.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ketanserin_SIGMAR1
+ketoconazole	ADRA1D	unknown	4.839771643	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ketoconazole_ADRA1D
+ketoconazole	CHRM2	unknown	5.028353118	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ketoconazole_CHRM2
+ketoconazole	SLC28A1	unknown	5.821023052999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ketoconazole_SLC28A1
+ketotifen	ADRA1D	unknown	5.737074531	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ketotifen_ADRA1D
+ketotifen	CHRM2	unknown	6.359	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ketotifen_CHRM2
+labetalol	ADRA1D	antagonist	7.638272164	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	labetalol_ADRA1D
+labetalol	SIGMAR1	unknown	6.117475462000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	labetalol_SIGMAR1
+lactose	LGALS3	unknown	4.03	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lactose_LGALS3
+lamotrigine	SIGMAR1	unknown	3.839	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lamotrigine_SIGMAR1
+lansoprazole	PHOSPHO1	unknown	6.360000133514401	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lansoprazole_PHOSPHO1
+lapatinib	ABL1	unknown	4.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lapatinib_ABL1
+lapatinib	CDK2	unknown	4.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lapatinib_CDK2
+lapatinib	ERBB2	inhibitor	8.15	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lapatinib_ERBB2
+leflunomide	SLC28A1	unknown	5.287434472	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	leflunomide_SLC28A1
+lenvatinib	FLT1	inhibitor	7.65757751464844	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lenvatinib_FLT1
+lenvatinib	RET	inhibitor	8.82	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lenvatinib_RET
+leucovorin	DHFR	unknown	5.63	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	leucovorin_DHFR
+levamfetamine	SIGMAR1	unknown	4.33	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	levamfetamine_SIGMAR1
+levobunolol	SIGMAR1	unknown	6.488116638999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	levobunolol_SIGMAR1
+levodopa	LCK	unknown	5.428407617	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	levodopa_LCK
+levofloxacin	SLC47A1	unknown	4.75	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	levofloxacin_SLC47A1
+levothyroxine	TTR	unknown	4.98	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	levothyroxine_TTR
+lidoflazine	SLC29A1	unknown	6.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lidoflazine_SLC29A1
+linagliptin	DPP4	inhibitor	10.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	linagliptin_DPP4
+linoleic acid	PPARG	unknown	5.21	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	linoleic acid_PPARG
+linolenic acid	PPARG	unknown	5.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	linolenic acid_PPARG
+liothyronine	ADORA1	unknown	6.620331966	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	liothyronine_ADORA1
+liothyronine	PCNA	unknown	5.44	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	liothyronine_PCNA
+lisuride	ADRA1D	unknown	8.036684488999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lisuride_ADRA1D
+lobeglitazone	PPARG	agonist	7.744727611541751	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lobeglitazone_PPARG
+lofepramine	CHRM2	unknown	6.4815	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lofepramine_CHRM2
+loperamide	ADRA1D	unknown	5.599116784	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	loperamide_ADRA1D
+loperamide	SIGMAR1	unknown	6.5783960729999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	loperamide_SIGMAR1
+lorcainide	SCN3B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lorcainide_SCN3B
+lorcainide	SCN4B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lorcainide_SCN4B
+lovastatin	ADORA1	unknown	4.807265328	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lovastatin_ADORA1
+lovastatin	HDAC2	unknown	4.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	lovastatin_HDAC2
+loxapine	CHRM2	unknown	6.376013278961179	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	loxapine_CHRM2
+macimorelin	GHSR	agonist	7.81	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	macimorelin_GHSR
+maprotiline	ADRA1D	unknown	6.709965389	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	maprotiline_ADRA1D
+maprotiline	CHRM2	unknown	6.164309428999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	maprotiline_CHRM2
+maraviroc	SLC47A1	unknown	4.76	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	maraviroc_SLC47A1
+masoprocol	AR	unknown	4.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	masoprocol_AR
+masoprocol	TTR	unknown	5.1399998664856	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	masoprocol_TTR
+mazindol	SIGMAR1	unknown	6.63	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mazindol_SIGMAR1
+mebendazole	ABL1	unknown	5.34	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mebendazole_ABL1
+meclofenamic acid	AR	unknown	4.19	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	meclofenamic acid_AR
+meclofenamic acid	MAPK1	unknown	5.502517462999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	meclofenamic acid_MAPK1
+meclofenamic acid	TTR	unknown	4.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	meclofenamic acid_TTR
+medroxyprogesterone	AR	unknown	8.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	medroxyprogesterone_AR
+mefloquine	ADORA1	unknown	5.90999984741211	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mefloquine_ADORA1
+melatonin	MPO	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	melatonin_MPO
+melatonin	NQO2	unknown	7.56	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	melatonin_NQO2
+melperone	CHRM2	unknown	5.619788646698001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	melperone_CHRM2
+mepacrine	ADRA1D	unknown||unknown	5.9935339579999996||nan	is_activity_known:True||Chemical space:HCQ	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_hcq	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	mepacrine_ADRA1D
+mepacrine	CHRM2	unknown||unknown	6.46470588||nan	is_activity_known:True||Chemical space:HCQ	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_hcq	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	mepacrine_CHRM2
+mepacrine	PRNP	unknown	6.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mepacrine_PRNP
+mepacrine	TLR7	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	mepacrine_TLR7
+mepacrine	TLR8	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	mepacrine_TLR8
+mepacrine	TLR9	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	mepacrine_TLR9
+mepenzolate	CHRM2	unknown	9.17	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mepenzolate_CHRM2
+mepyramine	SIGMAR1	unknown	6.1837587	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mepyramine_SIGMAR1
+mequitazine	CHRM2	unknown	7.853871964	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mequitazine_CHRM2
+mesalazine	PPARG	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mesalazine_PPARG
+mesoridazine	CHRM2	unknown	7.823908805847171	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mesoridazine_CHRM2
+mestanolone	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mestanolone_AR
+metergoline	ADRA1D	unknown	7.4202164029999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	metergoline_ADRA1D
+metformin	DPP4	unknown	4.54	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	metformin_DPP4
+methacholine	CHRM2	unknown	7.23	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methacholine_CHRM2
+methamphetamine	SIGMAR1	unknown	5.08	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methamphetamine_SIGMAR1
+methapyrilene	CHRM2	unknown	6.227678292999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methapyrilene_CHRM2
+methotrexate	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methotrexate_ABCC1
+methotrexate	DHFR	inhibitor	8.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methotrexate_DHFR
+methoxamine	ADRA1D	agonist	4.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methoxamine_ADRA1D
+methscopolamine	CHRM2	unknown	9.81999969482422	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methscopolamine_CHRM2
+methyltestosterone	AR	agonist	9.66	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methyltestosterone_AR
+methylthioninium chloride	APP	unknown	6.26	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methylthioninium chloride_APP
+methysergide	CHRM2	unknown	5.212823008	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methysergide_CHRM2
+methysergide	SIGMAR1	unknown	6.04	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	methysergide_SIGMAR1
+metoclopramide	MPO	unknown	nan	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	True	na	metoclopramide_MPO
+mexiletine	SCN3B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mexiletine_SCN3B
+mexiletine	SCN4B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mexiletine_SCN4B
+mezlocillin	ABCC1	unknown	4.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mezlocillin_ABCC1
+mezlocillin	PPARG	unknown	4.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mezlocillin_PPARG
+mianserin	ADRA1D	antagonist	7.5	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mianserin_ADRA1D
+mianserin	CHRM2	unknown	6.4168012260000005	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mianserin_CHRM2
+miconazole	ADORA1	unknown	5.136498699	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	miconazole_ADORA1
+miconazole	ADRA1D	unknown	5.8247782	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	miconazole_ADRA1D
+miconazole	CHRM2	unknown	5.811915626	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	miconazole_CHRM2
+miconazole	ERBB2	unknown	4.561774192	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	miconazole_ERBB2
+midodrine	HSP90AA1	unknown	7.699	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midodrine_HSP90AA1
+midostaurin	ABL1	unknown	6.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_ABL1
+midostaurin	AKT1	unknown	6.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_AKT1
+midostaurin	AKT2	unknown	6.11	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_AKT2
+midostaurin	CHUK	unknown	5.42	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_CHUK
+midostaurin	CSK	unknown	5.06	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_CSK
+midostaurin	DYRK1A	unknown	7.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_DYRK1A
+midostaurin	EIF2AK4	unknown	7.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_EIF2AK4
+midostaurin	FLT1	unknown	6.35	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_FLT1
+midostaurin	FLT3	inhibitor	7.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_FLT3
+midostaurin	GSK3B	unknown	5.75	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_GSK3B
+midostaurin	IKBKB	unknown	5.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_IKBKB
+midostaurin	LCK	unknown	6.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_LCK
+midostaurin	MAP4K1	unknown	5.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_MAP4K1
+midostaurin	MAPK8	unknown	5.36	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_MAPK8
+midostaurin	MARK1	unknown	6.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_MARK1
+midostaurin	MARK2	unknown	7.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_MARK2
+midostaurin	MARK3	unknown	7.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_MARK3
+midostaurin	PIM1	unknown	6.25	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_PIM1
+midostaurin	PRKACA	unknown	6.14	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_PRKACA
+midostaurin	PRKCA	unknown	6.14	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_PRKCA
+midostaurin	PRKCD	unknown	6.5	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_PRKCD
+midostaurin	RET	unknown	7.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_RET
+midostaurin	ROCK1	unknown	5.11	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_ROCK1
+midostaurin	RPS6KA1	unknown	6.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_RPS6KA1
+midostaurin	RPS6KA4	unknown	6.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_RPS6KA4
+midostaurin	SRC	unknown	5.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_SRC
+midostaurin	TBK1	unknown	8.03	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	midostaurin_TBK1
+mifepristone	AR	unknown	8.33	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mifepristone_AR
+mifepristone	MAPK14	unknown	4.080602845	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mifepristone_MAPK14
+mifepristone	SIGMAR1	unknown	4.956755646	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mifepristone_SIGMAR1
+migalastat	GLA	pharmacological chaperone	7.150000095367429	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	migalastat_GLA
+miltefosine	AKT1	unknown	5.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	miltefosine_AKT1
+miltefosine	CDC25A	unknown	4.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	miltefosine_CDC25A
+mirtazapine	CHRM2	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mirtazapine_CHRM2
+mitoxantrone	ABCC1	unknown	6.2869	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mitoxantrone_ABCC1
+mitoxantrone	CHRM2	unknown	7.108462542000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mitoxantrone_CHRM2
+mitoxantrone	ERBB2	unknown	5.691392906	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mitoxantrone_ERBB2
+mitoxantrone	PIM1	unknown	7.29	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mitoxantrone_PIM1
+mitoxantrone	SLC47A1	unknown	6.72	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mitoxantrone_SLC47A1
+molindone	SIGMAR1	unknown	6.9066	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	molindone_SIGMAR1
+montelukast	MAPK14	unknown	6.067526235	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	montelukast_MAPK14
+mosapride	SIGMAR1	unknown	6.891434976	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mosapride_SIGMAR1
+mycophenolate mofetil	IMPDH2	inhibitor	8.1549015045166	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mycophenolate mofetil_IMPDH2
+mycophenolic acid	IMPDH2	unknown	8.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	mycophenolic acid_IMPDH2
+nafamostat	KLK1	unknown	6.19	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nafamostat_KLK1
+nafamostat	PLG	unknown	6.62	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nafamostat_PLG
+nafamostat	PRSS1	inhibitor	7.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nafamostat_PRSS1
+nafamostat	TPSAB1	inhibitor	10.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nafamostat_TPSAB1
+naftifine	SIGMAR1	unknown	6.06	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	naftifine_SIGMAR1
+naftopidil	ADRA1D	antagonist	8.92081832885742	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	naftopidil_ADRA1D
+nalorphine	SIGMAR1	unknown	7.32	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nalorphine_SIGMAR1
+nandrolone	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nandrolone_AR
+nandrolone decanoate	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nandrolone decanoate_AR
+nandrolone phenpropionate	AR	agonist	9.5	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nandrolone phenpropionate_AR
+nelfinavir	LCK	unknown	4.101461298	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nelfinavir_LCK
+nelfinavir	MAPK14	unknown	4.739356293	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nelfinavir_MAPK14
+nelfinavir	MAPK3	unknown	4.64775958	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nelfinavir_MAPK3
+nepinalone	SIGMAR1	unknown	7.5228786468505895	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nepinalone_SIGMAR1
+neratinib	ABL1	unknown	5.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_ABL1
+neratinib	CDK7	unknown	5.29	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_CDK7
+neratinib	CSK	unknown	6.26	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_CSK
+neratinib	EIF2AK4	unknown	7.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_EIF2AK4
+neratinib	ERBB2	inhibitor	7.22914791107178	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_ERBB2
+neratinib	FLT3	unknown	5.51	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_FLT3
+neratinib	LCK	unknown	6.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_LCK
+neratinib	MAP4K1	unknown	7.03	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_MAP4K1
+neratinib	MAPK8	unknown	5.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_MAPK8
+neratinib	PRKD1	unknown	6.09	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_PRKD1
+neratinib	RPS6KA1	unknown	5.13	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_RPS6KA1
+neratinib	SRC	unknown	5.39	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	neratinib_SRC
+niclosamide	AKT1	unknown	4.23	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	niclosamide_AKT1
+niclosamide	GSK3B	unknown	4.11	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	niclosamide_GSK3B
+niclosamide	SRC	unknown	5.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	niclosamide_SRC
+niclosamide	STAT3	unknown	6.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	niclosamide_STAT3
+nicotinamide	SIRT1	unknown	4.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nicotinamide_SIRT1
+nicotinamide	SIRT2	unknown	5.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nicotinamide_SIRT2
+nicotinamide	SIRT5	unknown	4.33	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nicotinamide_SIRT5
+nifedipine	ADORA1	unknown	5.347560252	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nifedipine_ADORA1
+nifedipine	SLC28A1	unknown	5.088682558	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nifedipine_SLC28A1
+nifedipine	TTR	unknown	5.6576	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nifedipine_TTR
+nifekalant	SLC47A1	unknown	6.19	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nifekalant_SLC47A1
+niflumic acid	TTR	unknown	6.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	niflumic acid_TTR
+nifuroxazide	STAT3	unknown	5.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nifuroxazide_STAT3
+nilotinib	ABL1	inhibitor	8.44	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilotinib_ABL1
+nilotinib	CSK	unknown	5.62	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilotinib_CSK
+nilotinib	FLT3	unknown	4.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilotinib_FLT3
+nilotinib	LCK	unknown	7.33	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilotinib_LCK
+nilotinib	MAP4K1	unknown	6.05	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilotinib_MAP4K1
+nilotinib	MAPK14	unknown	6.34	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilotinib_MAPK14
+nilotinib	MAPK8	unknown	6.35	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilotinib_MAPK8
+nilotinib	RET	unknown	6.06	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilotinib_RET
+nilotinib	SRC	unknown	5.72	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilotinib_SRC
+nilutamide	AR	antagonist	8.05	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nilutamide_AR
+nimesulide	MPO	unknown	5.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nimesulide_MPO
+nimodipine	SLC28A1	unknown	6.363512104	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nimodipine_SLC28A1
+nintedanib	ABL1	unknown	8.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_ABL1
+nintedanib	ACVR1B	unknown	5.31	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_ACVR1B
+nintedanib	CDK2	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_CDK2
+nintedanib	CDK4	unknown	6.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_CDK4
+nintedanib	CDK7	unknown	6.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_CDK7
+nintedanib	CHUK	unknown	5.35	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_CHUK
+nintedanib	CSNK2A2	unknown	6.05	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_CSNK2A2
+nintedanib	EIF2AK4	unknown	5.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_EIF2AK4
+nintedanib	FLT1	inhibitor	6.982966423034671	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_FLT1
+nintedanib	FLT3	unknown	9.38	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_FLT3
+nintedanib	GSK3B	unknown	7.08	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_GSK3B
+nintedanib	LCK	unknown	8.21	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_LCK
+nintedanib	MAP4K1	unknown	7.46	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_MAP4K1
+nintedanib	MAPK8	unknown	6.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_MAPK8
+nintedanib	MARK1	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_MARK1
+nintedanib	MARK2	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_MARK2
+nintedanib	MARK3	unknown	6.11	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_MARK3
+nintedanib	PRKD1	unknown	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_PRKD1
+nintedanib	RET	unknown	8.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_RET
+nintedanib	RIPK1	unknown	6.62	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_RIPK1
+nintedanib	RPS6KA1	unknown	6.74	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_RPS6KA1
+nintedanib	RPS6KA4	unknown	6.21	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_RPS6KA4
+nintedanib	SRC	unknown	6.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_SRC
+nintedanib	TBK1	unknown	6.82	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_TBK1
+nintedanib	TGFBR1	unknown	5.38	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nintedanib_TGFBR1
+nitrendipine	TTR	unknown	5.9208	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nitrendipine_TTR
+nomifensine	MPO	unknown	3.9626	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nomifensine_MPO
+norepinephrine	ADRA1D	agonist	7.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	norepinephrine_ADRA1D
+norethindrone acetate	AR	unknown	7.12	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	norethindrone acetate_AR
+norethisterone	AR	unknown	7.12	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	norethisterone_AR
+norfloxacin	SLC47A1	unknown	4.75	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	norfloxacin_SLC47A1
+nortriptyline	ADRA1D	unknown	6.910094889	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nortriptyline_ADRA1D
+nortriptyline	CHRM2	unknown	6.9586	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nortriptyline_CHRM2
+nortriptyline	RET	unknown	5.82	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	nortriptyline_RET
+noscapine	SLC47A1	unknown	4.46	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	noscapine_SLC47A1
+olanzapine	ADRA1D	unknown	7.585026652000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	olanzapine_ADRA1D
+olanzapine	CHRM2	unknown	7.1024	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	olanzapine_CHRM2
+olanzapine	GFER	unknown	6.42999982833862	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	olanzapine_GFER
+oleic acid	FABP1	unknown	6.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	oleic acid_FABP1
+oleic acid	PPARG	unknown	5.39	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	oleic acid_PPARG
+olsalazine	PPARG	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	olsalazine_PPARG
+omarigliptin	DPP4	inhibitor	9.09691047668457	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	omarigliptin_DPP4
+ondansetron	SLC47A1	unknown	7.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ondansetron_SLC47A1
+opicapone	COMT	inhibitor	9.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	opicapone_COMT
+opipramol	SIGMAR1	unknown	9.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	opipramol_SIGMAR1
+orphenadrine	CHRM2	unknown	6.8728952020000005	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	orphenadrine_CHRM2
+ouabain	STAT3	unknown	5.94000005722046	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ouabain_STAT3
+oxandrolone	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	oxandrolone_AR
+oxybutynin	CHRM2	antagonist	8.09	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	oxybutynin_CHRM2
+oxybutynin	SIGMAR1	unknown	7.991399828	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	oxybutynin_SIGMAR1
+oxymetazoline	ADRA1D	agonist	6.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	oxymetazoline_ADRA1D
+oxymetholone	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	oxymetholone_AR
+paclitaxel	ERBB2	unknown	4.954364129	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	paclitaxel_ERBB2
+palbociclib	CDK4	inhibitor	7.95860719680786	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	palbociclib_CDK4
+palbociclib	DYRK1A	inhibitor	5.698969841003421	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	palbociclib_DYRK1A
+palbociclib	FLT3	unknown	5.46	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	palbociclib_FLT3
+palbociclib	RPS6KA1	inhibitor	5.09690999984741	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	palbociclib_RPS6KA1
+panobinostat	HDAC2	inhibitor	9.19	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	panobinostat_HDAC2
+pantoprazole	SLC47A1	unknown	5.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pantoprazole_SLC47A1
+paroxetine	CHRM2	unknown	6.723538196	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	paroxetine_CHRM2
+paroxetine	P2RX4	unknown	5.33	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	paroxetine_P2RX4
+paroxetine	SIGMAR1	unknown	5.6468534539999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	paroxetine_SIGMAR1
+patisiran	TTR	antisense inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	patisiran_TTR
+pazopanib	ABL1	unknown	6.42	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_ABL1
+pazopanib	FLT1	inhibitor	7.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_FLT1
+pazopanib	FLT3	unknown	6.13	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_FLT3
+pazopanib	LCK	inhibitor	5.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_LCK
+pazopanib	MAP3K1	unknown	5.54	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_MAP3K1
+pazopanib	MAP4K1	unknown	6.12	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_MAP4K1
+pazopanib	MAPK8	unknown	5.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_MAPK8
+pazopanib	MARK3	unknown	5.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_MARK3
+pazopanib	RET	unknown	6.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_RET
+pazopanib	RIPK1	unknown	6.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_RIPK1
+pazopanib	SRC	unknown	5.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pazopanib_SRC
+pecazine	ADRA1D	unknown	7.236572006	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pecazine_ADRA1D
+pecazine	CHRM2	unknown	6.696803943	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pecazine_CHRM2
+pecazine	GFER	unknown	7.0100002288818395	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pecazine_GFER
+pecazine	SIGMAR1	unknown	7.119186407999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pecazine_SIGMAR1
+pegaptanib	VEGFA	antagonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pegaptanib_VEGFA
+pemafibrate	PPARG	agonist	5.95860719680786	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pemafibrate_PPARG
+pemetrexed	DHFR	inhibitor	5.1805	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pemetrexed_DHFR
+pentamidine	ADRA1D	unknown	6.308918508	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pentamidine_ADRA1D
+pentamidine	CHRM2	unknown	6.294992041	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pentamidine_CHRM2
+pentamidine	PRSS1	unknown	5.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pentamidine_PRSS1
+pentamidine	SLC47A1	unknown	6.39	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pentamidine_SLC47A1
+pentazocine	SIGMAR1	modulator	8.76	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pentazocine_SIGMAR1
+pentostatin	ADA	inhibitor||unknown	10.8||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	pentostatin_ADA
+pentoxyverine	CHRM2	unknown	6.78	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pentoxyverine_CHRM2
+pentoxyverine	SIGMAR1	unknown	7.71	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pentoxyverine_SIGMAR1
+pergolide	ADRA1D	unknown	6.128427063999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pergolide_ADRA1D
+perhexiline	SIGMAR1	unknown	5.9616183089999994	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	perhexiline_SIGMAR1
+pertuzumab	ERBB2	antibody binding	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pertuzumab_ERBB2
+pexidartinib	FLT3	inhibitor	6.79	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pexidartinib_FLT3
+phencyclidine	SIGMAR1	unknown	5.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	phencyclidine_SIGMAR1
+phenelzine	GFER	unknown	5.11999988555908	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	phenelzine_GFER
+phentolamine	ADRA1D	antagonist	7.71	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	phentolamine_ADRA1D
+phentolamine	SIGMAR1	unknown	6.26	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	phentolamine_SIGMAR1
+phenylbutanoic acid	HDAC2	unknown	4.19	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	phenylbutanoic acid_HDAC2
+phenylephrine	ADRA1D	agonist	5.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	phenylephrine_ADRA1D
+phloroglucinol	BACE1	unknown	4.44	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	phloroglucinol_BACE1
+pilocarpine	CHRM2	agonist	6.949999809265139	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pilocarpine_CHRM2
+pimozide	ABCC1	unknown	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pimozide_ABCC1
+pimozide	SIGMAR1	unknown	6.8416	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pimozide_SIGMAR1
+pioglitazone	PPARG	agonist	6.23	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pioglitazone_PPARG
+pipamazine	ADRA1D	unknown	9.019996628	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pipamazine_ADRA1D
+pipamazine	SIGMAR1	unknown	7.318758763	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pipamazine_SIGMAR1
+pirenzepine	CHRM2	unknown	6.76	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pirenzepine_CHRM2
+piribedil	ADRA1D	unknown	6.65999984741211	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	piribedil_ADRA1D
+ponatinib	ABL1	inhibitor	9.43179798126221	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ponatinib_ABL1
+ponatinib	CDK8	inhibitor	8.17	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ponatinib_CDK8
+ponatinib	CSK	inhibitor	8.26760578155518	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ponatinib_CSK
+ponatinib	FLT3	unknown	9.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ponatinib_FLT3
+ponatinib	RET	unknown	7.59000015258789	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ponatinib_RET
+ponatinib	SRC	unknown	8.52000045776367	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ponatinib_SRC
+pralatrexate	DHFR	inhibitor	7.35	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pralatrexate_DHFR
+pralmorelin	GHSR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pralmorelin_GHSR
+pramocaine	SIGMAR1	unknown	7.292429824	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pramocaine_SIGMAR1
+prazosin	ADRA1D	inverse agonist	9.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	prazosin_ADRA1D
+prazosin	NQO2	unknown	8.11	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	prazosin_NQO2
+prazosin	SLC47A1	unknown	5.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	prazosin_SLC47A1
+prednisolone	AR	unknown	5.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	prednisolone_AR
+prednisolone tebutate	AR	unknown	5.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	prednisolone tebutate_AR
+prednisone	SLC28A1	unknown	5.771599641	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	prednisone_SLC28A1
+pridinol	CHRM2	unknown	8.14999961853027	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pridinol_CHRM2
+primaquine	HSP90AA1	unknown	8.2218	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	primaquine_HSP90AA1
+primaquine	NQO2	unknown	5.12	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	primaquine_NQO2
+procainamide	CHRM2	unknown	7.8124794960022	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	procainamide_CHRM2
+procainamide	DNMT1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	procainamide_DNMT1
+prochlorperazine	ADRA1D	unknown	7.886056647999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	prochlorperazine_ADRA1D
+prochlorperazine	CHRM2	unknown	5.9558523789999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	prochlorperazine_CHRM2
+prochlorperazine	SIGMAR1	unknown	7.638272164	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	prochlorperazine_SIGMAR1
+procyclidine	CHRM2	unknown	7.602059841156009	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	procyclidine_CHRM2
+progesterone	AR	unknown	8.07	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	progesterone_AR
+progesterone	SIGMAR1	unknown	6.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	progesterone_SIGMAR1
+progesterone	SLC28A1	unknown	5.173730781000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	progesterone_SLC28A1
+promazine	ADRA1D	unknown	8.427128397999999	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promazine_ADRA1D
+promazine	CHRM2	unknown	6.412289035	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promazine_CHRM2
+promazine	GFER	unknown	5.889999866485599	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promazine_GFER
+promazine	PRNP	unknown	5.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promazine_PRNP
+promazine	SIGMAR1	unknown	6.9430951489999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promazine_SIGMAR1
+promethazine	ADRA1D	unknown	7.4948500220000005	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promethazine_ADRA1D
+promethazine	CHRM2	unknown	7.920818754	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promethazine_CHRM2
+promethazine	GFER	unknown	6.44000005722046	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promethazine_GFER
+promethazine	PRNP	unknown	5.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promethazine_PRNP
+promethazine	SIGMAR1	unknown	6.920818754	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	promethazine_SIGMAR1
+propafenone	ADRA1D	unknown	5.604149624	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	propafenone_ADRA1D
+propafenone	SCN3B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	propafenone_SCN3B
+propafenone	SCN4B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	propafenone_SCN4B
+propafenone	SIGMAR1	unknown	5.959793372	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	propafenone_SIGMAR1
+propamidine	PRSS1	unknown	5.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	propamidine_PRSS1
+propantheline	CHRM2	antagonist	9.5	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	propantheline_CHRM2
+proparacaine	SIGMAR1	unknown	7.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	proparacaine_SIGMAR1
+propiomazine	CHRM2	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	propiomazine_CHRM2
+propranolol	SIGMAR1	unknown	5.918652692	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	propranolol_SIGMAR1
+propylthiouracil	MPO	unknown	5.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	propylthiouracil_MPO
+protriptyline	CHRM2	unknown	6.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	protriptyline_CHRM2
+pyridoxal phosphate	P2RX1	unknown	5.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pyridoxal phosphate_P2RX1
+pyrimethamine	DHFR	unknown	8.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pyrimethamine_DHFR
+pyrimethamine	SLC47A1	inhibitor	7.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pyrimethamine_SLC47A1
+pyrithione	GFER	unknown	6.360000133514401	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	pyrithione_GFER
+quercetin	ABCC1	unknown	5.62	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_ABCC1
+quercetin	AKT1	unknown	5.27	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_AKT1
+quercetin	BACE1	unknown	4.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_BACE1
+quercetin	CDK1	unknown	6.35	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_CDK1
+quercetin	CDK2	unknown	4.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_CDK2
+quercetin	DPP4	unknown	4.49	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_DPP4
+quercetin	FLT3	unknown	6.23	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_FLT3
+quercetin	GSK3B	unknown	5.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_GSK3B
+quercetin	LCK	unknown	4.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_LCK
+quercetin	MPO	unknown	5.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_MPO
+quercetin	PIM1	unknown	7.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_PIM1
+quercetin	PTPN1	unknown	4.63	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_PTPN1
+quercetin	SRC	unknown	6.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quercetin_SRC
+quetiapine	ADRA1D	unknown	7.457174573	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quetiapine_ADRA1D
+quetiapine	CHRM2	unknown	6.03693962097168	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quetiapine_CHRM2
+quetiapine	SIGMAR1	unknown	6.01596802	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quetiapine_SIGMAR1
+quinidine	CHRM2	unknown	8.124938737	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quinidine_CHRM2
+quinidine	SCN3B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quinidine_SCN3B
+quinidine	SCN4B	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quinidine_SCN4B
+quinidine	SLC47A1	unknown	4.95	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quinidine_SLC47A1
+quizartinib	FLT3	inhibitor	8.796	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	quizartinib_FLT3
+racepinefrine	ADRA1D	agonist	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	racepinefrine_ADRA1D
+radotinib	ABL1	inhibitor	7.514278411865231	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	radotinib_ABL1
+raloxifene	ADRA1D	unknown	6.320572103	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	raloxifene_ADRA1D
+raloxifene	SIGMAR1	unknown	7.42	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	raloxifene_SIGMAR1
+raltitrexed	DHFR	unknown	4.6778	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	raltitrexed_DHFR
+ranibizumab	VEGFA	antibody binding	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ranibizumab_VEGFA
+ranitidine	SLC47A1	unknown	5.08	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ranitidine_SLC47A1
+regadenoson	ADORA1	unknown||unknown	4.3979||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	regadenoson_ADORA1
+remdesivir	POLA	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	remdesivir_POLA
+remdesivir	TMIGD3	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	remdesivir_TMIGD3
+remoxipride	SIGMAR1	unknown	7.26	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	remoxipride_SIGMAR1
+reteplase	PLG	activator	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	reteplase_PLG
+retinol	ALDH1A1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	retinol_ALDH1A1
+revefenacin	CHRM2	antagonist	9.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	revefenacin_CHRM2
+ribavirin	ADK	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ribavirin_ADK
+ribavirin	IMPDH2	inhibitor	6.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ribavirin_IMPDH2
+ribociclib	CDK4	inhibitor	8.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ribociclib_CDK4
+rimantadine	SLC47A1	unknown	5.14	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	rimantadine_SLC47A1
+ripasudil	ROCK1	inhibitor	7.2924299240112305	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ripasudil_ROCK1
+risperidone	ADRA1D	antagonist	7.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	risperidone_ADRA1D
+risperidone	CHRM2	unknown	5.43179845809937	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	risperidone_CHRM2
+risperidone	SIGMAR1	unknown	5.37	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	risperidone_SIGMAR1
+risperidone	SLC47A1	unknown	5.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	risperidone_SLC47A1
+ritonavir	SLC47A1	unknown	7.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ritonavir_SLC47A1
+romidepsin	HDAC2	unknown	7.3279	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	romidepsin_HDAC2
+rosiglitazone	PPARG	agonist	7.04	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	rosiglitazone_PPARG
+ruboxistaurin	AKT2	unknown	5.06	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_AKT2
+ruboxistaurin	CDK4	unknown	6.55	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_CDK4
+ruboxistaurin	CDK7	unknown	5.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_CDK7
+ruboxistaurin	CIT	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_CIT
+ruboxistaurin	CSNK2A2	unknown	5.47	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_CSNK2A2
+ruboxistaurin	DYRK1A	unknown	6.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_DYRK1A
+ruboxistaurin	FLT3	unknown	6.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_FLT3
+ruboxistaurin	GSK3B	unknown	5.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_GSK3B
+ruboxistaurin	LCK	unknown	5.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_LCK
+ruboxistaurin	MAP4K1	unknown	5.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_MAP4K1
+ruboxistaurin	MARK2	unknown	5.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_MARK2
+ruboxistaurin	PIM1	unknown	7.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_PIM1
+ruboxistaurin	PRKACA	unknown	5.27	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_PRKACA
+ruboxistaurin	PRKCA	unknown	6.44	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_PRKCA
+ruboxistaurin	PRKCD	unknown	8.44	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_PRKCD
+ruboxistaurin	RPS6KA1	unknown	6.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_RPS6KA1
+ruboxistaurin	RPS6KA4	unknown	5.21	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_RPS6KA4
+ruboxistaurin	TBK1	unknown	6.01	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruboxistaurin_TBK1
+ruxolitinib	ABL1	unknown	5.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_ABL1
+ruxolitinib	CDK7	unknown	5.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_CDK7
+ruxolitinib	CSNK2A2	unknown	5.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_CSNK2A2
+ruxolitinib	DYRK1A	unknown	6.04	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_DYRK1A
+ruxolitinib	IKBKB	unknown	5.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_IKBKB
+ruxolitinib	MAP3K1	unknown	5.38	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_MAP3K1
+ruxolitinib	MAPK8	unknown	5.32	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_MAPK8
+ruxolitinib	MARK2	unknown	6.18	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_MARK2
+ruxolitinib	RET	unknown	6.72	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_RET
+ruxolitinib	ROCK1	unknown	7.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_ROCK1
+ruxolitinib	RPS6KA1	unknown	6.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_RPS6KA1
+ruxolitinib	RPS6KA4	unknown	6.47	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_RPS6KA4
+ruxolitinib	TBK1	unknown	5.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ruxolitinib_TBK1
+sabcomeline	CHRM2	unknown	6.74	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sabcomeline_CHRM2
+saquinavir	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	saquinavir_ABCC1
+saroglitazar	PPARG	agonist	8.52287864685059	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	saroglitazar_PPARG
+saxagliptin	DPP4	inhibitor	9.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	saxagliptin_DPP4
+scopolamine	CHRM2	unknown	8.86	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	scopolamine_CHRM2
+scopolamine butylbromide	CHRM2	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	scopolamine butylbromide_CHRM2
+sertraline	CHRM2	unknown	5.677780628204349	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sertraline_CHRM2
+sertraline	SIGMAR1	unknown	7.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sertraline_SIGMAR1
+sildenafil	ADORA1	unknown	6.059981845	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sildenafil_ADORA1
+silodosin	ADRA1D	antagonist	8.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	silodosin_ADRA1D
+sirolimus	EIF4E	unknown	9.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sirolimus_EIF4E
+sirolimus	SLC28A1	unknown	6.430509046	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sirolimus_SLC28A1
+sitagliptin	DPP4	inhibitor	7.774	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sitagliptin_DPP4
+sitosterol	DPP4	unknown	4.53999996185303	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sitosterol_DPP4
+sitosterol	NFKB1	unknown	5.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sitosterol_NFKB1
+sodium aurothiomalate	CTSL	unknown	4.05	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sodium aurothiomalate_CTSL
+solifenacin	CHRM2	antagonist	6.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	solifenacin_CHRM2
+sorafenib	ABL1	unknown	6.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_ABL1
+sorafenib	CDK2	unknown	5.06	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_CDK2
+sorafenib	CDK7	unknown	6.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_CDK7
+sorafenib	CDK8	unknown	6.51	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_CDK8
+sorafenib	CIT	unknown	5.21	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_CIT
+sorafenib	CSK	unknown	5.54	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_CSK
+sorafenib	FLT1	inhibitor	7.51	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_FLT1
+sorafenib	FLT3	inhibitor	8.35	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_FLT3
+sorafenib	LCK	unknown	5.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_LCK
+sorafenib	MAP4K1	unknown	5.32	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_MAP4K1
+sorafenib	MAPK1	unknown	6.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_MAPK1
+sorafenib	MAPK14	unknown	6.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_MAPK14
+sorafenib	MAPK3	unknown	7.74	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_MAPK3
+sorafenib	RET	inhibitor	8.13	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_RET
+sorafenib	SRC	unknown	6.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sorafenib_SRC
+spiperone	ADRA1D	antagonist	8.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	spiperone_ADRA1D
+spiperone	SIGMAR1	unknown	6.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	spiperone_SIGMAR1
+spironolactone	AR	unknown	7.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	spironolactone_AR
+spironolactone	SLC47A1	unknown	4.73	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	spironolactone_SLC47A1
+stallimycin	HRAS	unknown	6.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	stallimycin_HRAS
+stanozolol	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	stanozolol_AR
+stearic acid	PPARG	unknown	4.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	stearic acid_PPARG
+strychnine	CHRM2	allosteric modulator	5.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	strychnine_CHRM2
+sulfacetamide	DHFR	unknown	4.74	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sulfacetamide_DHFR
+sulfadiazine	SLC5A7	unknown	4.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sulfadiazine_SLC5A7
+sulfasalazine	MAPK1	unknown	5.1984590939999995	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sulfasalazine_MAPK1
+sulfinpyrazone	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sulfinpyrazone_ABCC1
+suloctidil	SIGMAR1	unknown	7.307153081	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	suloctidil_SIGMAR1
+sumatriptan	SLC47A1	unknown	5.17	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sumatriptan_SLC47A1
+sunitinib	ABL1	unknown	7.26	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_ABL1
+sunitinib	AKT2	unknown	5.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_AKT2
+sunitinib	CDK4	unknown	5.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_CDK4
+sunitinib	CDK7	unknown	6.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_CDK7
+sunitinib	CHUK	unknown	6.28	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_CHUK
+sunitinib	CIT	unknown	5.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_CIT
+sunitinib	CSNK2A2	unknown	6.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_CSNK2A2
+sunitinib	DYRK1A	unknown	6.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_DYRK1A
+sunitinib	EIF2AK4	unknown	6.74	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_EIF2AK4
+sunitinib	FLT1	inhibitor	7.22914791107178	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_FLT1
+sunitinib	FLT3	inhibitor	9.66	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_FLT3
+sunitinib	LCK	unknown	6.64	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_LCK
+sunitinib	MAP4K1	unknown	7.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_MAP4K1
+sunitinib	MARK1	unknown	5.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_MARK1
+sunitinib	MARK2	unknown	6.51	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_MARK2
+sunitinib	MARK3	unknown	6.39	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_MARK3
+sunitinib	PRKCA	unknown	5.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_PRKCA
+sunitinib	PRKD1	unknown	6.51	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_PRKD1
+sunitinib	RET	inhibitor	8.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_RET
+sunitinib	RIPK1	unknown	6.43	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_RIPK1
+sunitinib	ROCK1	unknown	6.34	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_ROCK1
+sunitinib	RPS6KA1	unknown	7.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_RPS6KA1
+sunitinib	RPS6KA4	unknown	7.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_RPS6KA4
+sunitinib	SRC	unknown	5.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_SRC
+sunitinib	TBK1	unknown	6.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	sunitinib_TBK1
+suramin	P2RX3	unknown	5.962573502000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	suramin_P2RX3
+suramin	P2RX4	unknown	6.749336081	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	suramin_P2RX4
+suramin	P2RY2	antagonist	4.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	suramin_P2RY2
+suramin	SIRT1	unknown	6.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	suramin_SIRT1
+suramin	SIRT2	unknown	5.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	suramin_SIRT2
+suramin	SIRT5	unknown	4.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	suramin_SIRT5
+tacrine	ADRA1D	unknown	5.9535048360000005	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tacrine_ADRA1D
+tacrolimus	FKBP10	unknown	9.02	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tacrolimus_FKBP10
+tafamidis	TTR	binding agent	6.812	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tafamidis_TTR
+talipexole	ADRA1D	unknown	5.900000095367429	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	talipexole_ADRA1D
+tamoxifen	ADORA1	unknown	4.85811145	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tamoxifen_ADORA1
+tamoxifen	ADRA1D	unknown	5.611011215	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tamoxifen_ADRA1D
+tamoxifen	CHRM2	unknown	5.557363474	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tamoxifen_CHRM2
+tamoxifen	ERBB2	unknown	5.5303252270000005	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tamoxifen_ERBB2
+tamoxifen	LCK	unknown	5.0951222330000006	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tamoxifen_LCK
+tamoxifen	SIGMAR1	unknown	7.5	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tamoxifen_SIGMAR1
+tamsulosin	ADRA1D	unknown	10.24	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tamsulosin_ADRA1D
+tannic acid	LCK	unknown	7.099999904632571	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tannic acid_LCK
+tannic acid	MAPK1	unknown	6.73000001907349	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tannic acid_MAPK1
+tannic acid	MAPK14	unknown	6.42999982833862	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tannic acid_MAPK14
+tannic acid	MAPK3	unknown	5.389999866485599	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tannic acid_MAPK3
+tecadenoson	ADORA1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	tecadenoson_ADORA1
+teicoplanin aglycone	CTSL	inhibitor	5.78	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	teicoplanin aglycone_CTSL
+telaprevir	CTSA	inhibitor	7.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	telaprevir_CTSA
+telaprevir	CTSL	unknown	5.46	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	telaprevir_CTSL
+telaprevir	PLG	unknown	5.06	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	telaprevir_PLG
+telbivudine	ADORA1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	telbivudine_ADORA1
+telmisartan	PPARG	unknown	5.82	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	telmisartan_PPARG
+telmisartan	SLC47A1	unknown	4.75	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	telmisartan_SLC47A1
+tenecteplase	PLG	activator	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tenecteplase_PLG
+teneligliptin	DPP4	inhibitor	9.43179798126221	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	teneligliptin_DPP4
+terazosin	ADRA1D	antagonist	9.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	terazosin_ADRA1D
+terazosin	NQO2	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	terazosin_NQO2
+terbinafine	SIGMAR1	unknown	6.628193541	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	terbinafine_SIGMAR1
+terconazole	ADRA1D	unknown	5.269702338	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	terconazole_ADRA1D
+terconazole	CHRM2	unknown	5.338187314	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	terconazole_CHRM2
+terconazole	SIGMAR1	unknown	6.669586227000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	terconazole_SIGMAR1
+terconazole	SLC28A1	unknown	5.373044049	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	terconazole_SLC28A1
+terfenadine	HSP90AA1	unknown	5.46	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	terfenadine_HSP90AA1
+terguride	ADRA1D	unknown	8.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	terguride_ADRA1D
+testosterone	AR	agonist	9.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	testosterone_AR
+testosterone	SIGMAR1	unknown	5.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	testosterone_SIGMAR1
+testosterone cypionate	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	testosterone cypionate_AR
+testosterone enantate	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	testosterone enantate_AR
+testosterone propionate	AR	agonist	9.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	testosterone propionate_AR
+testosterone undecanoate	AR	agonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	testosterone undecanoate_AR
+tetracaine	SIGMAR1	unknown	6.153044675	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tetracaine_SIGMAR1
+theophylline	ADORA1	antagonist	9.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	theophylline_ADORA1
+thiamine	HSP90AA1	unknown	4.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thiamine_HSP90AA1
+thiamine	THTPA	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thiamine_THTPA
+thiethylperazine	CHRM2	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thiethylperazine_CHRM2
+thiethylperazine	GFER	unknown	5.96000003814697	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thiethylperazine_GFER
+thiethylperazine	SIGMAR1	unknown	7.1549	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thiethylperazine_SIGMAR1
+thioguanine	IMPDH2	inhibitor	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thioguanine_IMPDH2
+thioguanine	MAPK3	unknown	5.258375742	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thioguanine_MAPK3
+thiomersal	MAPK3	unknown	6.111259039	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thiomersal_MAPK3
+thiomersal	TLR9	unknown	5.199999809265139	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thiomersal_TLR9
+thioridazine	ADRA1D	unknown	8.68613278	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thioridazine_ADRA1D
+thioridazine	CHRM2	unknown	7.85387182235718	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thioridazine_CHRM2
+thioridazine	PIM1	unknown	5.16	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thioridazine_PIM1
+thioridazine	SIGMAR1	unknown	6.815308569	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thioridazine_SIGMAR1
+thiothixene	CHRM2	unknown	5.677780628204349	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thiothixene_CHRM2
+thyropropic acid	PCNA	unknown	4.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	thyropropic acid_PCNA
+tibolone	AR	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tibolone_AR
+ticagrelor	SLC29A1	inhibitor	7.3	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ticagrelor_SLC29A1
+ticlopidine	SIGMAR1	unknown	6.747146969	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ticlopidine_SIGMAR1
+tiludronic acid	PTPN1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tiludronic acid_PTPN1
+tinoridine	ADORA1	antagonist	4.98716259002686	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tinoridine_ADORA1
+tiotropium bromide	CHRM2	unknown	11.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tiotropium bromide_CHRM2
+tiratricol	AR	unknown	4.46	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tiratricol_AR
+tiratricol	PCNA	unknown	4.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tiratricol_PCNA
+tirilazad	LCK	unknown	4.801727902	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tirilazad_LCK
+tirilazad	MAPK14	unknown	5.130416292	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tirilazad_MAPK14
+tirilazad	MAPK3	unknown	4.788826043	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tirilazad_MAPK3
+tivozanib	FLT1	inhibitor	9.677781	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tivozanib_FLT1
+tivozanib	FLT3	inhibitor	6.374688	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tivozanib_FLT3
+tofacitinib	ABL1	unknown	5.66	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tofacitinib_ABL1
+tofacitinib	LCK	unknown	6.34	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tofacitinib_LCK
+tofacitinib	PRKCD	unknown	5.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tofacitinib_PRKCD
+tofacitinib	RET	unknown	5.48	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tofacitinib_RET
+tofacitinib	ROCK1	unknown	6.33	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tofacitinib_ROCK1
+tofacitinib	RPS6KA1	unknown	5.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tofacitinib_RPS6KA1
+tolcapone	COMT	inhibitor	9.56863594055176	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tolcapone_COMT
+tolfenamic acid	AR	unknown	4.33	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tolfenamic acid_AR
+tolfenamic acid	TTR	unknown	4.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tolfenamic acid_TTR
+tolperisone	SIGMAR1	unknown	8.252588192000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tolperisone_SIGMAR1
+tolterodine	CHRM2	antagonist	8.57	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tolterodine_CHRM2
+tonzonium	IDE	unknown	4.269999980926509	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tonzonium_IDE
+topotecan	SLC47A1	unknown	5.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	topotecan_SLC47A1
+toyocamycin	ADK	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	toyocamycin_ADK
+trabectedin	SRC	unknown	6.68	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trabectedin_SRC
+tranexamic acid	PLG	inhibitor	5.96	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tranexamic acid_PLG
+trastuzumab	ERBB2	antibody binding	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trastuzumab_ERBB2
+trastuzumab deruxtecan	ERBB2	binding agent	8.13	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trastuzumab deruxtecan_ERBB2
+trastuzumab emtansine	ERBB2	antibody binding	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trastuzumab emtansine_ERBB2
+trazodone	ADRA1D	unknown	7.327902142	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trazodone_ADRA1D
+trazodone	SIGMAR1	unknown	6.033389013	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trazodone_SIGMAR1
+trelagliptin	DPP4	inhibitor	8.39793968200684	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trelagliptin_DPP4
+tretinoin	MAPK1	unknown	6.239577517000001	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tretinoin_MAPK1
+triclosan	CBR1	unknown	7.22	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	triclosan_CBR1
+trifluoperazine	SIGMAR1	unknown	7.82	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trifluoperazine_SIGMAR1
+trifluperidol	SIGMAR1	unknown	9.08	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trifluperidol_SIGMAR1
+trihexyphenidyl	CHRM2	unknown	7.73	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trihexyphenidyl_CHRM2
+trihexyphenidyl	SIGMAR1	unknown	7.346787486	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trihexyphenidyl_SIGMAR1
+trimethoprim	DHFR	unknown	8.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trimethoprim_DHFR
+trimetrexate	DHFR	unknown	8.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trimetrexate_DHFR
+triparanol	SIGMAR1	unknown	8.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	triparanol_SIGMAR1
+troglitazone	MAPK1	unknown	5.907279355	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	troglitazone_MAPK1
+troglitazone	PPARG	agonist	6.27	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	troglitazone_PPARG
+troglitazone	PTPN1	unknown	4.26	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	troglitazone_PTPN1
+tropicamide	CHRM2	unknown	7.431798276	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tropicamide_CHRM2
+trospium	CHRM2	antagonist	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trospium_CHRM2
+troxacitabine	POLA	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	troxacitabine_POLA
+trypan blue	PTPN1	unknown	5.41	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	trypan blue_PTPN1
+tubercidin	ADK	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	tubercidin_ADK
+tubocurarine	CHRM2	unknown	7.0132	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tubocurarine_CHRM2
+tubocurarine	SLC47A1	unknown	5.03	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tubocurarine_SLC47A1
+tyramine	BACE1	unknown	2.7	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	tyramine_BACE1
+umeclidinium	CHRM2	unknown	9.82390880584717	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	umeclidinium_CHRM2
+urapidil	ADRA1D	antagonist	7.9	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	urapidil_ADRA1D
+uridine	SLC28A1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	uridine_SLC28A1
+uridine	SLC28A3	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	uridine_SLC28A3
+uridine	SLC29A1	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	uridine_SLC29A1
+uridine	SLC29A2	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	uridine_SLC29A2
+uridine	SLC29A3	unknown	nan	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	True	na	uridine_SLC29A3
+uridine triphosphate	P2RX3	unknown	5.583359493	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	uridine triphosphate_P2RX3
+uridine triphosphate	P2RY2	agonist||unknown	8.1||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	uridine triphosphate_P2RY2
+uridine triphosphate	P2RY4	agonist||unknown	6.3||nan	is_activity_known:True||Chemical space:NHC	True||False	https://drugcentral.org/||Prediction by Jordi Mestres, PhD (JM)	dti_dc||dti_jm_nhc	web||File shared by JM	False||False	False||True	p_chembl||na	True||True	nan||na	uridine triphosphate_P2RY4
+urokinase	PLG	activator	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	urokinase_PLG
+valethamate	CHRM2	unknown	7.71999979019165	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	valethamate_CHRM2
+valethamate	SIGMAR1	unknown	6.699999809265139	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	valethamate_SIGMAR1
+valproic acid	HDAC2	unknown	4.21	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	valproic acid_HDAC2
+vandetanib	ABL1	unknown	8.05	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_ABL1
+vandetanib	CDK7	unknown	5.39	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_CDK7
+vandetanib	CIT	unknown	5.74	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_CIT
+vandetanib	COQ8B	unknown	5.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_COQ8B
+vandetanib	CSK	unknown	5.6	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_CSK
+vandetanib	ERBB2	inhibitor	5.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_ERBB2
+vandetanib	FLT1	inhibitor	6.59	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_FLT1
+vandetanib	FLT3	unknown	6.72	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_FLT3
+vandetanib	LCK	unknown	7.77	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_LCK
+vandetanib	MAP4K1	unknown	5.26	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_MAP4K1
+vandetanib	RET	inhibitor	7.85	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_RET
+vandetanib	RPS6KA1	unknown	6.4	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_RPS6KA1
+vandetanib	SRC	inhibitor	7.15	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vandetanib_SRC
+vecuronium	SLC47A1	unknown	5.72	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vecuronium_SLC47A1
+verapamil	ABCC1	unknown	4.88	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	verapamil_ABCC1
+verapamil	ADRA1D	unknown	6.07211659	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	verapamil_ADRA1D
+vesnarinone	VCP	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vesnarinone_VCP
+vidarabine	DPP4	unknown	7.21	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vidarabine_DPP4
+vidarabine	POLA1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vidarabine_POLA1
+vildagliptin	DPP4	inhibitor	8.52	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vildagliptin_DPP4
+vinblastine	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vinblastine_ABCC1
+vinburnine	CHRM2	allosteric modulator	4.2	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vinburnine_CHRM2
+vincamine	CHRM2	allosteric modulator	5.1	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vincamine_CHRM2
+vincristine	ABCC1	unknown	3.0	is_activity_known:False	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vincristine_ABCC1
+vorinostat	HDAC2	inhibitor	8.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	vorinostat_HDAC2
+xanomeline	CHRM2	unknown	6.92	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	xanomeline_CHRM2
+ximelagatran	PLAT	unknown	5.82000017166138	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ximelagatran_PLAT
+ximelagatran	PLG	unknown	5.7399997711181605	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ximelagatran_PLG
+yohimbine	ADRA1D	unknown	8.8	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	yohimbine_ADRA1D
+yohimbine	CDC25A	unknown	4.65	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	yohimbine_CDC25A
+zafirlukast	MAPK1	unknown	6.269217724	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	zafirlukast_MAPK1
+zafirlukast	MAPK14	unknown	6.452225295	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	zafirlukast_MAPK14
+zafirlukast	MAPK3	unknown	5.358922687	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	zafirlukast_MAPK3
+zafirlukast	SLC47A1	unknown	5.89	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	zafirlukast_SLC47A1
+zidovudine	SIGMAR1	unknown	4.0	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	zidovudine_SIGMAR1
+ziprasidone	CHRM2	unknown	5.522878745	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	ziprasidone_CHRM2
+zotepine	CHRM2	unknown	6.85387182235718	is_activity_known:True	True	https://drugcentral.org/	dti_dc	web	False	False	p_chembl	True	nan	zotepine_CHRM2
