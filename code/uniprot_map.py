@@ -1,3 +1,12 @@
+# Author:	Gergely Zahoranszky-Kohalmi, PhD
+#
+# Email:	gergely.zahoranszky-kohalmi@nih.gov
+#
+# Organization:	National Center for Advancing Translational Sciences (NCATS/NIH)
+#
+# References
+#
+
 import pandas as pd
 
 url_uniprot_mapping = 'https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/HUMAN_9606_idmapping.dat.gz'

@@ -2,7 +2,7 @@
 # 
 # Email:        gergely.zahoranszky-kohalmi@nih.gov
 #
-# Organization: National Center for Advanving Translational Sciences (NCATS/NIH)
+# Organization: National Center for Advancing Translational Sciences (NCATS/NIH)
 #
 # References
 #
