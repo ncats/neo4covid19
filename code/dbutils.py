@@ -173,6 +173,7 @@ def create_pathogen_protein_indices (conn):
 def create_drug_node(conn, drug_name, abbreviated_data_source, unique_abbr_data_sources, data_source, acquisition_method, is_experimental, smiles, inchi, inchi_key, ns_inchi_key, CAS_RN, metadata, uuid):
 	query = "CREATE (c:Drug {"
 	query += "drug_name: '%s', " % (drug_name)
+	query += "name: '%s', " % (drug_name)
 	query += "node_type: 'drug', "
 	query += "abbreviated_data_source: '%s', " % (abbreviated_data_source)
 	query += "data_source: '%s', " % (data_source)
@@ -280,6 +281,7 @@ def create_dti_edge (conn, drug_name, target_node, action_type, p_chembl, is_exp
 	query = "MATCH (d:Drug { drug_name: '" + drug_name + "' }) MATCH (t:HostProtein { gene_symbol: '" + target_node + "' }) MERGE (d)-[:DTI "
 	query += "{ edge_label: '%s', " % (edge_label)
 	query += "source_node: '%s', " % (drug_name) 
+	query += "edge_type: 'dti', "
 	query += "target_node: '%s', " % (target_node)
 	query += "action_type: '%s', " % (action_type)
 	query += "p_chembl: '%s', " % (p_chembl)

@@ -151,7 +151,7 @@ def expand_by_string (df_host_proteins):
 	#df = merge_metadata ('hpi', df, md)
 	
 	# Generic to all datasets
-	df['is_experimental'] = False
+	df['is_experimental'] = True
 	df['data_source'] = 'STRING'
 	df['abbreviated_data_source'] = 'ppi_string'
 	df['acquisition_method'] = 'STRING API'
