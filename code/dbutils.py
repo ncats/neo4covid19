@@ -124,6 +124,7 @@ def create_pathogen_protein_node(conn, pathogen_protein, abbreviated_data_source
 	query += "activation_type: '%s', " % (activation_type)
 	query += "metadata: '%s', " % (metadata)
 	query += generate_data_source_fields (abbreviated_data_source, unique_abbr_data_sources)
+	query += "tdl: 'pathogen_protein', "
 	query += "uuid: '%s'})" % (uuid)
 
 	
