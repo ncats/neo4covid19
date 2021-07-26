@@ -9,6 +9,7 @@
 # Ref: https://stackoverflow.com/questions/23418600/python-convert-a-list-of-float-to-string
 # Ref: https://stackoverflow.com/questions/6475314/python-for-in-loop-preceded-by-a-variable
 # Ref: https://stackoverflow.com/questions/3887381/typeerror-nonetype-object-is-not-iterable-in-python
+# Ref: https://scicomp.stackexchange.com/questions/1429/dictionaries-in-pseudocode
 
 import pandas as pd
 
@@ -215,7 +216,9 @@ def build ():
 	# Build db
 	
 	print ('[->] Create and populate Neo4COVID19 knowledgebase ...\n')
+	print ('[**] This process may take several minutes. Thank you for your pateince!\n')
 	
+
 	
 	build_neo4j (FILE_db_config, df_hprot, df_pprot, df_drugs, df_hpi, df_ppi, df_dti)
 	

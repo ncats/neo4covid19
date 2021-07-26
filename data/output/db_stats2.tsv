@@ -1,8 +1,8 @@
 category	number
-nr_human_targets	906
+nr_human_targets	903
 nr_viral_targets	55
-nr_proteins	961
-nr_drugs	641
+nr_proteins	958
+nr_drugs	635
 nr_hpi	487
-nr_ppi	63288
-nr_dti	1265
+nr_ppi	63278
+nr_dti	1221

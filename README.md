@@ -145,7 +145,7 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 		>localhost<BR>7687<BR>neo4j<BR>mypassword
 
 
-		If your Neo4j server is not running on *localhost* ten you need to replace *localhost* with the hostname of the server running the Neo4j database server. The *7687* is the default port for the Neo4j BOLT connection. **Replace** *username* and *password* according to your Neo4j serve configuration.
+		If your Neo4j server is not running on *localhost* then you need to replace *localhost* with the hostname of the server running the Neo4j database server. The *7687* is the default port for the Neo4j BOLT connection. **Replace** *username* and *password* according to your Neo4j serve configuration.
 
 		Once the **db.cfg** file is created, you can compile the database. Beware, that the script first deletes ALL existing data from a Neo4j database, so that it can perform a clean build everytime.
 
@@ -153,6 +153,7 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 
 ### Replicate workflow
 
+- Make sure Neo4j server is up and running.
 
 - Change to source code directory
 
@@ -162,6 +163,7 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 
 	`python harmonize.py`
 
+	Please note that the process can take several minutes.
 	
 
 >Step 2. Assembling a SmartGraph Network of HATs
@@ -199,7 +201,8 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 
 	`python compile.py`
 
-
+	Please note that the process can take several minutes.
+	
 <BR>
 <BR>
 This concludes the replication procedure, the resultant Neo4COVID19 database should be availabel at http://localhost:7474 in your browser, if you used the localhost as your database URL during the replication process.
