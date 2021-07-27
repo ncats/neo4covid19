@@ -20,7 +20,7 @@ Preprint https://www.biorxiv.org/content/10.1101/2020.11.04.369041v1. (DOI: 10.1
 
 ### Prerequisites
 
-The workflow was tested successfully on Python version 3.6.9, py2neo version 4, and Neo4j version 3.5.6.
+The workflow was tested successfully on Python version 3.6.9, py2neo version 4, and graph database Neo4j **Community Edition version 3.5.6**.
 
 1. Install **Git Large File Support (Git LFS)**
 
@@ -56,37 +56,32 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 
 	- Follow OS specific instructions to install Conda, see: https://docs.conda.io/en/latest/miniconda.html
 
-	- Once Conda is installed, create a clean conda environment
+	- Once Conda is installed, create a clean conda environment (make sure you're in the `neo4covid19/code` directory of the repository, in this example this location of this directory is `~/n4ctest/neo4covid19/code` ):
 
-		`conda create -y --name n4c python==3.6.9`
+		if you have a Linux environment, then:
+
+		`conda env create -f n4c_env_linux.yml`
+
+
+		if you have a Mac environment, then:
+
+		`conda env create -f n4c_env_mac.yml`
+
+
 
 	- Activate the Conda environment
 
 		`conda activate n4c`
 
-	- Install Python dependencies
 
-		`pip install py2neo`
+
+4. Setting up Neo4j Community Edition database
+
+	- Follow instructions on setting up Neo4j Community Edition for your OS, see: https://neo4j.com/docs/operations-manual/current/installation/
 		<BR>
-	
-		`conda install pandas`
+		Make sure you install the **Community Edition** of Neo4j, and the version you choose to install is **3.5.x**. Of note, the workflow was tested on
+		Neo4j Community Edition v3.5.6. 
 		<BR>
-		
-		`pip install xlrd==1.2.0`
-		<BR>
-		
-		`conda install requests`
-		<BR>
-		
-		`pip install uuid`
-		<BR>
-
-
-
-4. Setting up Neo4j database
-
-	- Follow instructions on setting up Neo4j for your OS, see: https://neo4j.com/docs/operations-manual/current/installation/
-
 	- Example on Ubuntu (see: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-neo4j-on-ubuntu-20-04)
 
 		`sudo apt update`
@@ -151,10 +146,16 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 
 		Also, make sure you have the Neo4j database server running and that you have the connection configuration file set up properly. The workflow will wipe the Neo4j database clean. In case you have different data loaded to your Neo4j database (that have different node/relation types), those may not be wiped by the code. In order to assure a clean Neo4COVID19 deployment, you need to make sure that you start from a completely empty database. Please refer to Neo4j documentaion for details (https://neo4j.com/). Once you took care of the database you can proceed with the workflow as shown below.
 
+
 ### Replicate workflow
 
 - Make sure Neo4j server is up and running.
+	
+- Make sure that the "n4c" conda environment is active
 
+	`conda activate n4c`
+
+	
 - Change to source code directory
 
 	`cd ~/n4ctest/neo4covid19/code/`
@@ -300,6 +301,9 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ne
 https://debian.neo4j.com/
 https://www.markdownguide.org/cheat-sheet/
 https://neo4j.com/docs/operations-manual/current/tools/dump-load/
+https://stackoverflow.com/questions/41274007/anaconda-export-environment-file
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment
 
 
 
