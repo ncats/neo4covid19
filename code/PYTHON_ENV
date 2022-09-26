@@ -1,0 +1,5 @@
+conda install pandas
+conda install xlrd
+pip install uuid
+pip install py2neo
+conda install requests

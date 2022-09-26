@@ -1,0 +1,55 @@
+pipeline {
+   options {
+       timestamps()
+   }
+   agent {
+       label 'neo4jci-slave'
+   }
+   triggers {
+       pollSCM('H/5 * * * *')
+   }
+   stages {
+       stage('Clean') {
+           agent {
+               label 'neo4jci-slave'
+           }
+           steps {
+               cleanWs()
+           }
+       }
+       stage('Build Version') {
+           when {
+               expression {
+                   return !params.BUILD_VERSION
+               }
+           }
+           steps{
+               script {
+                   BUILD_VERSION_GENERATED = VersionNumber(
+                       versionNumberString: 'v${BUILD_YEAR, XX}.${BUILD_MONTH, XX}${BUILD_DAY, XX}.${BUILDS_TODAY}',
+                       projectStartDate:    '1970-01-01',
+                       skipFailedBuilds:    true)
+                   currentBuild.displayName = BUILD_VERSION_GENERATED
+                   env.BUILD_VERSION = BUILD_VERSION_GENERATED
+                   env.BUILD = 'true'
+                }
+           }
+       }
+       stage('neo4j-dump') {
+           steps {
+               script {
+                   withEnv(['JENKINS_NODE_COOKIE=dontkill']) {
+                       sh """
+                       git config --global url."git@github.com:".insteadOf "https://github.com/"
+                       neo4j stop
+                       cd data/db/
+                       neo4j-admin load --from=Neo4COVID19_PUB_rolling_neo4j.dump --database=graph.db --force
+                       neo4j start
+                       sleep 30s
+                       """
+                   }
+               }
+           }
+       }
+   }
+}
