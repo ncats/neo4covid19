@@ -142,3 +142,10 @@ cfg/
 cfg/*
 cfg/*.*
 db.cfg
+
+data/db
+data/db/*
+data/db/*.*
+neo4j/
+neo4j/*
+neo4j/*.*

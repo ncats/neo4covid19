@@ -200,7 +200,23 @@ def uniqueness_check (df, agg_cols):
 	return (False)
 
 
+def parse_urls (fname):
+    fp = open (fname)
+    line = fp.readline()
+    tmp = []
 
+    urls = {}
+    
+    while line:
+        tmp = line.split(' ')
+        k = tmp[0].strip()
+        v = tmp[1].strip()
+        
+        urls[k] = v
+        
+        line = fp.readline()
+
+    return (urls)
 
 
 	
