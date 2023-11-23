@@ -6,7 +6,11 @@ This repository is associated with the study disclosed in manuscript:
 <BR>
 *Zahoranszky-Kohalmi et al.*, A Workflow of Integrated Resources to Catalyze Network Pharmacology Driven COVID-19 Research. 
 
-Preprint https://www.biorxiv.org/content/10.1101/2020.11.04.369041v1. (DOI: 10.1101/2020.11.04.369041)
+Publication: https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00431 (DOI: 10.1021/acs.jcim.1c00431)
+<BR>
+<BR>
+
+Preprint https://www.biorxiv.org/content/10.1101/2020.11.04.369041v1 (DOI: 10.1101/2020.11.04.369041)
 <BR>
 <BR>
 - A functional instance of the **Neo4COVID19** database is accessible here: https://aspire.covid19.ncats.io:7473/browser/
@@ -14,8 +18,18 @@ Preprint https://www.biorxiv.org/content/10.1101/2020.11.04.369041v1. (DOI: 10.1
 - For detailed information on how to access the database please refer to the instructions posted at https://neo4covid19.ncats.io/ under **ACCESS** tab. 
 
 
-## Instructions to Reprodue the Workflow Used to Build the Neo4COVID19 Database
+## Instructions to Reproduce the Workflow Used to Build the Neo4COVID19 Database
 <BR>
+
+
+### Note
+
+
+The workflow has been updated to take advantage of the recent SmartGraph API. This update advanced the original semi-automated workflows to fully automated one.
+
+
+You can access the SmartGraph API documentation and try the endpoints here: [https://smartgraph.ncats.io/docs]
+
 
 
 ### Prerequisites
@@ -58,14 +72,9 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 
 	- Once Conda is installed, create a clean conda environment (make sure you're in the `neo4covid19/code` directory of the repository, in this example this location of this directory is `~/n4ctest/neo4covid19/code` ):
 
-		if you have a Linux environment, then:
+		
 
-		`conda env create -f n4c_env_linux.yml`
-
-
-		if you have a Mac environment, then:
-
-		`conda env create -f n4c_env_mac.yml`
+		`conda env create -f environment.yml`
 
 
 
@@ -74,8 +83,27 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 		`conda activate n4c`
 
 
-
 4. Setting up Neo4j Community Edition database
+
+There are two convenient ways to set up Neo4j Community Edition server in your system. If you prefer Docker-based solution, please follow Step 4a. If you prefer working with local servers (e.g. installing it via `apt` or a similar package management system), then follow Step 4b.
+
+
+4a. Neo4j as Docker container
+
+    - Create an empty directory on your local filesystem: `/$HOME/your_user_name/docker/n4c_volume/neo4j_data` (replace the `/$HOME/your_user_name` part with the relevant user home location depending on your OS, e.g. `/Users/your_user_name` on macOS, or `/home/your_user_name` in Linux)
+
+    - Once you cloned the `neo4covid19` Git repository (see: Step 2 above), go to `neo4covid19/neo4j` directory
+
+    - Create a `.env` file with content: `NEO4J_AUTH=neo4j/your_password`   (replace `you_password` with the password you want to use to access the Neo4j DB),
+    the file will consist of only one line.
+
+    - Execute: `docker-compose up -d`
+
+    That's all.
+
+
+
+4b. Neo4j as local server
 
 	- Follow instructions on setting up Neo4j Community Edition for your OS, see: https://neo4j.com/docs/operations-manual/current/installation/
 		<BR>
@@ -147,7 +175,7 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 		Also, make sure you have the Neo4j database server running and that you have the connection configuration file set up properly. The workflow will wipe the Neo4j database clean. In case you have different data loaded to your Neo4j database (that have different node/relation types), those may not be wiped by the code. In order to assure a clean Neo4COVID19 deployment, you need to make sure that you start from a completely empty database. Please refer to Neo4j documentaion for details (https://neo4j.com/). Once you took care of the database you can proceed with the workflow as shown below.
 
 
-### Replicate workflow
+## Replicating the Workflow
 
 - Make sure Neo4j server is up and running.
 	
@@ -162,55 +190,15 @@ The workflow was tested successfully on Python version 3.6.9, py2neo version 4, 
 
 >Step 1. Data harmonization step
 
-	`python harmonize.py`
-
-	Please note that the process can take several minutes.
-	
-
->Step 2. Assembling a SmartGraph Network of HATs
-
-**If you just want to rebuild the DB skip to Step 3**, otherwise continue as follows.
-			
-- Go to SmartGraph (https://smartgraph.ncats.io).
-
-- Clear the fields "Start Nodes" and "End Nodes" then click on "clear graph".
-
-
-- Copy the content of **uniprot** column in file `data/output/sg_proteins_a.tsv`. This set of UniProt IDs will be your *Start Nodes* in SmartGraph (https://smartgraph.ncats.io).
-
-- Copy the content of *uniprot* column in file `data/output/sg_proteins_b.tsv` and use them as *End Nodes* in SmartGraph.
-
-- Set the *Max Distance* parameter to 3.
-
-- Leave the *PPI Confidence Level* at its default value, i.e. 0.00.
-
-- Click on "find shortest path".
-
-- Once the network is assmebled in SmartGraph, click on "Download graph", select "Cytoscape JSON", then rename the downloaded file to `SG_HATs_dist_3_conf_0.00.json` and place the file into `data/input/`.
-
-
-- Repeat the SmartGraph analysis by swapping the starting and end nodes to create a "reverse" network.
-
-- Save the results into `data/input/` as `SG_HATs_reverse_dist_3_conf_0.00.json`.
-
->Step 3. Process Data Generated by SmartGraph (in Step 2) 
-			
-	`python process_sg.py`
-	
-			
->Step 4. DB Compilation
-
 	`python compile.py`
 
 	Please note that the process can take several minutes.
 	
-<BR>
-<BR>
-This concludes the replication procedure, the resultant Neo4COVID19 database should be availabel at http://localhost:7474 in your browser, if you used the localhost as your database URL during the replication process.
+This concludes the replication procedure, the resultant Neo4COVID19 database should be available at http://localhost:7474 in your browser, if you used the localhost as your database URL during the replication process.
 
 
 
-### REMARKS
+## REMARKS
 
 
 Alternatively you can import the precompiled Neo4COVID19 database that is also distributed in this repository (please make sure you have Git LFS support enabled on your system to actually clone the database dump file).
@@ -293,7 +281,7 @@ We wish you success in your research to find a cure for COVID-19!
 	
 	
 	
-### References
+## References
 
 https://stackoverflow.com/questions/56713744/how-to-create-conda-environment-with-specific-python-version
 https://stackoverflow.com/questions/65254535/xlrd-biffh-xlrderror-excel-xlsx-file-not-supported

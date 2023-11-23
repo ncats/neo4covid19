@@ -1,0 +1,826 @@
+host_protein	abbreviated_data_source	is_experimental	data_source	acquisition_method	prioritized_for_pathway_analysis	do_ppi_expansion	source_specific_score	source_specific_score_type	activation	activation_type	metadata
+AAR2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+AASS	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+AATF	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ABCC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ACAD9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ACADM	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ACSL3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ADAM9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ADAMTS1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+AGPS	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+AKAP8	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+AKAP8L	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+AKAP9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ALG11	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ALG5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ALG8	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ANO6	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+AP2A2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+AP2M1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+AP3B1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ARF6	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ARL6IP6	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ATE1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ATP13A3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ATP1B1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ATP5MG	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ATP6AP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ATP6V1A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+BAG5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+BCKDK	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+BCS1L	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+BRD2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+BRD4	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+BZW2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+C1orf50	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CCDC86	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CDK5RAP2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CENPF	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CEP112	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CEP135	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CEP250	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CEP350	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CEP43	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CEP68	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CHMP2A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CHPF	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CHPF2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CISD3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CIT	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CLCC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CLIP4	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CNTRL	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+COL6A1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+COLGALT1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+COMT	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+COQ8B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CRTC3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CSDE1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CSNK2A2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CSNK2B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CUL2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CWC27	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CYB5B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+CYB5R3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DCAF7	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DCAKD	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DCTPP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DDX10	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DDX21	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DNAJC11	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DNAJC19	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DNMT1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DPH5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+DPY19L1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ECSIT	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+EDEM3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+EIF4E2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+EIF4H	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ELOB	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ELOC	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+EMC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ERC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ERGIC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ERLEC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ERMP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ERO1B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ERP44	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ETFA	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+EXOSC2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+EXOSC3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+EXOSC5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+EXOSC8	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+F2RL1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FAM162A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FAM8A1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FAM98A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FAR2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FASTKD5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FBLN5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FBN1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FBN2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FBXL12	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FKBP10	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FKBP15	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FKBP7	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FOXRED2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+FYCO1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+G3BP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+G3BP2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GCC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GCC2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GDF15	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GFER	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GGCX	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GGH	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GHITM	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GIGYF2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GLA	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GNB1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GNG5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GOLGA2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GOLGA3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GOLGA7	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GOLGB1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GORASP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GPAA1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GPX1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GRIPAP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GRPEL1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+GTF2F2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+HDAC2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+HEATR3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+HECTD1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+HMOX1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+HOOK1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+HS2ST1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+HS6ST2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+HSBP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+HYOU1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+IDE	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+IL17RA	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+IMPDH2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+INHBE	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+INTS4	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ITGB1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+JAKMIP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+LARP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+LARP4B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+LARP7	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+LMAN2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+LOX	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MAP7D1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MARK1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MARK2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MARK3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MAT2B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MDN1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MEPCE	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MFGE8	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MIB1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MIPOL1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MOGS	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MOV10	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MPHOSPH10	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MRPS2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MRPS25	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MRPS27	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MRPS5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MTARC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MTCH1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+MYCBP2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NARS2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NAT14	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NDFIP2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NDUFAF1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NDUFAF2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NDUFB9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NEK9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NEU1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NGDN	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NGLY1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NIN	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NINL	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NLRX1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NOL10	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NPC2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NPTX1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NSD2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NUP210	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NUP214	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NUP54	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NUP58	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NUP62	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NUP88	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NUP98	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+NUTF2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+OS9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PABPC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PABPC4	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PCNT	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PCSK6	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PDE4DIP	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PDZD11	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PIGO	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PIGS	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PITRM1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PKP2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PLAT	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PLD3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PLEKHA5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PLEKHF2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PLOD2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PMPCA	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PMPCB	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+POFUT1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+POGLUT2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+POGLUT3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+POLA1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+POLA2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+POR	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PPIL3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PPT1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PRIM1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PRIM2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PRKACA	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PRKAR2A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PRKAR2B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PRRC2B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PSMD8	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PTBP2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PTGES2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PUSL1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+PVR	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+QSOX2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAB10	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAB14	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAB18	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAB1A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAB2A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAB5C	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAB7A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAB8A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAE1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RALA	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RAP1GDS1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RBM28	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RBM41	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RBX1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RDX	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+REEP5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+REEP6	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RETREG3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RHOA	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RIPK1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RNF41	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RPL36	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RRP9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+RTN4	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SAAL1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SBNO1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SCAP	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SCARB1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SCCPDH	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SDF2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SELENOS	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SEPSECS	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SIGMAR1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SIL1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SIRT5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SLC25A21	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SLC27A2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SLC30A6	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SLC30A7	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SLC30A9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SLC44A2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SLC9A3R1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SLU7	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SMOC1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SNIP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SPART	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SRP19	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SRP54	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SRP72	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+STC2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+STOM	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+STOML2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+SUN2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TAPT1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TARS2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TBCA	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TBK1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TBKBP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TCF12	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+THTPA	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TIMM10	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TIMM10B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TIMM29	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TIMM8B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TIMM9	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TLE1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TLE3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TLE5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TM2D3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TMED5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TMEM39B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TMEM97	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TOMM70	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TOR1A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TOR1AIP1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TRIM59	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TRMT1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TUBGCP2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TUBGCP3	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+TYSND1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+UBAP2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+UBAP2L	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+UBXN8	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+UGGT2	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+UPF1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+USP13	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+USP54	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+VPS11	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+VPS39	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+WASHC4	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+WFS1	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+YIF1A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ZC3H18	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ZC3H7A	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ZDHHC5	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ZNF318	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ZNF503	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ZYG11B	hpi_krogan	True	SARS-CoV-2 - Human Interactome, Krogan et al.	Preprint/Nature, experimental data	False	True	na	na	na	na	source:hpi
+ACE2	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+B2M	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+BAG6	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+CD4	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+CD8A	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+EP300	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+EZR	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+FLT1	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+GRB2	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+HSPA4	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+ISG15	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+LILRB2	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+MSN	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+NEDD8	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+NUB1	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+OASL	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+PCNA	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+RAD23B	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+RPS27A	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SPTBN5	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SQSTM1	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+STAT1	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+STAT3	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+SUMO2	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+TUBA1A	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+UBA52	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+UBB	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+UBC	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+UBD	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+UBQLN2	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+UBTD1	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+UHRF1	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+VCAM1	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+YWHAB	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+YWHAE	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+YWHAG	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+YWHAQ	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+YWHAZ	hpi_phipster	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na	na	na	source:hpi
+ANO9	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+LILRA5	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+A2ML1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CD300LB	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+TARM1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+HAS3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PLXNC1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IL18RAP	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IGKV3-20	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IGHA2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+HLA-DQB2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ATP1B2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ATP2B4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CEACAM8	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IL12RB1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+KIR3DL2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ATP4B	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IL1RL1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SIGLEC14	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ITGAD	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IL18R1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IL11RA	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ICAM4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CNGA2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ANO4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+LRIT3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CD300E	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GALNTL6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+NCR3LG1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GALNT17	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+REEP3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC30A6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GALNT18	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC27A1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+LILRA6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+MPZL3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+VSTM1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CD300LG	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IL20RB	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+UNC5D	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+UNC5A	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PPP1R3F	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC25A26	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ANO5	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CACNA2D4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+P4HA3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GALNTL5	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+MDGA2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+BTLA	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GALNT5	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+RAB43	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+JAML	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+TREML1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IFNLR1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GALNT13	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CNGA4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SCN4B	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+OSCAR	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+HS3ST5	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+LARGE2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GALNT16	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC44A3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GBGT1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SYT8	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+NFAM1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+B4GALNT2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IL31RA	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PHOSPHO1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+DSCAML1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+HAVCR2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CD300LF	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+FCAMR	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SORCS1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+FCGR1B	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PTPRU	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+IL22RA2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLAMF6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+HS6ST2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SIGLEC12	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SIGLEC11	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+DHRS9	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC30A2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC25A2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ANO3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+OSBPL5	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC25A18	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ANO8	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ROBO2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PLXNA4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GP6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GALNT9	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SEMA4B	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+B3GAT2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SCN3B	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SEMA5B	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+UNC79	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PILRA	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ITGA11	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CLTRN	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CD8A	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+LILRB2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC30A7	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+RAP1GDS1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ACE2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+UBQLN2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+REEP6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+AP3B1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PKP2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ALG11	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+REEP5	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PRIM2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+UBD	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+FAM8A1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+TIMM9	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PGP	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GGCX	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+MOV10	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+INTS4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+UBC	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+AMMECR1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC27A2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+POLA1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC25A21	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PMPCA	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+VCAM1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SNIP1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+UBB	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+AASS	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CSNK2A2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ISG15	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC30A9	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+RBM28	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PITRM1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GIGYF2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+EP300	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+FN3KRP	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ATP13A3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+MAP4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PELO	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ANO6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+RAD23B	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+NEDD8	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+TUBGCP2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+BRD4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+FKBP15	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+INTS6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+HDAC2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ZDHHC5	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+NUB1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+BZW2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ATP1B1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+DIAPH3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CBR1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PSMD3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+UBA52	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+TRMT1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+NUP155	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+BAG6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ATP6V1A	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+LUC7L	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PCCA	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ATP6AP1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SLC44A2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CPSF6	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+GOLGA7	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+TUBGCP3	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PRIM1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+LARP1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+RBM25	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+DDX21	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+RRP9	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+EIF4E2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+G3BP2	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+MSN	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+PABPC1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+RPS27A	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+TIMM10	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+HSPA4	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+ACADM	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+UPF1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CTTN	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+COLGALT1	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CWC27	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+TBCA	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+CSNK2B	hostprot_taiml	False	Predicted Viral Targets by Meta Path predictions, by Tudor I. Oprea, MD PhD (TIO)	Shared by TIO	False	True	na	na	na	na	na
+SF3A1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+RPS19	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+EEF2	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+NUP85	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+RPL26	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+MYADM	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+TNFAIP8	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+TRIM16	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+SLC25A5	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+NNT	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+AKAP12	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+SMOC1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+SPCS3	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+CMBL	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+C16orf91	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+ATP13A1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+C20orf27	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+RPL36	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+YARS	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+SMARCE1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+PPIC	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+PCYOX1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+CEBPZ	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	up	quantity change	na
+AFP	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+FABP1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+VIL1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+ANXA4	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+CDH17	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+LGALS3	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SERPINA1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+IDH1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+TTR	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+JUP	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SLC9A3R1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+ALDH1A1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+H1F0	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+OAT	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+HIST1H1C	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+GSTP1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+DPP4	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+HIST1H1E	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+PSAP	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+UGDH	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+RPL35	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+TFRC	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+CHMP2B	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+TMBIM6	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+APOE	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+EIF4H	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+COX4I1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+APLP2	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+TSPAN8	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+S100A10	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+RPL29	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SEPTIN9	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+CTSA	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+COMT	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+H3F3A	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+H3F3AP4	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+H3F3B	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SLC2A1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+RPL10	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+ALDH2	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+MGST3	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+ATP6V1G1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SPINT2	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+RPSA	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+CDH1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+STT3A	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+UBL5	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+PCBD1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+GPR64	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+ADGRG2	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+ETFB	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+HSPE1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+UBE2C	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+PDIA4	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+TECR	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+CTNNBL1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+CIRBP	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+NDUFB3	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+CAT	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+ZSCAN4	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+TMCO1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+TOMM34	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+GHITM	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+TPD52L1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SKP1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+NELFCD	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+TH1L	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+INSL4	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SEPW1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SELENOW	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+NUP35	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+RALYL	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+GNPDA1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SDHB	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+USP9X	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+SLIRP	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+MRPL47	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+RALY	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+RRBP1	hostprot_nat	True	Derived by Tudor I. Oprea, MD, PhD from the work of Drug targets from Nature paper (Bojkova et al., DOI: 10.1038/s41586-020-2332-7), Supplementary Table 1: https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2332-7/MediaObjects/41586_2020_2332_MOESM2_ESM.xlsx	Shared by TIO	False	True	na	na	down	quantity change	na
+ACE2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+SMARCA4	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+DYRK1A	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+KDM6A	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+DPF2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+JMJD6	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+UBXN7	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+RAD54L2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+ARID1A	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+HMGB1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+TRAF3	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+SERTAD4	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+PHIP	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+SMAD4	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:RUNX3 regulates CDKN1A transcription;role:resistance_pro_viral
+SH3YL1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+LDB1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+CTSL	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:cystatin and endolysosome lumen;role:resistance_pro_viral
+CREBBP	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+SMARCE1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+SMAD3	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:RUNX3 regulates CDKN1A transcription;role:resistance_pro_viral
+OSBPL8	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:3d by feature importance FigS4;role:resistance_pro_viral
+SPTY2D1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+RYBP	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+SMARCB1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+SMARCC1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+KMT2D	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+PCBD1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+SIAH1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+TMX3	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+ACVR1B	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+PHF6	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:resistance_pro_viral
+SMARCCA4	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+SMARCD2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+SMARCD1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+ARID1B	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+ACTL6A	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+SMARCC2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SWI/SNF complex;role:resistance_pro_viral
+TGFB1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:RUNX3 regulates CDKN1A transcription;role:resistance_pro_viral
+RUNX3	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:RUNX3 regulates CDKN1A transcription;role:resistance_pro_viral
+ZFHX3	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:RUNX3 regulates CDKN1A transcription;role:resistance_pro_viral
+CDKN1A	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:RUNX3 regulates CDKN1A transcription;role:resistance_pro_viral
+TP53	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:RUNX3 regulates CDKN1A transcription;role:resistance_pro_viral
+GZF1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:cystatin and endolysosome lumen;role:resistance_pro_viral
+CST6	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:cystatin and endolysosome lumen;role:resistance_pro_viral
+SERPINB13	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:cystatin and endolysosome lumen;role:resistance_pro_viral
+CSTB	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:cystatin and endolysosome lumen;role:resistance_pro_viral
+CSTV	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:cystatin and endolysosome lumen;role:resistance_pro_viral
+KCNG4	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:cystatin and endolysosome lumen;role:resistance_pro_viral
+CSTA	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:cystatin and endolysosome lumen;role:resistance_pro_viral
+EIF3D	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation;role:resistance_pro_viral
+EIF3A	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation;role:resistance_pro_viral
+EIF3B	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation;role:resistance_pro_viral
+EIF2D	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation;role:resistance_pro_viral
+HIRA	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+CABIN1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+TRIP12	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:ASF1A ;role:sensitization_anti-viral
+BPTF	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:NURF complex;role:sensitization_anti-viral
+NONO	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+NDOR1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+TIMM10	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+EMSY	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+ZNF250	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+ZMYM2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+XRCC3	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+SMARCA5	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:NURF complex;role:sensitization_anti-viral
+ADAT2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+SMG5	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+TAF13	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+KMD1A	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+MED16	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+KAT14	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+PIAS2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+GTF2H2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+EIF2AK4	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation; 2nd by feature importance FigS4;role:sensitization_anti-viral
+PSME3	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+PIAS1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+POP5	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+DDX42	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+DOLK	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+ATRX	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:;role:sensitization_anti-viral
+DENR	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation;role:sensitization_anti-viral
+PCPB2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation;role:sensitization_anti-viral
+MCTS1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation;role:sensitization_anti-viral
+SSB	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation;role:sensitization_anti-viral
+EIF3L	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:viral translation;role:sensitization_anti-viral
+RBBP4	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:NURF complex;role:sensitization_anti-viral
+SMARCA1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:NURF complex;role:sensitization_anti-viral
+HMGXB4	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:NURF complex;role:sensitization_anti-viral
+GTF2H3	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+GTF2H4	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+MMS19	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+CCNH	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+ERCC2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+ERCC3	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+CDK7	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+MNAT1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+GTFH1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:TFIIH holo complex;role:sensitization_anti-viral
+GEMIN8	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SMN complex;role:sensitization_anti-viral
+GEMIN2	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SMN complex;role:sensitization_anti-viral
+DDX20	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SMN complex;role:sensitization_anti-viral
+ZPR1	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SMN complex;role:sensitization_anti-viral
+GEMIN5	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SMN complex;role:sensitization_anti-viral
+GEMIN7	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SMN complex;role:sensitization_anti-viral
+STRAP	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SMN complex;role:sensitization_anti-viral
+GEMIN6	hostprot_crispr	True	Wei et al., bioRxiv, 2020, https://doi.org/10.1101/2020.06.16.155101	Extracted by TIO	False	True	na	na	na	na	notes:SMN complex;role:sensitization_anti-viral
+EP300	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+HAT1	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+KAT2A	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+KAT2B	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+KAT5	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+KAT6A	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+KAT6B	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+KAT7	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+KAT8	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+NAA60	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+RBBP7	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+CREBBP	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+ATF2	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+TAF1	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+NAA40	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+NCOA1	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+NCOA3	hostprot_hats	False	Tudor I. Oprea, MD, PhD (TIO), Tim Willson (TW), PhD	TIO, TW	True	False	na	na	na	na	na
+ADA	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+ADK	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+ADORA1	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+CDA	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+DNMT1	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+DPP4	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+FLT3	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+GHSR	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+HINT1	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+IARS1	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+MAPK14	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+MDM2	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+NCOA3	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+P2RX1	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+P2RX3	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+P2RX4	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+P2RY2	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+P2RY4	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+POLA	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+PRKAR1A	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+SLC28A1	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+SLC28A3	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+SLC29A1	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+SLC29A2	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+SLC29A3	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+SLC5A7	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+TDP1	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+TMIGD3	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+TRPM4	dti_jm_nhc	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+ADRA1D	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+APP	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+BACE1	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+CHRM2	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+DHFR	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+MPO	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+NQO2	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+PRNP	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+TLR7	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+TLR8	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+TLR9	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+TRAF3	dti_jm_hcq	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+KLK1	dti_jm_cam	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+PLG	dti_jm_cam	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+PRSS1	dti_jm_cam	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+SLC47A1	dti_jm_cam	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti
+TPSAB1	dti_jm_cam	False	Prediction by Jordi Mestres, PhD (JM)	File shared by JM	False	True	na	na	na	na	source:dti

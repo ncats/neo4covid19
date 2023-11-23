@@ -19,8 +19,12 @@ import sys
 
 from n4c_commons import *
 
-url_dc_dti = 'http://unmtid-shinyapps.net/download/drug.target.interaction.tsv.gz'
-url_dc_structures = 'http://unmtid-shinyapps.net/download/structures.smiles.tsv'
+# Legacy links:
+#url_dc_dti = 'http://unmtid-shinyapps.net/download/drug.target.interaction.tsv.gz'
+#url_dc_structures = 'http://unmtid-shinyapps.net/download/structures.smiles.tsv'
+
+url_dc_dti = 'https://unmtid-shinyapps.net/download/DrugCentral/2021_09_01/drug.target.interaction.tsv.gz'
+url_dc_structures = 'https://unmtid-shinyapps.net/download/DrugCentral/2021_09_01/structures.smiles.tsv'
 
 #local_dc_dti = 'drug.target.interaction.tsv.gz'
 #local_dc_structures = 'structures.smiles.tsv'

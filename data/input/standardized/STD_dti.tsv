@@ -1,0 +1,87 @@
+drug_name	host_protein	action_type	metadata	is_experimental	data_source	abbreviated_data_source	acquisition_method	prioritized_for_pathway_analysis	do_ppi_expansion	source_specific_score	source_specific_score_type	directed
+adenosine triphosphate	TRPM4	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+pentostatin	ADA	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	DPP4	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+alogliptin	DPP4	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytidine	CDA	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytarabine	POLA	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+clofarabine	POLA	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+fludarabine	POLA	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+gemcitabine	POLA	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+troxacitabine	POLA	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+remdesivir	POLA	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+N6-hydroxyadenosine	TDP1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	GHSR	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytarabine	FLT3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytarabine	ADORA1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+azacitidine	ADORA1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	ADORA1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cladribine	ADORA1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+clofarabine	ADORA1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+telbivudine	ADORA1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+binodenoson	ADORA1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+regadenoson	ADORA1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+tecadenoson	ADORA1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytarabine	TMIGD3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	TMIGD3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+remdesivir	TMIGD3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytarabine	MDM2	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	PRKAR1A	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	IARS1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	ADK	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+tubercidin	ADK	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+toyocamycin	ADK	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+azacitidine	DNMT1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+decitabine	DNMT1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	HINT1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	MAPK14	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytarabine	NCOA3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	SLC5A7	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	SLC28A1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytidine	SLC28A1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+uridine	SLC28A1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine	SLC28A3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytidine	SLC28A3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+uridine	SLC28A3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+cytidine	SLC29A1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+uridine	SLC29A1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+uridine	SLC29A2	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+uridine	SLC29A3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine triphosphate	P2RX1	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine triphosphate	P2RX3	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine triphosphate	P2RX4	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine triphosphate	P2RY2	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+uridine triphosphate	P2RY2	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+denufosol	P2RY2	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+diquafosol	P2RY2	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+adenosine triphosphate	P2RY4	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+uridine triphosphate	P2RY4	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+denufosol	P2RY4	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+diquafosol	P2RY4	unknown	Chemical space:NHC	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_nhc	File shared by JM	False	True	na	na	TRUE
+hydroxychloroquine	TLR9	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+chloroquine	TLR9	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+mepacrine	TLR9	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+hydroxychloroquine	TLR8	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+chloroquine	TLR8	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+mepacrine	TLR8	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+hydroxychloroquine	TLR7	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+chloroquine	TLR7	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+mepacrine	TLR7	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+hydroxychloroquine	MPO	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+metoclopramide	MPO	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+melatonin	MPO	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+hydroxychloroquine	CHRM2	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+mepacrine	CHRM2	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+hydroxychloroquine	ADRA1D	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+mepacrine	ADRA1D	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+chloroquine	DHFR	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+chloroquine	TRAF3	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+chloroquine	APP	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+chloroquine	BACE1	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+chloroquine	PRNP	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+chloroquine	NQO2	unknown	Chemical space:HCQ	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_hcq	File shared by JM	False	True	na	na	TRUE
+camostat	TPSAB1	unknown	Chemical space:CAM	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_cam	File shared by JM	False	True	na	na	TRUE
+camostat	PRSS1	unknown	Chemical space:CAM	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_cam	File shared by JM	False	True	na	na	TRUE
+camostat	PLG	unknown	Chemical space:CAM	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_cam	File shared by JM	False	True	na	na	TRUE
+camostat	SLC47A1	unknown	Chemical space:CAM	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_cam	File shared by JM	False	True	na	na	TRUE
+camostat	KLK1	unknown	Chemical space:CAM	False	Prediction by Jordi Mestres, PhD (JM)	dti_jm_cam	File shared by JM	False	True	na	na	TRUE

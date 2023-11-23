@@ -1,0 +1,488 @@
+pathogen_protein	host_protein	interaction	mechanism	metadata	directed	is_experimental	data_source	abbreviated_data_source	acquisition_method	prioritized_for_pathway_analysis	do_ppi_expansion	source_specific_score	source_specific_score_type
+SARS-CoV2 E	AP3B1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 E	BRD4	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 E	BRD2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 E	CWC27	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 E	ZC3H18	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 E	SLC44A2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	PMPCB	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	YIF1A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	ATP1B1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	ACADM	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	ETFA	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	STOM	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	GGCX	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	ATP6V1A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	PSMD8	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	REEP5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	PMPCA	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	ANO6	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	PITRM1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	SLC30A9	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	FASTKD5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	SLC30A7	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	TUBGCP3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	COQ8B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	SAAL1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	REEP6	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	INTS4	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	SLC25A21	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	TUBGCP2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	TARS2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	RTN4	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	FAM8A1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	AASS	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	AKAP8L	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	AAR2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 M	BZW2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	RRP9	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	PABPC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	CSNK2A2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	CSNK2B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	G3BP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	PABPC4	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	LARP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	FAM98A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	SNIP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	UPF1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	MOV10	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	G3BP2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	DDX21	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	RBM28	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 N	RPL36	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 Spike	GOLGA7	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 Spike	ZDHHC5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp1	POLA1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp1	PRIM1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp1	PRIM2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp1	POLA2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp1	COLGALT1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp1	PKP2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp10	AP2A2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp10	GFER	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp10	ERGIC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp10	AP2M1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp10	GRPEL1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp11	TBCA	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	SBNO1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	BCKDK	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	AKAP8	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	MYCBP2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	SLU7	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	RIPK1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	UBAP2L	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	TYSND1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	PDZD11	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	PRRC2B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	UBAP2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	ZNF318	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	CRTC3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	USP54	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	ZC3H7A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	LARP4B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	RBM41	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	TCF12	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	PPIL3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp12	PLEKHA5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	TBKBP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CIT	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	HSBP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	PCNT	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CEP43	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	PRKAR2A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	PRKACA	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	PRKAR2B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	RDX	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CENPF	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	TLE1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	TLE3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	TLE5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	GOLGA3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	GOLGA2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	GOLGB1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	GRIPAP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CEP350	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	PDE4DIP	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CEP135	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CEP68	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CNTRL	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	ERC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	GCC2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CLIP4	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	NIN	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CEP112	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	MIPOL1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	USP13	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	GCC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	JAKMIP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CDK5RAP2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	AKAP9	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	GORASP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	FYCO1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	C1orf50	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	CEP250	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	TBK1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	HOOK1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp13	NINL	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp14	GLA	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp14	IMPDH2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp14	SIRT5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp15	NUTF2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp15	ARF6	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp15	RNF41	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp2	SLC27A2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp2	EIF4E2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp2	POR	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp2	RAP1GDS1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp2	WASHC4	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp2	FKBP15	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp2	GIGYF2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp4	IDE	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp4	TIMM10	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp4	ALG11	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp4	NUP210	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp4	TIMM29	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp4	DNAJC11	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp4	TIMM10B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp4	TIMM9	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp5	HDAC2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp5_C145A	GPX1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp5_C145A	TRMT1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp6	ATP5MG	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp6	ATP6AP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp6	SIGMAR1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp6	ATP13A3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	AGPS	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	CYB5B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	ACSL3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	CYB5R3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RALA	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	COMT	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RAB5C	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RAB7A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RAB8A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RAB2A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RAB10	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RAB14	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RHOA	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RAB1A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	GNB1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	GNG5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	LMAN2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	MOGS	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	TOR1AIP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	MTARC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	QSOX2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	HS2ST1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	NDUFAF2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	SCCPDH	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	SCARB1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	NAT14	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	DCAKD	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	FAM162A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	DNAJC19	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	SELENOS	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	PTGES2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp7	RAB18	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	MPHOSPH10	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	SRP72	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	ATE1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	NSD2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	SRP19	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	SRP54	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	MRPS25	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	DDX10	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	LARP7	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	MEPCE	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	NGDN	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	EXOSC8	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	NARS2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	NOL10	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	CCDC86	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	SEPSECS	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	EXOSC5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	EXOSC3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	AATF	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	HECTD1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	MRPS2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	MRPS5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	EXOSC2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp8	MRPS27	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	GTF2F2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	FBN1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	FBN2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	NUP214	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	NUP62	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	DCAF7	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	EIF4H	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	NUP54	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	MIB1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	SPART	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	NEK9	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	ZNF503	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	NUP88	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	NUP58	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	MAT2B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 nsp9	FBLN5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf10	PPT1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf10	CUL2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf10	MAP7D1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf10	THTPA	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf10	ZYG11B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf10	TIMM8B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf10	RBX1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf10	ELOC	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf10	ELOB	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf3a	HMOX1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf3a	TRIM59	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf3a	ARL6IP6	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf3a	VPS39	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf3a	CLCC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf3a	VPS11	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf3a	SUN2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf3a	ALG5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf3b	STOML2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf6	NUP98	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf6	RAE1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf6	MTCH1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf7a	HEATR3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf7a	MDN1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	PLOD2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	TOR1A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	STC2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	PLAT	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	ITGB1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	CISD3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	COL6A1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	PVR	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	DNMT1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	LOX	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	PCSK6	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	INHBE	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	NPC2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	MFGE8	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	OS9	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	NPTX1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	POGLUT2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	POGLUT3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	ERO1B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	PLD3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	FOXRED2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	CHPF	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	PUSL1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	EMC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	GGH	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	ERLEC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	IL17RA	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	NGLY1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	HS6ST2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	SDF2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	NEU1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	GDF15	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	TM2D3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	ERP44	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	EDEM3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	SIL1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	POFUT1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	SMOC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	PLEKHF2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	FBXL12	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	UGGT2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	CHPF2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	ADAMTS1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	HYOU1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	FKBP7	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	ADAM9	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf8	FKBP10	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	SLC9A3R1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	CHMP2A	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	CSDE1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	TOMM70	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	MARK3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	MARK2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	DPH5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	DCTPP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	MARK1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	PTBP2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9b	BAG5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	UBXN8	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	GPAA1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	WFS1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	ABCC1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	F2RL1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	SCAP	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	DPY19L1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	TMEM97	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	SLC30A6	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	TAPT1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	ERMP1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	NLRX1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	RETREG3	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	PIGO	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	FAR2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	ECSIT	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	ALG8	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	TMEM39B	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	GHITM	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	ACAD9	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	NDFIP2	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	BCS1L	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	NDUFAF1	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	TMED5	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	NDUFB9	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 orf9c	PIGS	undefined	unknown	na	TRUE	True	SARS-CoV-2 - Human Interactome, Krogan et al.	hpi_krogan	Preprint/Nature, experimental data	False	True	na	na
+SARS-CoV2 E2 glycoprotein precursor (gene: S)	ACE2	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein	ACE2	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein precursor	ACE2	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	B2M	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein (gene: N)	B2M	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	BAG6	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein	CD4	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 E2 glycoprotein precursor (gene: S)	CD8A	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein	CD8A	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein precursor	CD8A	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 envelope protein	EP300	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 small envelope E protein	EP300	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	EZR	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	EZR	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	EZR	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	EZR	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein	FLT1	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	GRB2	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	GRB2	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	HSPA4	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 3-to-5 exonuclease (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 endoRNAse (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 leader protein (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	ISG15	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein	LILRB2	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	MSN	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	MSN	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	MSN	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	NEDD8	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	NEDD8	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	NEDD8	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	NEDD8	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	NUB1	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	NUB1	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	NUB1	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	OASL	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 Orf9	PCNA	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 hypothetical protein orf7b	PCNA	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	RAD23B	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	RAD23B	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	RAD23B	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	RPS27A	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	SPTBN5	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	SQSTM1	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	STAT1	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 envelope protein	STAT3	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	STAT3	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	SUMO2	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	TUBA1A	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	UBA52	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	UBA52	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	UBA52	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	UBA52	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 endoRNAse (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 leader protein (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	UBB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 2-O-ribose methyltransferase (2-o-MT) (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 3-to-5 exonuclease (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 endoRNAse (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 leader protein (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp8-pp1a/pp1ab (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp9-pp1a/pp1ab (gene: orf1ab)	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	UBC	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	UBD	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	UBD	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	UBD	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	UBD	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	UBQLN2	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	UBTD1	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 replicase 1AB	UHRF1	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein	VCAM1	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	YWHAB	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 E2 glycoprotein precursor (gene: S)	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 Orf13	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 Orf8	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 hypothetical protein sars7a	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 hypothetical protein sars9b	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 leader protein (gene: orf1ab)	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein (gene: N)	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein precursor	YWHAE	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	YWHAG	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 E2 glycoprotein precursor (gene: S)	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 Orf13	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 Orf8	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 hypothetical protein sars7a	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 hypothetical protein sars9b	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 leader protein (gene: orf1ab)	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein (gene: N)	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein precursor	YWHAQ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 E2 glycoprotein precursor (gene: S)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 Orf13	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 Orf8	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 RNA-dependent RNA polymerase (gene: orf1ab)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 excised_polyprotein 1..4369 (gene: orf1ab)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 formerly known as growth-factor-like protein (gene: orf1ab)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 full_polyprotein 1..4382	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 hypothetical protein sars7a	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 hypothetical protein sars9b	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 leader protein (gene: orf1ab)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp13-pp1ab (ZD, NTPase/HEL; RNA (gene: orf1ab)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp3-pp1a/pp1ab (gene: orf1ab)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp4-pp1a/pp1ab (gene: orf1ab)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nsp7-pp1a/pp1ab (gene: orf1ab)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 nucleocapsid protein (gene: N)	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
+SARS-CoV2 spike glycoprotein precursor	YWHAZ	undefined	unknown	na	TRUE	False	PHIPSTER predictions by by Tudor I. Oprea, MD PhD (TIO)	hpi_phipster	Predictions by PHIPSTER webapp, shared by TIO	False	True	na	na
