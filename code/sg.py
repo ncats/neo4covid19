@@ -46,37 +46,25 @@ FILE_URLS = '../cfg/urls.cfg'
 
 def sg_analysis (sources, targets):
     urls = parse_urls (FILE_URLS)
-    url_sg = urls['url_sg']
-    
-
+    url_sg = urls['url_sg'] #Ensure this is env variable is changed to remove '/{source_uniprot_ids}/{target_uniprot_ids}'
 
     headers = {'Content-Type': 'application/json', 'accept': 'application/json'}
 
-    cargo = {'shortest_paths': True,
-            'max_length': 3,
-            'confidence_cutoff': 0.0,
-            'directed': True
+    cargo = {
+        'source_uniprot_ids': sources,
+        'target_uniprot_ids': targets,
+        'shortest_paths': True,
+        'max_length': 3,
+        'confidence_cutoff': 0.0,
+        'directed': True
     }
 
-    url = url_sg
-
-    url += '/' + ",".join (sources) + '/' + ",".join (targets)
-
-    #print (url)
-    
-    cargo_json = json.dumps(cargo)
-
     try:
-        #api_response = requests.get(url = url, headers = headers)
-        api_response = requests.get(url = url, params = cargo, headers = headers)
+        api_response = requests.post(url = url_sg, data=json.dumps(cargo), headers = headers)
 
         result = api_response.json()
-        #print (result)
-
     except:
         raise Exception ("[ERROR] Something went wrong when calling SmartGraph endpoint.")
-
-
 
     return (result)
 
@@ -98,6 +86,8 @@ def list2string (l):
         
 
 def process_sg (json_sg_api):
+
+    #print (json_sg_api)
 
     data = json_sg_api
 
