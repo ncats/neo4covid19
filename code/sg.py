@@ -59,12 +59,20 @@ def sg_analysis (sources, targets):
         'directed': True
     }
 
+    print ()
+    print ("[->] SmartGraph analysis started. This may take a while ...")
+    print ()
+
     try:
         api_response = requests.post(url = url_sg, data=json.dumps(cargo), headers = headers)
 
         result = api_response.json()
     except:
         raise Exception ("[ERROR] Something went wrong when calling SmartGraph endpoint.")
+
+    print ("[*] SmartGraph analysis done.")
+    print()
+    print()
 
     return (result)
 

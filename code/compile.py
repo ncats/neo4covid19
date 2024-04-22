@@ -548,7 +548,7 @@ def build ():
 	# Build db
 	
 	print ('[->] Create and populate Neo4COVID19 knowledgebase ...\n')
-	print ('[**] This process may take several minutes. Thank you for your pateince!\n')
+	print ('[**] This process may take several minutes. Thank you for your patience!\n')
 	
 
 	
